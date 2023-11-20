@@ -1,4 +1,4 @@
-sVanilla Items:
+Vanilla Items:
 Scarfs:
 No-Stick Cap
 	A gray and teal cap that prevents items from getting sticky.
@@ -7,7 +7,7 @@ Pecha Scarf
 Persim Band
 	A purple scarf that prevents the wearer from being Confused.
 Weather Band	
-	A nice looking scarf that will prevent negative effects of weather from affecting the weather. If the weather 	is not clear, then damage will be boosted by 1.5 times.
+	A nice looking scarf that will prevent negative effects of weather from affecting the weather. If the weather is not clear, then damage will be boosted by 1.5 times.
 Defense Scarf
 	A steel colored scarf that will boost the wearer's Defense by 12.
 Detect Band
@@ -33,7 +33,7 @@ Cover Band
 Curve Band
 	A band that causes the power of thrown items to be doubled.
 Deluxe Ribbon
-	A jaw-droppingly gorgeous ribbon that can sell for a lot. When worn, you will take slightly less damage due to 	the wearer looking very adorable.
+	A jaw-droppingly gorgeous ribbon that can sell for a lot. When worn, you will take slightly less damage due to the wearer looking very adorable.
 Diet Ribbon
 	A ribbon that lowers the Belly of the leader faster or gives the Hungry Pal status to anyone else.
 Dodge Scarf
@@ -57,15 +57,15 @@ Lucky Ribbon
 Mach Ribbon
 	A bright red ribbon that boosts the wearer's Speed by 12.
 Mobile Scarf
-	A scarf that allows the wearer to walk over all types of terrain. However, your Belly will decrease by 5 for 	each tile that is not floor. If you run out of Belly, you will take 4 extra HP of damage per turn.
+	A scarf that allows the wearer to walk over all types of terrain. However, your Belly will decrease by 5 for each tile that is not floor. If you run out of Belly, you will take 4 extra HP of damage per turn.
 Nullify Bandanna
 	A bandanna that prevents the wearer's Abilities from working.
 Pass Scarf
-	A scarf that, if the wearer has Belly, will pass Physical type moves, where the attacker is one tile away, off 	onto adjacent enemies at random. If this is performed successfully, then the wearer's Belly will decrease by 3.
+	A scarf that, if the wearer has Belly, will pass Physical type moves, where the attacker is one tile away, off onto adjacent enemies at random. If this is performed successfully, then the wearer's Belly will decrease by 3.
 Phase Ribbon
-	A scarf that allows the wearer to walk through walls. However, when you are traversing through a wall, your 	Belly will decrease by 10 and the wall will be destroyed. If you run out of Belly in a wall, you will take 4 	extra HP of damage per turn.
+	A scarf that allows the wearer to walk through walls. However, when you are traversing through a wall, your Belly will decrease by 10 and the wall will be destroyed. If you run out of Belly in a wall, you will take 4 extra HP of damage per turn.
 Pierce Band
-	A band that causes all thrown items to go through walls and Pokémon. However, the item cannot be recovered. 	This does not work with thrown rocks.
+	A band that causes all thrown items to go through walls and Pokémon. However, the item cannot be recovered. This does not work with thrown rocks.
 Plain Ribbon
 	A ribbon that does nothing. Just a ribbon.
 Prosper Ribbon
@@ -73,19 +73,19 @@ Prosper Ribbon
 Recovery Scarf
 	A scarf that causes bad status effects, that can be cleared with time, to clear up faster.
 Sneak Scarf
-	A scarf that prevents the wear from waking up sleeping Pokémon. For Pokémon put to sleep by the wearer, the 	duration of sleep is tripled.
+	A scarf that prevents the wear from waking up sleeping Pokémon. For Pokémon put to sleep by the wearer, the duration of sleep is tripled.
 Sparkly Scarf
 	A very sparkly scarf that can be sold for a lot of money.
 Stamina Band
 	A band that lowers the rate of Belly consumption.
 Tight Belt
-	A belt that prevents the wearer's Belly from lowering, unless if the wearer steps through a wall then it lowers 	by 1.
+	A belt that prevents the wearer's Belly from lowering, unless if the wearer steps through a wall then it lowers by 1.
 Trap Scarf
 	A scarf that will always prevent negative traps from working.
 Warp Scarf
 	A scarf that has a chance at randomly warping the wearer around the floor.
 Aura Bow
-	A beautiful bow that is coursing with auric energy. It boosts the wearer's HP, MP (if human), Attack, Defense, 	Sp. Atk., Sp. Def., Speed, Agility, Strength, Resilience, and Intelligence by 3.
+	A beautiful bow that is coursing with auric energy. It boosts the wearer's HP, MP (if human), Attack, Defense, Sp. Atk., Sp. Def., Speed, Agility, Strength, Resilience, and Intelligence by 3.
 Insomniscope
 	A pair of glasses that prevent the wearer from going to sleep.
 Goggle Specs
@@ -101,6 +101,9 @@ Whiff Specs
 X-Ray Specs
 	A pair of glasses that will reveal the locations of items and Pokémon on the map.
 
+
+
+
 Look-a-likes:
 No-Slip Cap
 	A gray and teal cap that prevents items from getting sticky...
@@ -111,6 +114,9 @@ Gaggle Specs
 Y-Ray Specs
 	A pair of glasses that will reveal the locations of items and Pokémon on the map...
 	Prevents you from seeing items and enemies. If held by anyone else, they will gain the Blinker Status.
+
+
+
 
 Others
 Amber Tear
@@ -126,6 +132,9 @@ Miracle Chest
 	A chest of divine power and filled with the essence of pure miracles. When equipped, the wearer will gain 4x 	more experience points. In addition, this chest has a 30% to cause an incoming attack to miss. This is calculated 	separately to move accuracy.
 Space Globe
 	An artifact of divine power, filled with Arceus' power to manipulate time and space. Will cause the power of the 	holder's moves to be quadrupled (Does not affect: Strength, Resilience, or Intelligence)
+
+
+
 
 Custom Items:
 Rings:
@@ -166,12 +175,12 @@ Aquamarine Ring
 Heart Shard Ring
 	A beautiful Titanium ring with a Heart Shard gemstone set in it. This ring boosts the wearer's HP by 30.
 Prismarine Ring
-	A jaw-droppingly gorgeous ring with a Prismarine gemstone set in it. This ring boosts the wearer's Attack, 	Defense, Sp. Atk., Sp. Def., and Speed by 25. The wearer's HP is also boosted by 45.
+	A jaw-droppingly gorgeous ring with a Prismarine gemstone set in it. This ring boosts the wearer's Attack, Defense, Sp. Atk., Sp. Def., and Speed by 25. The wearer's HP is also boosted by 45.
 Scarfs:
 Torn Scarf
-	A scarf given by your partner. It's battered and worn with countless little holes, yet it still does something for 	you. Your Defense and Sp. Def are raised by 2.
+	A scarf given by your partner. It's battered and worn with countless little holes, yet it still does something for you. Your Defense and Sp. Def are raised by 2.
 Leather Scarf
-	A scarf made out of tanned Arachnicattle Leather. It boosts your Defense by 5.
+	A scarf made out of tanned® Arachnicattle Leather. It boosts your Defense by 5.
 	250 POKé
 	Crafted Item:
 		Leather (5)
@@ -184,6 +193,9 @@ Rawst Scarf
 	A scarf that when worn will give the wearer immunity to being Burned.
 Nimble Scarf
 	A ribbon that boosts the wearer's Agility by 12.
+
+
+
 
 Others:
 Lower end:
@@ -226,6 +238,9 @@ Chaos Powder
 	When attacked by a ranged attack (includes room wide moves), you have a small chance to chaotically rearrange 	yourself around the attack and end up in a position nearby, thus dodging it.
 Verglas Glove
 	An ice cold glove that radiates frigid temperatures, but surprisingly warm inside. When you attack an enemy, 	your attack as a chance to inflict Stasis upon them.
+
+
+
 
 Class specific:
 Ethereal Talisman
@@ -296,6 +311,9 @@ Rampart of the Empyrean
 		Phoenix Charm
 		Vampire Teeth	
 	You become one with the gods themselves.
+	
+	
+
 Bags:
 Worn Sack
 	A sack with many rips, tears, and patches. It's served your partner well, perhaps it will for you. Holds 8 items.
@@ -318,6 +336,9 @@ Empyrean Bag
 	A bag gifted to you from the Empyrean above. Holds 52 items.
 Bag of Holding
 	A bag from another plane of existence. Holds 80 items.
+
+
+
 
 Ideas:
 Golden Wings
