@@ -1,6 +1,6 @@
 Seeds:
 Ban Seed
-	Causes the eater's last used move to become disabled. If no move was used last, a random move would be 	disabled.
+	Causes the eater's last used move to become disabled. If no move was used last, a random move would be disabled.
 Blast Seed
 	When eaten a blast of flame erupts from the eaters mouth, dealing 30-60 damage. If thrown, it will explode if 	it hits a target dealing 20- 35 damage instead. If the weather is 
 Blinker Seed
@@ -34,10 +34,14 @@ Warp Seed
 X-Eye Seed
 
 Custom:
+Hard Seed
+	A very, very hard seed. Can be thrown for 5-20 damage.
+Jawbreaker Seed
+	How can you eat this monster?! Can be thrown for 50-100 damage.
 Sacred Seed
-	A seed that contains divine levels of power. When eaten, the consumer will gain vastly increased powers. The 	damage of moves is double. The damage you take is reduced by 0.5x. This lasts for 10 turns.
+	A seed that contains divine levels of power. When eaten, the consumer will gain vastly increased powers. The damage of moves is double. The damage you take is reduced by 0.5x. This lasts for 10 turns.
 Hardblow Seed
-	A seed filled with a very powerful wind. When eaten, the user will blow a powerful wind to blow back the 	Pokémon in front of the user. If the blown back Pokémon collides with a wall or with anothr Pokémon, they 	both will take 5-10 damage.
+	A seed filled with a very powerful wind. When eaten, the user will blow a powerful wind to blow back the Pokémon in front of the user. If the blown back Pokémon collides with a wall or with anothr Pokémon, they 	both will take 5-10 damage.
 
 Lookalikes:
 Reviser Seed
