@@ -1,6 +1,8 @@
 Mechanics:
-	Materials are a key item for crafting materials that can hel you along on your journey. Unlike other games, you 	new extra help to turn these materials into useful items, instead of making them yourself.
+	Materials are a key item for crafting materials that can hel you along on your journey. Unlike other games, you need extra help to turn these materials into useful items, instead of making them yourself*.
 	They are found throughout the world in the various dungeons in their raw forms. They are as follows
+	
+	*You can make some stuff by yourself (very basic crafting). The idea of this is to use a shopkeeper who has skills in tinkering or blacksmithing, instead of you. Don't expect crafting stations like in minecraft or Terraria.
 Materials:
 Raw Materials:
 Leather
@@ -33,6 +35,7 @@ Raw Solarium
 Pure Shade
 	A material shrowded in darkness.
 
+
 Refined Materials
 Leather
 Bronze
@@ -48,18 +51,31 @@ Voidshade
 Ingredients:
 See "Drinks and Brews"
 
-Crafting Materials:
+Common Materials:
+Cloth Scrap
+	A scrap of cloth.
+Cloth Bag
+	A bag made of cloth.
+Metal Powder
+	A bag of crushed, powdered metal.
+Rust Powder
+	A bag of rusted, tiny shards. Careful, or you'll need to be treated for poison.
+Soft Sand
+	A bag of soft sand, gathered from a beach or shore.
+
+Special Materials:
 Ember Wing
-	A wing made of pure fire.
+	A wing of pure fire.
 	Obtained after defeating Moltres???
 Ancient Instructions
 	An ancient scroll filled with instuctions on how to make a powerful accessory.
 	Obtained from:
 		Hellcastle????
 		Ancient Library????
-		Spinda
+		Spinda???
+		IDK Man.
 Hell Blood
-	A vile of old demonic blood, pulsating with darkness energy.
+	A vile of old, dark, demonic blood, pulsating with said dark energy.
 Ectoplasm
 Stardust
 	The broken shards of a fallen star.
@@ -70,5 +86,5 @@ Dark Matter
 Philosopher's Stone (?)
 	The stone of myths, legends, and life. Used for making the Elixir of Life.
 Essence of Mystery
-
+	The raw mystery that surrounds the world.
 

@@ -1,33 +1,41 @@
-Ranks:
-Land:
+~~ Ranks:
+~ Land:
 Recruit
+J1: Angel
+J2: Lance Corporal
+J3: Corporal
+J4: Sergeant
+J5: Centurion
+J6: Prefect
+S1: Lieutenant
+S2: Captain
+S3: Major
+S4: Colonel
+S5: Brigadier
+S6: Commandant
+
+Sea:
+
+Air:
+
+King's Guard:
+
+~ Groupings:
 Angel
-Lance Corporal
-Corporal
-Centurion
-Prefect
-Lieutenant
-Captain
-Major
-Colonel
-Brigadier
-
-Sea
-
-Air
-
-King's Guard
-
-Groupings:
-Angel
+	J1~J3
 Archangel
+	J4~J6
 Lord
+	S1, S2
 Earl
+	S3, S4
 Duke
+	S5
 Prince
+	S6
 King
 
-Super posh address:
+~ Super posh address: (This is the formal adress for someone. It is based off of the grouping they are in.)
 Angel Pokémon
 Archangel Pokémon
 The Lord of Land

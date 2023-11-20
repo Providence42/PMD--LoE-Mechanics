@@ -120,18 +120,18 @@ Y-Ray Specs
 
 Others
 Amber Tear
-	A large piece of amber shaped like a tear. When equipped, attacks that are not very effective or lower heal the 	wearer. The values are as follows.
+	A large piece of amber shaped like a tear. When equipped, attacks that are not very effective or lower heal the wearer. The values are as follows.
 		Not very effective: 10% of current HP. Damage is reduced by half.
 		Little effect: 20% current HP. Damage is negated.
 		Little to no effect: 30% of current HP. Damage is negated.
 Golden Mask
-	A golden mask from an ancient civilization from long ago. When wearing this mask, your recruiting chances are 	boosted by 5x. Also, the power within this mask gives the wearer a 5% chance to completely dodge an attack.
+	A golden mask from an ancient civilization from long ago. When wearing this mask, your recruiting chances are boosted by 5x. Also, the power within this mask gives the wearer a 5% chance to completely dodge an attack.
 Wonder Chest
 	A chest filled with wonder and mystery. When equipped, you will gain 3x more experience points.
 Miracle Chest
-	A chest of divine power and filled with the essence of pure miracles. When equipped, the wearer will gain 4x 	more experience points. In addition, this chest has a 30% to cause an incoming attack to miss. This is calculated 	separately to move accuracy.
+	A chest of divine power and filled with the essence of pure miracles. When equipped, the wearer will gain 4x more experience points. In addition, this chest has a 30% to cause an incoming attack to miss. This is calculated 	separately to move accuracy.
 Space Globe
-	An artifact of divine power, filled with Arceus' power to manipulate time and space. Will cause the power of the 	holder's moves to be quadrupled (Does not affect: Strength, Resilience, or Intelligence)
+	An artifact of divine power, filled with Arceus' power to manipulate time and space. Will cause the power of the holder's moves to be quadrupled (Does not affect: Strength, Resilience, or Intelligence)
 
 
 
@@ -200,7 +200,7 @@ Nimble Scarf
 Others:
 Lower end:
 Rusty Locket
-	A locket coated in a thick layer of rust that is unable to be opened. It's presence on your person when you awoke 	gives you a sense of mystery, curiosity, and dread.
+	A locket coated in a thick layer of rust that is unable to be opened. It's presence on your person when you awoke gives you a sense of mystery, curiosity, and dread.
 Clawed Gloves
 	A pair of clawed gloves that boost the damage of Physical attacks by 5.
 	Can be bought from the equipment shop.
@@ -217,7 +217,7 @@ Wrath Pendant
 Bright Crown
 	A crown made of smarty looking materials. Will increase your Intelligence by 30.
 Health Pendant
-	A charm that radiates life energy. It boosts the wearer's natural health regeneration. The lower the wearer's HP, 	the higher wearer's health regeneration is boosted.
+	A charm that radiates life energy. It boosts the wearer's natural health regeneration. The lower the wearer's HP, the higher wearer's health regeneration is boosted.
 Ring of Regeneration
 	A ring made of life radiating materials. The wearer will gain 5 HP per turn of regeneration.
 Life Dew
