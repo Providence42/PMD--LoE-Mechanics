@@ -1,0 +1,35 @@
+Weather:
+Clear
+	Standard weather. Clear, warm, and pleasant.
+Sunny
+	The sun light has increased drastically. Fire type move damage is doubled and Water type move damage is 	halfed. Pokémon who are greatly effected by the Fire type cannot naturally regenrate HP. Explosive damage (like 	Explosion, Self-Destruct, Blast Seed, etc...) is doubled. Pokémon affected by a Burn will take 1 damage every 	turn.
+Foggy
+	The clouds cover and diffuse the light above. Your move accuracy is lowered and Electric type move damage is 	halfed.
+Snow
+	A light snow begins to fall over the dungeon. The movement speed of Ice type Pokémon is doubled and Ice type 	move damage is doubled. Pokémon who are greatly effected by the Ice type cannot regenerate HP.
+Rain
+	A light rain begins to fall from dark clouds above. Water type move damage is doubled while Fire type move 	damage is halfed. Pokémon who are greatly effected by the Water type cannot naturally regenrate HP. The floor 	becomes Defused (all explosives are disabled). Pokémon affected by a Burn will take 1-3 damage every 8 turns.
+Hail
+	Large ice chunks fall from the sky and batter the ground. All Pokémon, who are not Ice type, will take 3-5 	damage every 10 turns and cannot regenerate HP.
+Sandstorm
+	A wind filled with rocks, sand, and dust cover the skies. All Pokémon, who are not Ground or Rock types, will 	take 3-5 damage every 10 turns and cannot regenerate HP.
+Cloudy
+	Large clouds cover the sun. Reduces damage of all non-Normal type moves by 0.9x.
+Harsh Sunlight
+	The sun light is beginning to burn your skin. Fire type move damage is tripled and Water type move damage is 	quartered. Pokémon who are greatly effected by the Fire type cannot naturally regenrate HP and will take 2-3 	damage every 1- turns. Explosive damage (like Explosion, Self-Destruct, Blast Seed, etc...) is tripled. Pokémon 	affected by a Burn will take 2 damage every turn.
+Heavy Rain
+	The rain begins to grow into a relentless battering of water. Water type move damage is tripled while Fire type 	move damage is quarterd. Pokémon who are greatly effected by the Water type cannot naturally regenrate HP 	and take 2-3 damage every 10 turns. The floor becomes Defused (all explosives are disabled). Pokémon affected 	by a Burn will take 1-2 damage every 10 turns.
+Windy
+	The howling winds pick up. Moves that would greatly affect Flying type Pokémon will only be normally effective.  	Flying type moves will be doubled.
+Rainbow Light
+	A holy, divine light pierces through the clouds. When the divine light touches your team when not caused by a 	Pokémon, you and your team gain a major boost to all stats. Your HP regenration is doubled, your Attack, 	Defense, Sp. Atk., Sp. Def., and Speed are all doubled. All negative status effects will be healed. However, if 	caused by a different Pokémon, the effects above will happen to them instead.
+
+Custom:
+Drought
+Hurricane
+Thick Fog
+Blizzard
+Tornado
+Divine Light
+Electric Storm
+Acid Rain

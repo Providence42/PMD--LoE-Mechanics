@@ -1,0 +1,15 @@
+For picking what types of weapons you can use in my game you can pick a class from this: (For everyone! Including Pokémon!)
+Melee
+	Swordsman (Swords)
+	Tanker (Maces, Pikes, etc...)
+	Assassian (Daggers, etc...)
+Ranged
+	Archer (Bows)
+	Sharpshooter (Guns)
+	Thrower (Throwing weapons)
+Magic
+	Staff Wielder
+	Rune Caster
+	 
+Traditional
+	

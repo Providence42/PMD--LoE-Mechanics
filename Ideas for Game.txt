@@ -1,0 +1,38 @@
+Ideas for game: Bold is done Italics is maybe done? Bug Fix Normal is not done
+Add chests that can randomly spawn within dungeons (rare)
+Add a exit to a secret location within dungeons
+Add a secret cove (island) in lake spawns that has a chest.
+Add a treasure trove room. This room is a rare spawn that can happen whenever you break one of the material spawns in a dungeon (tree, tree stump, rock, ore, etc). It spawns underneath the mining spawn. It is a stash of loot.
+Add an endless dungeon but the wind limit keeps decreasing.
+Implament slow movement speed
+Add secret hidden rooms with goodies in free roam parts of game
+Use an external JSON file to manageanimations for dungeon tile sets
+Add areas around the game in "free play zones" that contain Life Fruits
+Add storage things. Could be chests in house, or a sotrage box, idk rn.
+Make it so moves are used based off of the Moves in structs system, not just created on the fly.
+Add a sunburn mechanic with medicine to cure it
+Add locked chests in dungeons
+Make it so that pokemon defeated with status effects still give exp (99%)
+Add an AI use type to moves
+Make it so void damage does not kill?
+Add a temperqatue mechanic with dungeon temperatures (RLCraft)
+Add bloated enemies that drop some items that can be found in dungeons.
+Add an item that can restore Mana like the Mana Flower in Terraria
+Add a variant of Tresure Troves that contain an ambush
+Add crumbling paths in ruins dungeons (like from terraria)
+Add Adamantite as a material type? But the DND kind
+
+Change how Strength, Resillience, and Intellegence work.:
+	Vigor: Extra Melee damage
+	Dexterity: Extra Ranged damage
+	Wisdom: Extra Magic damage
+
+	Strength: Normal Attack mult
+	Resillience: Damage reduction
+	Intellegence: Special Attack mult
+
+
+Revamp external Pokemon format to include forms, gender ratios, drop rates
+Switching spots takes up both's turns
+
+For obj_DealDamage, maybe make that part of obj_effect. As in, make that it's parnet. That way, we can get the one by one damage thing easily. Of course, the system already has obj_DealDasmage but maybe for other stuff? IDK just an idea.

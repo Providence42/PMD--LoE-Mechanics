@@ -1,0 +1,44 @@
+Dungeons:
+Warped Forest
+	Type: Bug, Grass, Flying
+Cracked Field:
+	Type: Bug, Normal
+Bottleneck Ridge:
+	Type: Rock, Ground
+Bottleneck Ravine
+	Type: Rock Ground
+Charred Valley
+	Type: Fire, Rock
+Charred Ruins:
+	Type: Fire, Rock
+Shimmering Forest
+Dimming Forest
+Forgotten Forest
+Mt. Dread
+Mt. Dread Peak?
+Temple of the Fallen
+Lake Oasis
+Mt. Ordo
+Abandoned Sewer
+Sanctuary: Ordo
+Bramble Jungle
+Jungle Temple
+Frosted Shore
+Chilled Ocean
+Icicle Island
+Mt. Everfreeze
+Iced Temple
+Frozen Temple
+Aero Archipelego
+Sky Island
+Sky Mountain
+Sky Mountain Peak
+Temple of the Heavens
+~ Europa ~
+Sunsmited Desert
+Solarsmited Cave
+~ Terra ~
+Divine Pillar
+Divine Pinnicle
+~ Dark World ~
+Torment Plains

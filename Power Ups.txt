@@ -1,0 +1,9 @@
+Power-ups
+Mechanics:
+Items:
+Life-Boosting:
+Fruit of Love
+	A blood read fruit that emits a familiar, loving, aura. When eaten, this energy will boost your Love by 5.
+Soul-Boosting:
+Soul Sphere
+	A sphere of unknown origin and power. It radiates with divine energy. When used, it will boost your SP by one 	and fully heal it.

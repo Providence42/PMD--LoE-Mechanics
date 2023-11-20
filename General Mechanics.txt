@@ -1,0 +1,84 @@
+Base Mechanics
+Level
+	This is the general level of power. Used in move damage calculation. Cap is 100 but can be increased to 150.
+HP (Hit Points)
+	The general life force of your being. When your HP drops to 0, you faint. On hardcore, you will be knocked out		and you will take damage to your soul instead (DP).
+MP (Mana Points)
+	The force of magic flowing through your body. Only humans have this force. Measures your casting ability for
+	spells.
+SP (Soul Points)
+	The life force of your soul. If this number reaches 0, you will die. Can only be regenerated or increased through
+	special methods.
+
+Belly
+	Your hunger. Can be refilled by eating food. If you run out of Belly, you will begin to starve. Goes down faster if 	you are in a wall.
+	If you are on a tile that is NOT normal floor, and run out of Belly, you will take 4 HP of damage instead of
+	1.
+Thirst
+Temperature
+	See Temperature document.
+
+Attack
+	The general Attack power of your Pokémon. Represents
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Agility
+
+Strength
+Resilience
+Intelligence
+
+Vigor
+Dexterity
+Wisdom
+
+Love
+
+Stats:
+Hit Points (HP)
+	One of the main stats, and easily the one you should most watch. This is the life of your character. If it reaches 	0, you faint. (Or if it's Hardcore, you will be knocked out.)
+	If you faint, you will fail the mission and will be sent back outside the dungeon.
+	If you are knocked out, then you will be immoble and forced to take damage via DP.
+Mana Points (MP)
+	One of the main stats. This stat only applies to Humans, and not Pokémon.
+	This allows you to cast magic. If it reaches 0, you can't cast magic.
+Death Points (DP)
+	One of the main stats and the most important. This is the power of your soul. You only take damage when you 	are knocked out.
+	If this reaches 0, you die.
+Armor Points (AP)
+	This is the stat that determines how much armor you are able to equip.
+Attack
+	Determines the power of Physical type moves.
+Defense
+	Determines how much Physical attacks are lowered by.
+Special Attack (Sp. Atk.)
+	Determines the power of Special type moves.
+Special Defense (Sp. Def.)
+	Determines how much Special attacks are lowered by.
+Speed
+	Determines your chances of hitting an enemy. (Capped at +-50)
+Agility
+	Determines your Critical hit rate against an enemy. (Capped at +-33%)
+Love
+	Determines your HP boosts (outside of normal boosts)
+
+
+The following are only affected by Armor and Accesories.
+Strength
+	Determines how much your physical attacks are multiplied by. Capped at 100.
+Intelligence
+	Determines how much your special attacks are multiplied by. Capped at 100.
+
+Wrath
+	Determines how much your attacks are boosted in general.
+Resilience
+	Determines how much incoming damage is reduced by.
+
+Vigor
+	Determines how much your Melee damage is boosted.
+Dexterity
+	Determines how much your Ranged damage is boosted.
+Wisdom
+	Determines how much your Magic damage is boosts.

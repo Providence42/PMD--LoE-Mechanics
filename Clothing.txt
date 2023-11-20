@@ -1,0 +1,23 @@
+Clothing (Humans): Debating whether to include this or not
+Mechanics:
+Base:
+	Humans are much weaker than Pokémon, therefore, they must use other clothing to help with the weather.
+Items:
+Cold:
+Greatcoat
+Fur Hat
+Boots
+
+Hot:
+Kepi
+Top Cape
+
+Standard Clothes:
+Sweatshirt
+Shirt
+Pants
+Shorts
+Dress
+Skirt
+Shoes
+

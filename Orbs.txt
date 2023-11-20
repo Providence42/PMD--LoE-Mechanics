@@ -1,0 +1,113 @@
+ Orbs:
+Align Orb
+	Makes teammates' HP equal that of the teammate with the highest HP.
+All Dodge Orb
+	Greatly increases the evasion of the user's team.
+All-Hit Orb
+	Greatly increases the critical hit ratio of the user's team.
+All-Mach Orb
+	Greatly boosts the movement Speed of the user's team.
+All Power-Up Orb
+	Greatly increases the Attack and Sp. Atk. of the user's team.
+All Protect Orb
+	Will give the Protect status to all members of the user's team. The larger the team, the longer the status lasts.
+Apathy Orb
+	Using this orb will make the floor Apathetic, making any enemy drop the item they are holding and unable to 	pickup any more. Their movement Speed is also lowered upon the use of this item, but not for the entire duration 	of the floor.
+Bank Orb
+	Using this item will deposit all money on the user into storage.
+Beatup Orb
+	It will summon all members of the team around the user.
+Blowback Orb
+	When used, it sends an enemy in front of the user flying back for 10 tiles. If the enemy hits a Pokémon or a 	wall tile it will take 10 damage.
+Cleanse Orb
+	It will cleanse any sticky items in the inventory, re-allowing use.
+Decoy Orb	
+	It will turn a Pokémon in front into a Decoy, causing all enemy Pokémon to attack it.
+Devolve Orb
+	An extremly powerful orb that devolves enemy Pokémon by one stage when smashed. Stage one Pokémon are 	uneffected.
+Drought Orb
+	An orb that will dry up all water on the floor when smashed.
+Escape Orb
+	When smashed, the user and their team will escape from the dungeon.
+Evasion Orb
+	An orb that will greatly increases the evasion of the user when smashed.
+Fill-In Orb
+	An orb that, when smashed, will fill in water with floor tiles.
+Foe-Fear Orb
+	An orb that, when smashed, will cause all enemies in the room to flee, as they are given the Terrified status.
+Foe-Hold Orb
+	An orb that, when smashed, will Petrify all enemies in the room.
+Foe-Seal Orb
+	An orb with a lethargic aura. When smashed, it will Pause all enemies in the room.
+Hail Orb
+	An orb with a small blizzard inside. When smashed, it will change the weather to Hail.
+Health Orb
+	An orb that, when smashed, will revert all negative status changes and negative debuffs to normal.
+Helper Orb
+	An orb that, when smashed, will summon a randomly selected rescue team to join your party for the dungeon.
+Hurl Orb
+	An orb with a gust inside of it. When smashed against a Pokémon, it will be hurled toward another enemy 	Pokémon.
+Identify Orb
+	An orb that, when smashed, will identify all Pokémon on the floor, and specially mark the ones holding items. It 	will also identify, items on the ground, traps, buiried items in walls and floor, and money.
+Invisify Orb
+	An item that will turn the entire team invisible when smashed.
+Inviting Orb
+	An orb with an inviting aroma. When smashed, the user gains a boosted recruitment rate.
+Itemizer Orb
+	An orb that, when smashed against a Pokémon, will turn them into a random item, featured in the dungeon. 	Includes, the standard item, shop item, buried item, and treasure item loot pool.
+Lasso Orb
+	An orb that, when smashed, will summon all Pokémon on the floor to the user's location, and immobilizes them.
+Lob Orb
+	An orb that, when smashed, will inflict 20-40 damage on an opponent from 2 tiles away.
+Longtoss Orb
+	An orb that, when smashed, the user will be able to throw items until they hit something. Does not work on 	rocks.
+Luminous Orb
+	An orb that, when smashed, reveals the entire floor to the user and the stairs. It does not reveal anything else.
+Mobile Orb
+	An orb that, when smashed, will allow the user to walk through walls.
+Monster Orb
+Mug Orb
+Nullify Orb
+Observer Orb
+One-Room Orb
+One-Shot Orb
+Petrify Orb
+Pierce Orb
+Possess Orb
+	An orb that will break upon the fainting or death of the team leader, if in the bag. If a Pokémon is holding this 	item, they will gain the effect instead. When this orb breaks, the fainted or dead Pokémon will possess a 	member of their team with the lowest HP, replacing them for the rest of the dungeon. The possessed Pokémon 	will be revived at the end of the dungeon.
+Pounce Orb
+Quick Orb
+Radar Orb	
+Rainy Orb
+Rebound Orb
+Reset Orb
+Revive All Orb
+Reviver Orb
+Rocky Orb	
+Rollcall Orb
+Sandy Orb	
+Scanner Orb
+See-Trap Orb
+Shocker Orb
+Silence Orb
+Sizebust Orb
+Slow Orb
+Slumber Orb
+Snatch Orb
+Spurn Orb	
+Stairs Orb
+Stayaway Orb
+Storage Orb
+Sunny Orb	
+Surround Orb
+Switcher Orb
+Toss Orb
+Totter Orb
+Transfer Orb
+Trapbust Orb
+Trapper Orb
+Trawl Orb	
+Two-Edge Orb
+Warp Orb
+Weather Lock Orb
+Wigglytuff Orb

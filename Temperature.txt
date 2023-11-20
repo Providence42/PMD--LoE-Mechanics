@@ -1,0 +1,51 @@
+Temperature
+Mechanics:
+Temperature is an effect that only occurs in Expert or higher. And it is affected by many different things and sources.
+Here is what effects it:
+Time of day
+Current weather
+Climate where dungeon is located
+Stepping on certain floor tiles
+Being near certain floor tiles
+Changing floors
+Being attacked by certain types of moves.
+Wearing armor.
+Your type also affects temperature effects. For example, Fire type Pokémon are resistant to hot temperature changes.
+Upon entering a floor, the temperature change value of the dungeon will be applied to the temperature of everyone on your team, (partners get that value applies less) with a portion of that value being applied every turn in VERY SMALL amounts. The main natural temperature change comes from switching floors.
+Thresholds for temperature are as follows: 
+Freezing: -25F
+Chilled: 0F
+Cold: 25F
+Normal: 50F
+Warm: 75F
+Hot: 100F
+Burning: 125F
+
+Freezing: You will be inflicted with Hypothermia. Ice attacks will randomly inflict the Stasis debuff for 3-5 turns.
+Chilled: You will be more susceptible to Ice type attacks
+Cold: Nothing drastic.
+Normal
+Warm: Nothing drastic.
+Hot: You will be more susceptible to Fire type attacks.
+Burning: You will be inflicted with Hyperthermia. Fire attacks will set you On Fire (Flaming) instead of inflicting a Burn.
+
+Type match ups can mitigate the effects of temperature. For example, Fire type Pokémon would resist Hypothermia as it deals ice damage.
+
+Debuffs:
+Hypothermia
+You are frozen to the core. Every 5 turns you will take 2 HP of Ice damage.
+Hyperthermia
+You are burning to the core. Every 5 turns you will take 2 HP of Fire damage.
+
+Items:
+Bag of Warm Coals
+A sack filled with slightly warm coals. Will warm up 5 degrees.
+Crafted Item:
+2 Coal
+1 Cloth Pouch
+1 Smoldering Tinder
+Sun Rag
+A wet rag for cooling off your head. Will cool off 5 degrees.
+Crafted Item:
+1 Cloth Rag
+2 Water Bottles

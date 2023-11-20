@@ -1,0 +1,9 @@
+Units of the Angels
+Corps:
+	Division of Land
+	Division of Sea
+	Division of Air
+	Regiment of Health
+	Battalion of Police
+	King's Guard
+		Wear a short jacket, white pants, and black boots. It has red piping around. More elabrate uniforms

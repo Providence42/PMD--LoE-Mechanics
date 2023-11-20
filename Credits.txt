@@ -1,0 +1,2 @@
+Credits:
+Shoutout to aarthificial for giving me the idea to render the human sprites as a UV coord.

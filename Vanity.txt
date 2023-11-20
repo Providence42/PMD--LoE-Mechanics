@@ -1,0 +1,28 @@
+Vanities:
+Humans:
+Head
+Jackets
+Sweatshirt
+Jacket
+Flannel
+Short Jacket
+
+
+Shirts
+T-Shirt
+Pollo
+Sleeve-Less
+Crop-Top
+
+Legs
+Pants
+Shorts
+Dress
+Skirt
+
+Boots
+Sneakers
+Boots
+Sandals
+Mary Jane's
+

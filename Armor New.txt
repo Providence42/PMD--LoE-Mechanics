@@ -1,0 +1,103 @@
+Mechanics:
+Base Mechanics:
+	There is a set amount of armor points that a character has.
+	Pokémon: 8 * evolution level
+	Humans:
+	Paladin:
+		15 AP
+		D = Defense
+	Grenadier:
+		12 AP
+		D = (Defense + Sp. Defense) / 2
+	Warlock:
+		8 AP
+		D = Sp. Defense
+
+	AP is also boosted by floor(D / 35)
+	You can only equip enough armor to use the armor points. If you run out or have less than the armor piece you 	are trying to equip, then you cannot equip it.
+How To Get:
+	You can find armor, craft it (with help), or can be given it.
+
+Armor Stats:
+Material Types:
+Plate
+	6 AP
+	-10 SP (Speed)
+	7 DF
+Hide
+	2 AP
+	5 SP
+	3 DF
+	3 SD
+	Can only be made out of specific materials
+Chain
+	3 AP
+	5 DF
+Scale
+	4 AP
+	5 DF
+
+Armor Types:
+Helmet
+	8 Defense
+Hat
+	2 Defense
+	3 Sp. Defense
+	Only out of hide.
+Breastplate
+	10 Defense
+	Only out of plate
+Shirt
+	5 Defense
+	3 Sp. Defense
+	Only out of everything else
+Greaves
+	7 Defense
+Leggings
+	4 Defense
+	3 Sp. Defense
+	Only out of hide and chain.
+Boots
+	3 Defense
+
+Materials:
+Leather
+Studded Leather
+	1 Defense
+Bronze
+	1 Defense
+Iron
+	3 Defense
+Steel
+	5 Defense
+// Can only have one of these (like exotic armor)
+Saltulium
+	7 Defense
+	3 Sp. Defense
+	5 Dexterity
+	1 AP
+	Considered a hide material
+Ferozium
+	7 Defense
+	3 Sp. Defense
+	5 Wisdom
+	1 AP
+	Has a chance to freeze enemies on contact.
+Superbium
+	7 Defense
+	3 Sp. Defense
+	5 Vigor
+	1 AP
+	Reduces physical attacks by 0.8x
+Solarium
+	9 Defense
+	5 Sp. Defense
+	2 AP
+	Will ignite enemies with Flame upon contact with a 50% chance.
+Shadow
+	15 Defense
+	15 Sp. Defense
+	3 AP
+	3 Vigor, Wisdom, Dexterity
+	Will linflict Voidflames upon contact with a 30% chance.
+	If you have more than one piece equipped, you will take Void damamge with every attack taken. The more pieces 	the more damage.

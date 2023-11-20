@@ -1,0 +1,36 @@
+Classes:
+Paladin
+Your hardy heart and study soul gift you with a build that could rival a truck. Your ability to get all close and personal with the enemy is equal to your ability to swing a melee weapon.
+Your class weapons of choice are swords, hammers, axes, etc.
+Stats
+HP: 70
+MP: 35
+AT: 65
+DF: 80
+SA: 55
+SD: 40
+SP: 55
+
+Grenadier
+Your survivalist instincts and keen mind gift you with an impecably steady hand. You can track, shot, and kill anything you need to from the farthest of distances, with style.
+Your class weapons of choices are bows, crossbows, firearms, and daggers.
+Stats
+HP: 55
+MP: 45
+AT: 55
+DF: 45
+SA: 70
+SD: 55
+SP: 80
+
+Warlock
+Your intellegience and wisdom gift you with magic. You've gained the ability to reach out into the fabric of the universe and perform feats that normal humans would worship like a god.
+Your class weapons of choice are wands.
+Stats
+HP: 35
+MP: 80
+AT: 40
+DF: 35
+SA: 85
+SD: 85
+SP: 40

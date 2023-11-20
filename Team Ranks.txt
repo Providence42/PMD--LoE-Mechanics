@@ -1,0 +1,25 @@
+Rescue Ranks:
+None
+	No Team Affiliation
+Wood
+	First Team Rank (Rank you get when getting a team)
+Rookie
+	
+Normal
+Bronze
+Silver
+Gold
+Platinum
+Diamond
+Super
+Ace
+Ultra
+Hyper
+Royal
+Master
+Bronzemaster
+Silvermaster
+Goldmaster
+Guildmaster
+Grandmaster
+Legenoir

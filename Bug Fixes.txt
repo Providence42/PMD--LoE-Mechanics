@@ -1,0 +1,4 @@
+Things I have to fix:
+Make sure level up animation is on same depth as character
+? Make sure that proceed button can be hit with controller
+? Make sure that music fades out upon leveling up.

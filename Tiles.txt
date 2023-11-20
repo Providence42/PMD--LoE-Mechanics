@@ -1,0 +1,85 @@
+Tiles:
+Wonder Tile
+Gold Tile
+Sparkling Tile
+Hidden Stairs
+Trasure Trove
+Chest
+
+Traps:
+Apple Trap
+	Turns a random non-hold item into an Apple
+Blast Trap
+	Acts like the triggerer was just hit by a Blast Seed.
+Big Blast Trap
+	Acts like the triggerer was just hit by a Blast Seed, but the damage is multiplied by 1.5x
+Chestnut Trap
+	A bunch of Chestnuts will fall on the triggerer, dealing 10-20 damage.
+Discord Trap
+	Will give the triggerer the Discord status.
+Ditto Trap
+	Looks like an item of the dungeon, however, is a Ditto in disguise.
+Explosion Trap
+	Acts like the move Explosion was just activated.
+Grimy Trap
+	Will turn 0-2 edible items in the bag into Grimy Food.
+Grudge Trap
+	Will effect every Pokémon on the floor with a Grudge.
+Gust Trap
+	Will fling the triggerer in a random direction. If the flinged Pokémon hits another, it and the Pokémon it hit will 	take 5 damage.
+Hunger Trap
+	Will lower the Belly of the triggerer by 20-40.
+Mud Trap
+	Will lower Attack, Defense, Sp. Atk, Sp. Defense, Speed, Evasion, or Accuracy by 3 stages, or Movement Speed 	by 1
+Pitfall Trap
+	If the triggerer is the player, they will take 10 damage and proceed to the next floor. Otherwise, the Pokémon 	will be kicked off the team and leave the dungeon. On Master, the trap insta-kills you.
+Poison Trap
+	Will effect the triggerer with poison. If the triggerer is already poisoned then it will effect them with Bad 	Poison.
+Pokémon Trap
+	Will turn all items in the room into Pokémon.
+PP-Leech Trap
+	Will suck 5-10 PP from a move or 10-25 MP.
+PP-Zero Trap
+	Will drain all PP from a move or half MP.
+No PP Trap
+	Will drain all PP from all moves or all MP.
+Random Trap
+	Will activate a random trap effect that is not the Random Trap.
+Seal Trap
+	Will seal a move or spell for the rest of the floor.
+Self Destruct Trap
+	Will act as if the move Self Destruct was just used on the triggerer.
+Slow Trap
+	Will lower the triggerer's Movement Speed by 1.
+Slumber Trap
+	Will put the triggerer to sleep.
+Spike Trap
+	The triggerer will fall onto some spikes and take 25-35 damage.
+Spin Trap
+	Will confuse the triggerer.
+Stealth Rock Trap
+	Will deal 1/6 Max HP of the triggerer. Can not be triggered by Pokémon on the setter's team.
+Sticky Trap
+	Will turn an item into the bag sticky.
+Summon Trap
+	Will summon 1-4 feral Pokémon around the triggerer.
+Toxic Spikes
+	Will deal 25-35 damage to the triggerer and poison them. If they are already poisoned, then they will be Badly 	Poisoned.
+Trip Trap
+	Will make the triggerer loose their hold item. Preferably will spawn near water, lava, air, etc...
+Warp Trap
+	Will warp the triggerer somewhere else on the floor.
+
+Custom Tiles:
+Crush Trap
+	A bunch of steel weights will fall and crush the triggerer, dealing 40-60 damage.
+Doom Trap
+	Acts like the triggerer was just hit by a Doom Seed. Very devilish indeed.
+Trampoline Trap
+	Same as the Pitfall Trap but only spawns in dungeons that goes up.
+Evolution Trap
+	When triggered, all enemies on the floor will evolve one stage. Final evolved Pokémon will be uneffected. Will 	be destroyed upon triggering.
+Itemizer Trap
+	When triggered, an itemizer aura is released. At a 40% chance, with evasion bonuses added, etc... the triggerer 	will be turned into an item. If this occurs to the leader (or an important member), it will count as a loss and 	you and your team will be booted out of the dungeon. This is decreased to 10% on Hardcore.
+Sand Trap
+	Wehn triggered, it will drop a bunch of sand onto you, dealing 15 - 30 Physical Damaage. You can gather the 	remaining sand as soft sand.

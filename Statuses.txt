@@ -1,0 +1,221 @@
+OG Statuses:
+Asleep
+	The Pokémon falls asleep and stays asleep for 4-7 turns. This can be lowered by using items. During this state, 	the Pokémon is unable to move, use items, use attacks, use spells, or do basically anything else. If the Pokémon 	has a Chesto Berry, it will automatically used. Difficulty rules apply.
+Sleepless
+	The Pokémon is unable to fall asleep. Eating a Chesto Berry will give this status.
+Nightmare
+	The Pokémon takes 3-6 damage for every turn they are asleep.
+Yawning
+	The Pokémon will fall asleep in 2 turns from being affected with this buff. Pokémon who have the Sleepless 	debuff are immune.
+Napping
+	The Pokémon falls asleep for 4-7 turns with the same constraints as the Asleep status. However, when waking 	up, the Pokémon is fully healed.
+
+Major Statuses:
+Burned
+	The Pokémon is burned from a fiery move. They take 3-6 damage every 6 turns. However, other weather 	effects, will boost or decrease damage which are as follows:
+	Sunny:
+		The time between burn ticks is reduced to every turn, but you only take 1 damage.
+	Harsh Sunlight
+		The time between burn ticks is reduced to every turn, and you take 2 damage.
+	Drought
+		The time between burn ticks is reduced to every turn, and you take 4 damage.
+	Rain
+		The time between burn ticks is increased to 8 turns, and you take 1-3 damage.
+	Harsh Rain
+		The time between burn ticks is increased to 10 turns, and you take 1-2 damage.
+	Storm
+		The time between burn ticks is increased to 12 turns, and you take 1 damage.
+Frozen
+	The Pokémon is frozen solid. During this state, which lasts 3-8 turns, the Pokémon is unable to move, attack, 	use items, or anything else really. However, during this state, Ice-type moves will do double damage. Fire type 	moves will thaw out the Pokémon. All other attacks will do 0.3x damage. If the Pokémon has an Aspear Berry, it 	will automatically be used. Difficulty rules apply.
+Poisoned
+	The Pokémon is infected with a life draining poison. The Pokémon will take 3-6 damage every 6 turns. Poison 	Pokémon as their main typing are immune.
+Badly Poisoned
+	The Pokémon is infected with a major life draining poison. They will take 3-6 damage every turn. If a Pecha 	Berry is used with this debuff active, then it will reduce it to normal Poison. Poison Pokémon are immune.
+Paralyzed
+	The Pokémon is paralyzed in place and cannot attack. Their Movement Speed is reduced and their Speed is halved. 	However, items can still be used. Electric Pokémon have the duration of the debuff cut in half.
+Flinching
+Confused
+
+Mobility:
+Quick
+	The Pokémon's Movement Speed is doubled for 8-12 turns.
+Nimble
+	The Pokémon's Movement Speed is tripled for 8-12 turns.
+Expeditious
+	The Pokémon's Movement Speed is quadrupled for 8-12 turns.
+Stuck
+	The Pokémon is stuck in palce for 2-6 turns. While under the effect of this debuff, it just restricts movement. 	Ghost-type Pokémon cannot become stuck.
+Petrified
+	The Pokémon is petrified and stuck in place. They cannot attack, use items, or move. This debuff lasts until 	another Pokémon effects them. However, after 50 turns, the Pokémon will be free.
+Ingrain
+	The Pokémon releases roots and ingrains itself into the ground. Every turn, they regain 5-20 HP, however, they 	are unable to move. Lasts for 4 turns.
+Wrap
+	The Pokémon is unable to move, and is under the effect of it's attack. Self inflicted from using Wrap. Lasts for 	the duration of the Wrapped Pokémon. If the Pokémon is warped or move away from it's wrapped Pokémon, both 	is and the other status will end.
+Wrapped
+	The Pokémon is caught in the grip of another. While under this debuff, they take 6-8 damage, every 2 turns for 	4-6 turns. If the Pokémon is warped or move away from it's attacket, it will loose this debuff.
+Constriction
+	The Pokémon is caught in the grip of another. While under this debuff, they take 6-8 damage, every 2 turns for 	4-6 turns. If the Pokémon is warped or move away from it's attacket, it will loose this debuff.
+Clamp
+Whirlpool
+Fire Spin
+Sand Tomb
+Infestation
+Bound
+Trapped
+	The Pokémon is caught in the grip of another. While under this debuff, they take 6-8 damage, every 2 turns for 	4-6 turns. If the Pokémon is warped or move away from it's attacket, it will loose this debuff.
+Magma Storm
+	The Pokémon is caught in the grip of another. While under this debuff, they take 10-15 damage, every 2 turns 	for 4-6 turns. If the Pokémon is warped or move away from it's attacket, it will loose this debuff.
+Mobile
+Slip
+Magnet Rise
+Telekinesis
+Grounded
+Infatuated
+Paused
+Cowering
+Puppet
+Whiffer
+Muzzled
+Truant
+Taunted
+Encore
+Sealed
+Decoy
+Discord
+	Will randomly teleport you in a 5 tile radius with a 35% chance to activate every turn.
+Terrified
+Snatch
+Powder
+Charging
+Enraged
+Round
+Autotomize
+Stockpiling
+Rainbow
+Sea of Fire
+Swamp
+Awakened
+	The Pokémon gains immense god-like power. When this Pokémon is affected with this debuff, they are invincible. 	They are immune to all damage and deal triple damage back (The damage buff is reduced to 1.25x in boss 	fights). This effect lasts for 3 turns, after which the Pokémon gains the Berserk debuff.
+Berserk
+	As a result of incredible power, they attack in a random direction  or move in a random direction, and their 	damage increased by 2 times. If they attack an ally, Confusion preventing abilities will fail and the damage will 	go through. This lasts for 15 turns.
+Trained
+Bide
+Solar Beam
+Sky Attack
+Razor Wind
+Focus Punch
+Skull Bash	
+Flying
+Bouncing
+Diving
+Digging
+Phantom Force
+Shadow Force
+Ice Burn
+Freeze Shock
+Future Sight
+Doom Desire
+Sky Drop
+Suspended
+Explosion
+Self-Destruct
+Reflect
+Light Screen
+Safeguard	
+Mist
+Lucky Chant
+Magic Coat
+Protect
+Quick Guard
+Wide Guard
+Mat Block
+King's Shield
+Crafty Shield
+Counter
+Mirror Coat
+Metal Burst
+Mini Counter
+Enduring
+Mirror Move
+Vital Throw
+Grudge
+Healthy
+Sure Shot	
+Set Damage
+Focus Energy
+Encouraged
+Electrify
+Long Toss
+Pierce
+Embargo
+Cursed
+Leech Seed
+Wish
+Aqua Ring
+Destiny Bond
+Perish Song
+Heal Block
+Blinker
+Cross-Eyed
+Invisible
+Eyedrops
+Dropeye
+Power Ears
+Scanning
+Identifying
+Stair Spotter
+Exposed
+Miracle Eye
+Gastro Acid
+Substitute
+Transformed
+Conversion 2
+Famished
+Hungry Pal
+
+New Statuses:
+Standard:
+Flaming
+	You are set on fire, not a burn. You take the same damage as a burn just every turn. This includes all effects 	from weather and type effects.
+Inferno
+Voidflames
+	You are consumed by the void. You take 2-5 damage every 45-60 frames and it lastes for 1-3 seconds. (OLD)
+	You are consumed by the void. When you are attacked with this debuff active, you will gain void flames on your 	body. These flames will consume your HP outside of the turn based nature of dungeons and battles. The more you 	get hit, the more flames will build up and the faster your HP will drain. However, it will always drain in 	incraments of 1 or 2 on Master. If the difficulty is Hard or 	higher, a 	Pokémon can faint because of this 	debuff. Other difficulty changes follow:
+	Hard: The amount of flames you get is muliplied by 1.5x.
+	Expert: The amount of flames you get is doubled.
+	Master: The amount of flames you gain is tripled. You will take 2 damage from these flames instead of 1.
+	You are given this debuff by strong allies of the Darkness. The stronger the connection the higher the rate of 	this debuff being given to you.
+	You will also be given this debuff from wearing more than one piece of Voidshade armor.
+Divine Burn
+	You have been smited by the gods. This burn is so deadly as to break turn based damage. You take 2-5 damage 	every 30 frames and it lasts for 2-5 seconds. You can faint from this debuff.
+Sugar Rush
+	Will boost Speed by 1.5x and attacks will never miss.
+Frostburn
+	Same effect as a burn, just the ice version.
+Start Sleep
+	Will stay sleeping until an enemy walks in range. The same as when an enemy is asleep from the start.
+Incorporeal
+	You have turned incorporeal. Physical attacks that you deal and recieve are nullified. You can still be spotted.
+Water Walk
+	You have gained the ability to walk on water.
+Stasis
+	The cells of your body cease to move. The Pokémon is stuck in place for 5 turns unable to do anything. This 	status is the same as Petrified except will NOT go away when another Pokémon affects them. You cannot use 	items.
+Knowlegable
+	It's now big brain time! Your Knowlege gains are boosted by 2x.
+Puppeted
+	You are under the complete control of the enemy. For the duration of the status, you are under the control of the 	enemy and will do anything to assist them, such as attacking your allies, healing the enemy, or even fainting 	yourself. This is an involuentary effect. Lasts 5-7 turns.
+
+Dungeon statuses:
+Scorched Lungs
+	Your lungs are burning. Your natural HP regeneration falls to 0.
+
+Accesory Statuses:
+Phoenix Charm:
+Rebirthed
+	You have risen from death. Boosts your damage by 3 times.
+Phoenix Invincibility
+	You are invincible! For 10 turns, you are immune to all damage. After which you gain the Phoenix Resistance 	buff.
+Phoenix Resistance
+	You can the protection of the phoenix. You gain a 0.33x reduction to incoming damage.
+Phoenix Tiredness
+	Despite your divine rebirth, your soul is weak. You are unable to be rebirthed again. Lasts for 	the rest of the dungeon.

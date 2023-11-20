@@ -1,0 +1,9 @@
+Knowlege:
+Mechanics:
+	Instead of Knowlege being increased soley from Gummis, instead it is boosted periodically throughout the dungeon, 	like HP.
+	It is boosted by:
+		Eating
+		Attacking
+	The amount it gets boosted by is the number of the above (such as damage or heal amount) / 250.
+	Exp. gains boost Knowlege by: EXP / 500.
+	This number can be boosted by eating Gmmis which boost the gain rate for the floor.

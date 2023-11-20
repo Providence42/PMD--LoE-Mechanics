@@ -1,0 +1,84 @@
+Here are the selections for player characters in PMD: The Seventh Side
+GEN 1: (13)
+Bulbasaur
+Charmander
+Squirtle
+Pikachu
+Clefairy
+Vulpix
+Meowth
+Psyduck
+Growlithe
+Machop
+Cubone
+Eevee
+Dratini
+
+GEN 2: (8)
+Chikorita
+Cyndaquil
+Totodile
+Mareep
+Marill
+Sneasel
+Teddiursa
+Phanpy
+
+GEN 3: (9)
+Treecko
+Mudkip
+Torchic
+Poochyena
+Ralts
+Skitty
+Swablu
+Shuppet
+Spheal
+
+GEN 4: (8)
+Turtwig
+Piplup
+Chimchar
+Buneary
+Munchlax
+Riolu
+Skorupi
+Shinx
+
+GEN 5: (7)
+Snivy
+Tepig
+Oshawott
+Axew
+Roggenrola
+Zorua
+Cubchoo
+
+GEN 6: (6)
+Chespin
+Fennekin
+Froakie
+//Litleo
+Swirlix
+Inkay
+
+//Probably not
+Rowlet
+Litten
+Popplio
+Rockruff
+Togedemaru
+
+Grookey
+Scorbunny
+Sobble
+Rookidee
+Hatenna
+Snom
+
+//
+Sprigatito
+Fuecoco
+Quaxly
+Pawmi
+

@@ -1,0 +1,96 @@
+Mechanics:
+Base Mechanics:
+	All weapons in the game have a base power value. This power value can be added or suptracted by the material 	used. Secondly, classes have unique weapons that only they can use. If other classesused them then they suffer a 	penalty of:
+		ACC -= 50
+		PWR /= 2
+		EXP /= 2
+	However, there are classless weapons that suffer no penalty.
+
+Weapons:
+Paladin
+Longsword
+	9 PWR
+	A larger sword for stronger people.
+Dagger
+	3 PWR
+
+Grenadier
+Longbow
+	5 PWR
+Crossbow
+	7 PWR
+Musket
+	8 PWR
+
+Warlock
+(NOTE: Wand stats are added to spells cast with it)
+Wand
+
+
+Classless
+Rusty Shortsword
+	
+Stick
+	The weapon you find at the start of the game.
+Shortsword
+	A small sword that is useful for all classes useful as a backup weapon.
+	* You can reaction slash an enemy Pokémon (in retaliation) (Possibly an extra ability or whatever)
+	5 PWR
+
+Shortbow
+	A small bow that is useful for al classes as a backup weapon.
+	2 PWR
+
+Ammo:
+Arrows
+	2 PWR
+Wooden Arrow
+Steel Arrow
+Bolts
+	3 PWR
+Wooden Bolt
+Steel Bolt
+Balls
+	2 PWR
+Stone Shot	
+Iron Ball
+Steel Ball
+
+Materials:
+Basic:
+Wood
+	Just simple standard wood.
+Stone
+	Just a simple stone
+	Can only be used for Stone Shot
+Bronze
+	A tough and weak material that is an alloy of Copper and Tin.
+Iron
+	A stronger but still a soft material. Stronger than Bronze.
+	1 PWR
+Steel
+	A strong metal that is sleak and powerful.
+	3 PWR
+Elemental:
+Saltulium
+	Plant matter that has condenced into a living metal.
+	6 PWR
+	Has a 30% to poison enemies.
+Ferozium
+	Ice that has frozen into a icy metal.
+	6 PWR
+	Has a 30% chance to freeze enemies.
+Superbium
+	A super tough crystalline material  made of condenced cloud matter, ice, and space.
+	3 PWR
+	Has a 30% chance to deal double damage.
+Solarium
+	A material born from the might of a star.
+	9 PWR
+	Has a 50% to set enemies a blaze.
+Shadow
+	A material shrowded in darkness.
+	You can only handle one shadow item equipped at a time. If you have more than, your damage taken will be 	increased by (1.2x * (number of shadow items over 2)) and you chance at being inflicted with voidflames goes 	up by (30% * (NoSIO2)).
+	Does not apply to ammo.
+	12 PWR
+	Will inflict voidflames on hit.

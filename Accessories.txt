@@ -1,0 +1,332 @@
+sVanilla Items:
+Scarfs:
+No-Stick Cap
+	A gray and teal cap that prevents items from getting sticky.
+Pecha Scarf
+	A light pink scarf that prevents the wearer from being Poisoned.
+Persim Band
+	A purple scarf that prevents the wearer from being Confused.
+Weather Band	
+	A nice looking scarf that will prevent negative effects of weather from affecting the weather. If the weather 	is not clear, then damage will be boosted by 1.5 times.
+Defense Scarf
+	A steel colored scarf that will boost the wearer's Defense by 12.
+Detect Band
+	A band that boosts the wearer's Evasion.
+Munch Belt
+	A band that looks like a Munchlax and boosts the Attack and Defense of the wearer at the expense of Belly.
+Power Band
+	An orange band that boosts the wearer's Attack by 12.
+Special Band
+	A teal and white band that boosts the wearer's Sp. Atk. by 12.
+Twist Band
+	A band of twisted cloth that prevents the Stats of the wearer to lower. Increasing stats are not affected.
+Zinc Band
+	A yellow striped band that boosts the wearer's Sp. Def. by 12.
+Big Eater Belt
+	A belt that boosts the amount the Belly of the wearer is filled by when eating.
+Bounce Band
+	A band that will send thrown items, and sometimes moves, back to the sender.
+Choice Ribbon (Maybe not)
+	A ribbon that will boost the critical hit rate of a move when used in succession, up to 25%.
+Cover Band
+	A band that will cause the wearer to take damage if an ally is at low HP.
+Curve Band
+	A band that causes the power of thrown items to be doubled.
+Deluxe Ribbon
+	A jaw-droppingly gorgeous ribbon that can sell for a lot. When worn, you will take slightly less damage due to 	the wearer looking very adorable.
+Diet Ribbon
+	A ribbon that lowers the Belly of the leader faster or gives the Hungry Pal status to anyone else.
+Dodge Scarf
+	A ribbon that will always cause the wearer to dodge thrown items.
+Efficient Bandanna
+	A bandanna that will sometimes cause the wearer to use moves for no cost.
+Explosive Band
+	A band that will explode in retaliation to an attack that damages nearby enemies.
+Fierce Bandanna
+	A bandanna that will boost your Strength by 15.
+Friend Bow
+	A beautiful bow that boosts the recruitment rate of Pokémon by 12.
+Gold Ribbon
+	A simmering bow made of Gold. You can sell it for a nice price.
+Heal Ribbon
+	A ribbon that will boost the natural recovery rate for the wearer.
+Joy Ribbon
+	A ribbon that will boost the experience gains of the wearer by 1.5x.
+Lucky Ribbon
+	A ribbon that prevents the wearer from taking critical hits.
+Mach Ribbon
+	A bright red ribbon that boosts the wearer's Speed by 12.
+Mobile Scarf
+	A scarf that allows the wearer to walk over all types of terrain. However, your Belly will decrease by 5 for 	each tile that is not floor. If you run out of Belly, you will take 4 extra HP of damage per turn.
+Nullify Bandanna
+	A bandanna that prevents the wearer's Abilities from working.
+Pass Scarf
+	A scarf that, if the wearer has Belly, will pass Physical type moves, where the attacker is one tile away, off 	onto adjacent enemies at random. If this is performed successfully, then the wearer's Belly will decrease by 3.
+Phase Ribbon
+	A scarf that allows the wearer to walk through walls. However, when you are traversing through a wall, your 	Belly will decrease by 10 and the wall will be destroyed. If you run out of Belly in a wall, you will take 4 	extra HP of damage per turn.
+Pierce Band
+	A band that causes all thrown items to go through walls and Pokémon. However, the item cannot be recovered. 	This does not work with thrown rocks.
+Plain Ribbon
+	A ribbon that does nothing. Just a ribbon.
+Prosper Ribbon
+	A ribbon that restores HP and Belly when POKé is picked up.
+Recovery Scarf
+	A scarf that causes bad status effects, that can be cleared with time, to clear up faster.
+Sneak Scarf
+	A scarf that prevents the wear from waking up sleeping Pokémon. For Pokémon put to sleep by the wearer, the 	duration of sleep is tripled.
+Sparkly Scarf
+	A very sparkly scarf that can be sold for a lot of money.
+Stamina Band
+	A band that lowers the rate of Belly consumption.
+Tight Belt
+	A belt that prevents the wearer's Belly from lowering, unless if the wearer steps through a wall then it lowers 	by 1.
+Trap Scarf
+	A scarf that will always prevent negative traps from working.
+Warp Scarf
+	A scarf that has a chance at randomly warping the wearer around the floor.
+Aura Bow
+	A beautiful bow that is coursing with auric energy. It boosts the wearer's HP, MP (if human), Attack, Defense, 	Sp. Atk., Sp. Def., Speed, Agility, Strength, Resilience, and Intelligence by 3.
+Insomniscope
+	A pair of glasses that prevent the wearer from going to sleep.
+Goggle Specs
+	A pair of glasses that makes traps and other hidden objects visible.
+Gold Scope
+	A pair of glasses that boost the amount of POKé gained and increase the rate of GILD Bars.
+Lock-On Specs
+	A pair of glasses that boost the accuracy of moves and will make thrown items always hit.
+Scope Lens
+	A pair of glasses that boost the critical hit rate by 10, up to a max of 40.
+Whiff Specs
+	A pair of glasses that will always cause thrown items to miss the wearer and sometimes cause moves to miss
+X-Ray Specs
+	A pair of glasses that will reveal the locations of items and Pokémon on the map.
+
+Look-a-likes:
+No-Slip Cap
+	A gray and teal cap that prevents items from getting sticky...
+	When worn, items in the bag will slowly begin to turn sticky.
+Gaggle Specs
+	A pair of glasses that makes traps and other hidden objects visible...
+	Makes you more able to be hit.
+Y-Ray Specs
+	A pair of glasses that will reveal the locations of items and Pokémon on the map...
+	Prevents you from seeing items and enemies. If held by anyone else, they will gain the Blinker Status.
+
+Others
+Amber Tear
+	A large piece of amber shaped like a tear. When equipped, attacks that are not very effective or lower heal the 	wearer. The values are as follows.
+		Not very effective: 10% of current HP. Damage is reduced by half.
+		Little effect: 20% current HP. Damage is negated.
+		Little to no effect: 30% of current HP. Damage is negated.
+Golden Mask
+	A golden mask from an ancient civilization from long ago. When wearing this mask, your recruiting chances are 	boosted by 5x. Also, the power within this mask gives the wearer a 5% chance to completely dodge an attack.
+Wonder Chest
+	A chest filled with wonder and mystery. When equipped, you will gain 3x more experience points.
+Miracle Chest
+	A chest of divine power and filled with the essence of pure miracles. When equipped, the wearer will gain 4x 	more experience points. In addition, this chest has a 30% to cause an incoming attack to miss. This is calculated 	separately to move accuracy.
+Space Globe
+	An artifact of divine power, filled with Arceus' power to manipulate time and space. Will cause the power of the 	holder's moves to be quadrupled (Does not affect: Strength, Resilience, or Intelligence)
+
+Custom Items:
+Rings:
+Ruby Ring
+	A little Copper ring with a Ruby gemstone set in it. This ring boosts the wearer's Attack by 1.
+Topaz Ring
+	A little Copper ring with a Topaz gemstone set in it. This ring boosts the wearer's Defense by 1.
+Amethyst Ring
+	A little Copper ring with an Amethyst gemstone set in it. This ring boosts the wearer's Sp. Atk. by 1.
+Lapis Ring
+	A little Iron ring with a Lapis gemstone set in it. This ring boosts the wearer's Sp. Def. by 1.
+Amber Ring
+	A little Iron ring with an Amber gemstone set in it. This ring boosts the wearer's HP by 5.
+Sapphire Ring
+	A little Iron ring with a Sapphire gemstone set in it. This ring boosts the wearer's Speed by 1.
+Garnet Ring
+	A nice Silver ring with a Garnet gemstone set in it. This ring boosts the wearer's Attack by 7.
+Bismuth Ring
+	A nice Silver ring with a Bismuth gemstone set in it. This ring boosts the wearer's Defense by 7.
+Pearl Ring
+	A nice Silver ring with a Pearl gemstone set in it. This ring boosts the wearer's Sp. Atk. by 7.
+Peridot Ring
+	A nice Tungsten ring with a Peridot gemstone set in it. This ring boosts the wearer's Sp. Def. by 7.
+Quartz Ring
+	A nice Tungsten ring with a Quartz gemstone set in it. This ring boosts the wearer's Speed by 7.
+Emerald Ring
+	A nice Tungsten ring with an Emerald gemstone set in it. This ring boosts the wearer's HP by 15.
+Diamond Ring
+	A beautiful Gold ring with a Diamond gemstone set in it. This ring boosts the wearer's Attack by 17.
+Onyx Ring
+	A beautiful Gold ring with an Onyx gemstone set in it. This ring boosts the wearer's Defense by 17.
+Opal Ring
+	A beautiful Gold ring with an Opal gemstone set in it. This ring boosts the wearer's Sp. Atk. by 17.
+Turquoise Ring
+	A beautiful Titanium ring with a Turquoise gemstone set in it. This ring boosts the wearer's Sp. Def. by 17.
+Aquamarine Ring
+	A beautiful Titanium ring with a Aquamarine gemstone set in it. This ring boosts the wearer's Speed by 17.
+Heart Shard Ring
+	A beautiful Titanium ring with a Heart Shard gemstone set in it. This ring boosts the wearer's HP by 30.
+Prismarine Ring
+	A jaw-droppingly gorgeous ring with a Prismarine gemstone set in it. This ring boosts the wearer's Attack, 	Defense, Sp. Atk., Sp. Def., and Speed by 25. The wearer's HP is also boosted by 45.
+Scarfs:
+Torn Scarf
+	A scarf given by your partner. It's battered and worn with countless little holes, yet it still does something for 	you. Your Defense and Sp. Def are raised by 2.
+Leather Scarf
+	A scarf made out of tanned Arachnicattle Leather. It boosts your Defense by 5.
+	250 POKé
+	Crafted Item:
+		Leather (5)
+		Plain Ribbon
+Aspear Scarf
+	A scarf that when worn will give the wearer immunity to being Frozen.
+Cheri Scarf
+	A scarf that when worn will give the wearer immunity to Paralysis.
+Rawst Scarf
+	A scarf that when worn will give the wearer immunity to being Burned.
+Nimble Scarf
+	A ribbon that boosts the wearer's Agility by 12.
+
+Others:
+Lower end:
+Rusty Locket
+	A locket coated in a thick layer of rust that is unable to be opened. It's presence on your person when you awoke 	gives you a sense of mystery, curiosity, and dread.
+Clawed Gloves
+	A pair of clawed gloves that boost the damage of Physical attacks by 5.
+	Can be bought from the equipment shop.
+Baldric
+	A leather baldric for carrying a sword. Swords deal 1.1x damage.
+Poisoned Fang
+	A small fang coated in poison. Your Physical attacks have a 25% chance of poisoning your enemies.
+
+Higher end:
+Ring of Resistance
+	A ring made of the hardiest of materials. Will increase your Resilience by 30.
+Wrath Pendant
+	A charm made of the fiercest materials. Will increase your Strength by 30.
+Bright Crown
+	A crown made of smarty looking materials. Will increase your Intelligence by 30.
+Health Pendant
+	A charm that radiates life energy. It boosts the wearer's natural health regeneration. The lower the wearer's HP, 	the higher wearer's health regeneration is boosted.
+Ring of Regeneration
+	A ring made of life radiating materials. The wearer will gain 5 HP per turn of regeneration.
+Life Dew
+	A pearl covered in a plant that secretes life empowering dew. Will boost your health regeneration rate 	greatly. Has a chance to slightly reduce damage taken (0.85x at 30%). If you walk on water, you have a 	chance at regaining 1/8 your Max HP.
+Thigh Charm
+	A charm that magically gives your legs a quick boost. Will boost the wearer's Speed by 1.25x and boost the 	wearer's Movement Speed (with a 25% chance) if the wearer is hit.
+Phoenix Charm
+	Rebirths the wearer in a plume of fire when they are fainted or killed (being killed takes priority which can only 	happen on weaker soul strengths). When the wearer is rebirthed, they gain a 3x boost to damage 	for the floor, and are invincible for 10 turns. After that, they gain a 3x reduction in 	damage for the rest of the floor. Can only be used once per dungeon. Will break if the difficulty is 	Expert or above. You can also swim in lava and any Fire type attack is reduced by 0.5x.
+Winged Sandals
+	A pair of leather sandals with wings on them. When worn, the Speed of the wearer is boosted by 1.5x.
+Vanish Cape
+	When you take damage, you have a small chance to go invisible.
+Vampire Claws
+	When you make a Physical type attack, you restore 10% of your attack's damage in HP.
+Amulet of Power
+	A necklace that radiates immense power. When attacked, the enemies will take half damage back. You also have a 	small chance to release an explosion that deals damage to nearby enemies. Boosts Wrath by 5.
+Chaos Powder
+	When attacked by a ranged attack (includes room wide moves), you have a small chance to chaotically rearrange 	yourself around the attack and end up in a position nearby, thus dodging it.
+Verglas Glove
+	An ice cold glove that radiates frigid temperatures, but surprisingly warm inside. When you attack an enemy, 	your attack as a chance to inflict Stasis upon them.
+
+Class specific:
+Ethereal Talisman
+	A talisman from a world beyond your own, it softly vibrates with etherial energy. Boosts your Wisdom by 45. 	Any magic attack will release an explosion of etherial energy that will lock on to nearby foes and deal extra 	damage.
+
+Hardcore Specific:
+Soul Soothing Pendant
+	Critical hits while unconscious only deal one damage. Boosts your Wrath by 5.
+Crystal of Indirection
+	While unconscious, you will only take one damage every two hits.
+Crystal Soul
+	While unconscious, critical hits only deal one damage, and you only take one damage every two hits. Boosts	your Wrath by 8%.
+	Crafted Item
+		Crystal of Indirection
+		Soul Soothing Pendant
+		(10) Almechanical Ether
+		(5) Stardust
+	
+
+Vanilla Items Converted To Custom:
+Lunar Ribbon
+	A magical ribbon infused with the power of the Moon. When worn at night or in dark places, the wearers attack 	damage is boosted by 2x.
+Solar Ribbon
+	A magical ribbon infused with the power of the Sun. When worn in the day or in light filled areas, the wearers 	attack damage is boosted by 2x.
+Deep Sea Scale
+	A scale infused with the power of the waters of the world. When equipped all water based moves' Power are 	boosted by 2x. If you are in a water filled area, then the Power of all moves are boosted by 1.5x
+Dragon Scale
+
+Crafted Items:
+Empyrean Ribbon
+	Crafted Item
+		Lunar Ribbon
+		Solar Ribbon
+	A magical ribbon infused with the power of the celestial bodies. When worn, the damage of the wearer's moves 	is boosted by 1.5x.
+Honey Dew
+	Crafted Item
+		Life Dew
+		Amber Tear
+	A pearl covered in a life filled, honey secreting, planet material that combines the functions of the Life Dew and 	Amber Tear. Which are as follows:
+		Will boost your health regeneration rate greatly. If you walk on water, you have a chance at regaining 			1/8 your 	Max HP.
+		When equipped, attacks that are not very effective or lower heal the wearer. The values are as 			follows.
+			Not very effective: 10% of current HP. Damage is reduced by half.
+			Little effect: 20% current HP. Damage is negated.
+			Little to no effect: 30% of current HP. Damage is negated.
+Solar Sandals
+	Crafted Item
+		Winged Sandals
+		Ember Wing
+	The mythical sandals crafted from a mythical wing. When worn, the Speed of the wearer is doubled and they gain 	the ability to fly above all tiles except for walls.
+Crown of Immortality
+	Crafted Item
+		Ring of Resistance
+		Wrath Pendant
+		Bright Crown
+		Ancient Instructions
+	The crown of the gods. While wearing this crown, you gain 30 Strength, Resilience, and Intelligence.
+Vampire Teeth
+	Crafted Item
+		Vampire Claws
+		Ancient Instructions
+		Hell Blood
+	The teeth of an immortal. When you attack something, you will restore 15% of the damage you deal in HP.
+Rampart of the Empyrean
+	Crafted Item
+		Crown of Immortality
+		Talaria
+		Space Globe
+		Phoenix Charm
+		Vampire Teeth	
+	You become one with the gods themselves.
+Bags:
+Worn Sack
+	A sack with many rips, tears, and patches. It's served your partner well, perhaps it will for you. Holds 8 items.
+Leather Bag
+	A bag of nice Arachnicattle Leather. Holds 16 items.
+Angel Bag
+	The standard bag of the Angels, tough and study. Holds 24 items.
+Archangel Bag
+	The bag of an experienced Angel, with small amounts of embroidery. Holds 32 items.
+Lord Bag
+	The bag of Senior Angels that can fit a suiprising amount. Holds 40 items.
+Void Bag
+	Crafted Item
+		(15) Dark Matter
+		(5) Void Shade		
+		Lord Bag
+		
+	A bag crafted from the energy of Dark Matter. Stores items in another dimension. Holds 48 items.
+Empyrean Bag
+	A bag gifted to you from the Empyrean above. Holds 52 items.
+Bag of Holding
+	A bag from another plane of existence. Holds 80 items.
+
+Ideas:
+Golden Wings
+	Crafted Item
+		Golden Feather
+		Alchemical Ether (5)
+	A pair of golden, divine, wings. They emit light, allow flight over all tiles except for walls, and give a 
+
+
+
+
+

@@ -1,0 +1,26 @@
+Thrown Items:
+In Game:
+Rocks:
+Geo Pebble
+Gravelerock
+Rhyhornock
+Golden Fossil
+Rare Fossil
+
+Spikes:
+Stick Spike
+Iron Thorn
+Silver Spike
+Gold Fang
+Platinum Spike
+Corsola Twig
+	Upon impact with an enemy, it will slow the enemy's Movement Speed by 1.
+Cacnea Twig
+	Upon impact with an enemy, it will explode into a shower of spikes that will be hurled in all directions, damaging 	enemies in the process. It never misses.
+
+Custom:
+Rocks:
+Shatterrock
+
+Spikes:
+Explosive Spike

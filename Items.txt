@@ -1,0 +1,6 @@
+Items: (These are items that don't fit into anywhere else.)
+In Game:
+Lost Loot
+	A long lost treasure from some unknown Pokémon that is lost to time. You can sell this for a mountain of cash.
+
+Custom

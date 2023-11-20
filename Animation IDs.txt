@@ -1,0 +1,60 @@
+Rush Point is the frame when the sprite moves forward???
+Hit point seems to be the frame in which damage is dealt for a melee attack
+Return Point is the max frames for the animation.
+
+"~" Means not every pokemon has them
+
+
+0. None
+1. Idle
+2. Walk
+3. Sleep
+4. Hurt
+5. Attack -- shortened
+6. Charge
+7. Shoot
+8. Strike -- shortened
+9. Chop -- shortened
+10. Scratch -- shortened
+11. Punch -- shortened
+12. Slap -- shortened
+13. Slice -- shortened
+14. MultiScratch -- shortened
+15. MultiStrike -- shortened
+16. Uppercut -- shortened
+17. Ricochet -- shortened
+18. Bite -- shortened
+19. Shake
+20. Jab -- shortened
+21. Kick -- shortened
+22. Lick -- shortened
+23. Slam -- shortened
+24. Stomp -- shortened
+25. Appeal
+26. Dance
+27. Twirl
+28. TailWhip
+29. Sing
+30. Sound
+31. Rumble
+32. FlapAround
+33. Gas -- shortened
+34. Shock
+35. Emit
+36. Special
+37. Withdraw
+38. RearUp
+39. Swell
+40. Swing
+41. Double
+42. Rotate
+43. Spin
+44. Jump
+45. HighJump
+~ 46. Salute
+~ 47. Cutsceen Sleep
+~ 48. Cutsceen Get Up
+~ 49. Cutsceen Fly
+~ 50. Cutsceen Fall
+~ 51. Cutsceen Nod
+~ 52. Dead

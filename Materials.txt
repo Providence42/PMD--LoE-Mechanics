@@ -1,0 +1,74 @@
+Mechanics:
+	Materials are a key item for crafting materials that can hel you along on your journey. Unlike other games, you 	new extra help to turn these materials into useful items, instead of making them yourself.
+	They are found throughout the world in the various dungeons in their raw forms. They are as follows
+Materials:
+Raw Materials:
+Leather
+	The hide of an animal harvested for use. (Like Arachnicattle)
+	Mostly used for armor.
+Wood
+	Just simple standard wood.
+	Found in most dungeons with trees
+Stone
+	Just a simple stone.
+	Found in most dungeons with stone
+	Used for mostly ammunition
+Raw Copper
+	A tough and weak material.
+	Will be turned into Bronze when crafted into stuff. No farming Tin needed.
+Raw Iron
+	A stronger but still a soft material. Stronger than Bronze.
+Raw Steel
+	A strong metal that is sleak and powerful.
+
+Elemental:
+Raw Saltulium
+	Plant matter that has condenced into a living metal.
+Raw Ferozium
+	Ice that has frozen into a icy metal.
+Raw Superbium
+	A super tough crystalline material made of condenced cloud matter, ice, and space.
+Raw Solarium
+	A material born from the might of a star.
+Pure Shade
+	A material shrowded in darkness.
+
+Refined Materials
+Leather
+Bronze
+Iron
+Steel
+
+Saltulium
+Ferozium
+Superbium (Cosmite?)
+Solarium
+Voidshade
+
+Ingredients:
+See "Drinks and Brews"
+
+Crafting Materials:
+Ember Wing
+	A wing made of pure fire.
+	Obtained after defeating Moltres???
+Ancient Instructions
+	An ancient scroll filled with instuctions on how to make a powerful accessory.
+	Obtained from:
+		Hellcastle????
+		Ancient Library????
+		Spinda
+Hell Blood
+	A vile of old demonic blood, pulsating with darkness energy.
+Ectoplasm
+Stardust
+	The broken shards of a fallen star.
+	Obtained from a star falling from the heavens in a dungeon.
+Dark Matter
+	A material made of pure darkness.
+	Obtained from the Dark World
+Philosopher's Stone (?)
+	The stone of myths, legends, and life. Used for making the Elixir of Life.
+Essence of Mystery
+
+
