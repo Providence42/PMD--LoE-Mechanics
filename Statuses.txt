@@ -1,4 +1,4 @@
-OG Statuses:
+~~ OG Statuses:
 Asleep
 	The Pokémon falls asleep and stays asleep for 4-7 turns. This can be lowered by using items. During this state, 	the Pokémon is unable to move, use items, use attacks, use spells, or do basically anything else. If the Pokémon 	has a Chesto Berry, it will automatically used. Difficulty rules apply.
 Sleepless
@@ -10,7 +10,7 @@ Yawning
 Napping
 	The Pokémon falls asleep for 4-7 turns with the same constraints as the Asleep status. However, when waking 	up, the Pokémon is fully healed.
 
-Major Statuses:
+~ Major Statuses:
 Burned
 	The Pokémon is burned from a fiery move. They take 3-6 damage every 6 turns. However, other weather 	effects, will boost or decrease damage which are as follows:
 	Sunny:
@@ -36,7 +36,7 @@ Paralyzed
 Flinching
 Confused
 
-Mobility:
+~ Mobility:
 Quick
 	The Pokémon's Movement Speed is doubled for 8-12 turns.
 Nimble
@@ -95,9 +95,9 @@ Rainbow
 Sea of Fire
 Swamp
 Awakened
-	The Pokémon gains immense god-like power. When this Pokémon is affected with this debuff, they are invincible. 	They are immune to all damage and deal triple damage back (The damage buff is reduced to 1.25x in boss 	fights). This effect lasts for 3 turns, after which the Pokémon gains the Berserk debuff.
+	The Pokémon gains immense god-like power. When this Pokémon is affected with this buff, they are invincible. They are immune to all damage and deal triple damage back (The damage buff is reduced to 1.5x in boss fights). This effect lasts for 3 turns, after which the Pokémon gains the Berserk debuff.
 Berserk
-	As a result of incredible power, they attack in a random direction  or move in a random direction, and their 	damage increased by 2 times. If they attack an ally, Confusion preventing abilities will fail and the damage will 	go through. This lasts for 15 turns.
+	As a result of incredible power, they attack in a random direction  or move in a random direction, and their damage increased by 2 times. If they attack an ally, Confusion preventing abilities will fail and the damage will go through. This lasts for 15 turns.
 Trained
 Bide
 Solar Beam
@@ -173,21 +173,21 @@ Conversion 2
 Famished
 Hungry Pal
 
-New Statuses:
-Standard:
+~~ New Statuses:
+~ Standard:
 Flaming
-	You are set on fire, not a burn. You take the same damage as a burn just every turn. This includes all effects 	from weather and type effects.
+	You are consumed by flames and set on fire. You take the same damage as a burn just every turn. This includes all effects from weather and type effects.
 Inferno
+	Your skin is scorching and melting off your bones. You take the same damage as a Burn, but doubled and every turn. This includes all effects from weather and type effects.
 Voidflames
-	You are consumed by the void. You take 2-5 damage every 45-60 frames and it lastes for 1-3 seconds. (OLD)
-	You are consumed by the void. When you are attacked with this debuff active, you will gain void flames on your 	body. These flames will consume your HP outside of the turn based nature of dungeons and battles. The more you 	get hit, the more flames will build up and the faster your HP will drain. However, it will always drain in 	incraments of 1 or 2 on Master. If the difficulty is Hard or 	higher, a 	Pokémon can faint because of this 	debuff. Other difficulty changes follow:
-	Hard: The amount of flames you get is muliplied by 1.5x.
-	Expert: The amount of flames you get is doubled.
-	Master: The amount of flames you gain is tripled. You will take 2 damage from these flames instead of 1.
-	You are given this debuff by strong allies of the Darkness. The stronger the connection the higher the rate of 	this debuff being given to you.
+	You are consumed by the void. When you are attacked with this debuff active, you will gain void flames on your body. These flames will consume your HP outside of the turn based nature of dungeons and battles. The more you 	get hit, the more flames will build up and the faster your HP will drain. However, it will always drain in 	incraments of 1 or 2 on Master. If the difficulty is Hard or 	higher, a 	Pokémon can faint because of this 	debuff. Other difficulty changes follow:
+		Hard: The amount of flames you get is muliplied by 1.5x.
+		Expert: The amount of flames you get is doubled.
+		Master: The amount of flames you gain is tripled. You will take 2 damage from these flames instead of 1.
+	You are given this debuff by strong allies of the Darkness. The stronger the connection the higher the rate of this debuff being given to you.
 	You will also be given this debuff from wearing more than one piece of Voidshade armor.
 Divine Burn
-	You have been smited by the gods. This burn is so deadly as to break turn based damage. You take 2-5 damage 	every 30 frames and it lasts for 2-5 seconds. You can faint from this debuff.
+	You have been smited by the gods. This burn is so deadly as to break turn based damage. You take 2-5 damage every 30 frames and it lasts for 2-5 seconds. You can faint from this debuff.
 Sugar Rush
 	Will boost Speed by 1.5x and attacks will never miss.
 Frostburn
@@ -199,18 +199,18 @@ Incorporeal
 Water Walk
 	You have gained the ability to walk on water.
 Stasis
-	The cells of your body cease to move. The Pokémon is stuck in place for 5 turns unable to do anything. This 	status is the same as Petrified except will NOT go away when another Pokémon affects them. You cannot use 	items.
+	The cells of your body cease to move. The Pokémon is stuck in place for 5 turns unable to do anything. This status is the same as Petrified except will NOT go away when another Pokémon affects them. You cannot use items.
 Knowlegable
 	It's now big brain time! Your Knowlege gains are boosted by 2x.
 Puppeted
-	You are under the complete control of the enemy. For the duration of the status, you are under the control of the 	enemy and will do anything to assist them, such as attacking your allies, healing the enemy, or even fainting 	yourself. This is an involuentary effect. Lasts 5-7 turns.
+	You are under the complete control of the enemy. For the duration of the status, you are under the control of the enemy and will do anything to assist them, such as attacking your allies, healing the enemy, or even fainting yourself (if you are knocked unconscious, the status fails to do any further harm). This is an involuentary effect. Lasts 5-7 turns.
 
-Dungeon statuses:
+~ Dungeon statuses:
 Scorched Lungs
 	Your lungs are burning. Your natural HP regeneration falls to 0.
 
-Accesory Statuses:
-Phoenix Charm:
+~ Accesory Statuses:
+- Phoenix Charm:
 Rebirthed
 	You have risen from death. Boosts your damage by 3 times.
 Phoenix Invincibility
