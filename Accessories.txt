@@ -1,5 +1,5 @@
-Vanilla Items:
-Scarfs:
+~~ Vanilla Items:
+~ Scarfs:
 No-Stick Cap
 	A gray and teal cap that prevents items from getting sticky.
 Pecha Scarf
@@ -104,7 +104,7 @@ X-Ray Specs
 
 
 
-Look-a-likes:
+~ Look-a-likes:
 No-Slip Cap
 	A gray and teal cap that prevents items from getting sticky...
 	When worn, items in the bag will slowly begin to turn sticky.
@@ -118,7 +118,7 @@ Y-Ray Specs
 
 
 
-Others
+~ Others:
 Amber Tear
 	A large piece of amber shaped like a tear. When equipped, attacks that are not very effective or lower heal the wearer. The values are as follows.
 		Not very effective: 10% of current HP. Damage is reduced by half.
@@ -136,8 +136,8 @@ Space Globe
 
 
 
-Custom Items:
-Rings:
+~~ Custom Items:
+~ Rings:
 Ruby Ring
 	A little Copper ring with a Ruby gemstone set in it. This ring boosts the wearer's Attack by 1.
 Topaz Ring
@@ -176,7 +176,8 @@ Heart Shard Ring
 	A beautiful Titanium ring with a Heart Shard gemstone set in it. This ring boosts the wearer's HP by 30.
 Prismarine Ring
 	A jaw-droppingly gorgeous ring with a Prismarine gemstone set in it. This ring boosts the wearer's Attack, Defense, Sp. Atk., Sp. Def., and Speed by 25. The wearer's HP is also boosted by 45.
-Scarfs:
+
+~ Scarfs:
 Torn Scarf
 	A scarf given by your partner. It's battered and worn with countless little holes, yet it still does something for you. Your Defense and Sp. Def are raised by 2.
 Leather Scarf
@@ -197,7 +198,7 @@ Nimble Scarf
 
 
 
-Others:
+~ Others:
 Lower end:
 Rusty Locket
 	A locket coated in a thick layer of rust that is unable to be opened. It's presence on your person when you awoke gives you a sense of mystery, curiosity, and dread.
@@ -209,7 +210,7 @@ Baldric
 Poisoned Fang
 	A small fang coated in poison. Your Physical attacks have a 25% chance of poisoning your enemies.
 
-Higher end:
+~ Higher end:
 Ring of Resistance
 	A ring made of the hardiest of materials. Will increase your Resilience by 30.
 Wrath Pendant
@@ -242,7 +243,7 @@ Verglas Glove
 
 
 
-Class specific:
+~ Class specific:
 Ethereal Talisman
 	A talisman from a world beyond your own, it softly vibrates with etherial energy. Boosts your Wisdom by 45. 	Any magic attack will release an explosion of etherial energy that will lock on to nearby foes and deal extra 	damage.
 
@@ -260,7 +261,7 @@ Crystal Soul
 		(5) Stardust
 	
 
-Vanilla Items Converted To Custom:
+~ Vanilla Items Converted To Custom:
 Lunar Ribbon
 	A magical ribbon infused with the power of the Moon. When worn at night or in dark places, the wearers attack 	damage is boosted by 2x.
 Solar Ribbon
@@ -269,7 +270,7 @@ Deep Sea Scale
 	A scale infused with the power of the waters of the world. When equipped all water based moves' Power are 	boosted by 2x. If you are in a water filled area, then the Power of all moves are boosted by 1.5x
 Dragon Scale
 
-Crafted Items:
+~ Crafted Items:
 Empyrean Ribbon
 	Crafted Item
 		Lunar Ribbon
@@ -314,7 +315,7 @@ Rampart of the Empyrean
 	
 	
 
-Bags:
+~ Bags:
 Worn Sack
 	A sack with many rips, tears, and patches. It's served your partner well, perhaps it will for you. Holds 8 items.
 Leather Bag
@@ -340,7 +341,7 @@ Bag of Holding
 
 
 
-Ideas:
+~ Ideas:
 Golden Wings
 	Crafted Item
 		Golden Feather

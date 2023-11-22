@@ -1,4 +1,4 @@
-Tiles:
+~ Tiles:
 Wonder Tile
 Gold Tile
 Sparkling Tile
@@ -6,7 +6,13 @@ Hidden Stairs
 Trasure Trove
 Chest
 
-Traps:
+~ Environment Tiles:
+Water
+Lava
+Void
+Divine Liquid
+
+~  Traps:
 Apple Trap
 	Turns a random non-hold item into an Apple
 Blast Trap
@@ -70,7 +76,7 @@ Trip Trap
 Warp Trap
 	Will warp the triggerer somewhere else on the floor.
 
-Custom Tiles:
+~ Custom Tiles:
 Crush Trap
 	A bunch of steel weights will fall and crush the triggerer, dealing 40-60 damage.
 Doom Trap

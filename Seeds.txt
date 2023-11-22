@@ -2,7 +2,7 @@ Seeds:
 Ban Seed
 	Causes the eater's last used move to become disabled. If no move was used last, a random move would be disabled.
 Blast Seed
-	When eaten a blast of flame erupts from the eaters mouth, dealing 30-60 damage. If thrown, it will explode if 	it hits a target dealing 20- 35 damage instead. If the weather is 
+	When eaten a blast of flame erupts from the eaters mouth, dealing 30-60 damage. If thrown, it will explode if it hits a target dealing 20- 35 damage instead. If the weather is 
 Blinker Seed
 Decoy Seed
 Doom Seed
@@ -32,6 +32,8 @@ Vile Seed
 Violent Seed
 Warp Seed
 X-Eye Seed
+Aqua Seed
+	A seed that reduces the amount of Thirst you take from swimming in water, and keeps normal Movement Speed.
 
 Custom:
 Hard Seed

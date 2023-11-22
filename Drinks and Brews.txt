@@ -1,6 +1,6 @@
-Drinks:
+~ Drinks:
 Stagnant Water Bottle
-	A bottle filled with water picked from a dungeon. May not be fully safe to drink. Boil it to purify it. Restores 25 	Thirst.
+	A bottle filled with water picked from a dungeon. May not be fully safe to drink. Boil it to purify it. Restores 25 Thirst.
 Water Bottle
 	A bottle filled with purified water. Restores 50 Thirst.
 	Material for making brews.
@@ -24,32 +24,37 @@ Arachnicattle Milk
 Cloudberry Tea
 	A small cup of tea, brewed from Cloudberries. It has a wonderous honey like taste. Restores 65 Belly and 45 HP.
 
-Brews: (The following are all Crafted Items)
+~ Brews: (The following are all Crafted Items)
 Harden Brew
 	A brew with a metallic taste. Will treat your Defense stage as +7 for the dungeon.
-	Water Bottle
-	Warped Weed (2)
-	Iron Dust
+	Recipe:
+		Water Bottle
+		(2) Warped Weed
+		Iron Dust
+Floating Brew
+	A brew with a taste of wet grass and dirt. Allows you to walk on water without getting Thirsty.
+	Recipe:
+		Water Bottle
+		Water Sprout
+		Aqua Seed
 Strength Brew
-	A brew with a swirling red liquid. When drunk, it boosts your Attack by 15 for the dungeon. If you drink more of 	this brew, it will not stack.
+	A brew with a swirling red liquid. When drunk, it boosts your Attack by 15 for the dungeon. If you drink more of this brew, it will not stack.
 Dexterity Brew
-	A brew with a swishing green liquid. When drunk, it boosts your Defense by 15 for the dungeon. If you drink 	more of this brew, it will not stack.
-
+	A brew with a swishing green liquid. When drunk, it boosts your Defense by 15 for the dungeon. If you drink more of this brew, it will not stack.
 Intelligence Brew
-	A brew with a bubbling purple liquid. When drunk, it boosts your Sp. Attack by 15 for the dungeon. If you drink 	more of this brew, it will not stack.
-
+	A brew with a bubbling purple liquid. When drunk, it boosts your Sp. Attack by 15 for the dungeon. If you drink more of this brew, it will not stack.
 Wisdom Brew
-	A brew with a swaying white liquid. When drunk, it boosts your Sp. Defense by 15 for the dungeon. If you drink 	more of this brew, it will not stack.
+	A brew with a swaying white liquid. When drunk, it boosts your Sp. Defense by 15 for the dungeon. If you drink more of this brew, it will not stack.
 Rush Brew
-	A brew with a jumping aqua liquid. When drunk, it boosts your Speed by 15 for the dungeon. If you drink more of 	this brew, it will not stack.
+	A brew with a jumping aqua liquid. When drunk, it boosts your Speed by 15 for the dungeon. If you drink more of this brew, it will not stack.
 Agility Brew
-	A brew with a swifting yellow liquid. When drunk, it boosts your Agility by 15 for the dungeon. If you drink 	more of this brew, it will not stack.
+	A brew with a swifting yellow liquid. When drunk, it boosts your Agility by 15 for the dungeon. If you drink more of this brew, it will not stack.
 Resilience Brew
-	A brew with a hardy silver liquid. When drunk, it boosts your Resilience by 15 for the dungeon. If you drink 	more of this brew, it will not stack.
+	A brew with a hardy silver liquid. When drunk, it boosts your Resilience by 15 for the dungeon. If you drink more of this brew, it will not stack.
 Wrath Brew
-	A brew with a powerful crimson liquid. When drunk, it boosts your Strength by 15 for the dungeon. If you drink 	more of this brew, it will not stack.
+	A brew with a powerful crimson liquid. When drunk, it boosts your Strength by 15 for the dungeon. If you drink more of this brew, it will not stack.
 Royal Brew
-	A brew with a thinking royal liquid. When drunk, it boosts your Intelligence by 15 for the dungeon. If you drink 	more of this brew, it will not stack.
+	A brew with a thinking royal liquid. When drunk, it boosts your Intelligence by 15 for the dungeon. If you drink more of this brew, it will not stack.
 
 Ingredients:
 Plants
