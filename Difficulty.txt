@@ -1,4 +1,4 @@
-(v) means that thing applies to all difficulties above it.
+(v) means that thing applies to all difficulties below it.
 * means function has been implamented
 
 ~ Difficulty:
