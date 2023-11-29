@@ -1,6 +1,6 @@
 ~~ Ranks:
 ~ Land:
-Recruit
+J0: Recruit
 J1: Angel
 J2: Lance Corporal
 J3: Corporal
@@ -14,13 +14,104 @@ S4: Colonel
 S5: Brigadier
 S6: Commandant
 
-Sea:
+- Details:
+Recruit
+	A Pokémon in basic training and not an official Angel yet. Has the same uniform as an Angel, but with no badge.
+Angel
+	An official Angel and the lowest ranking official Angel and comprise the most amount of Pokémon. They are the lowest of the totem pole and you can definitely tell. Responsible for general duties such as, cleaning, guard duty, and other “undesirable” jobs. They comprise most of the Pokémon in a Rescue Team.
+Lance Corporal
+	An Angel above the others but still basically a senior Angel. The Lance Corporal assists the Corporal and is a junior Archangel otherwise, is not an official Archangel but has potential to become one. Leads Rescue Teams and is responsible for the day to day, all day watching of Privates.
+Corporal
+	Here is the first true leadership rank, still not an Archangel though. Corporals command (or are assistants to) a Section. They are responsible for the close up observation of the Angels below them and small corrections. Partly the eyes and ears of the Sergeants and Centurions, but partly the actual doers.
+Sergeant
+	The first Archangel rank, and the full transition from Angel to leader. They command Troops (and sometimes Sections) and are the main connection from higher up leadership to the lower Angels. They are responsible for the well being, assist with discipline, and readiness of those under them.
+Centurion
+	The black sheep of the Junior ranks and the transition from leader to senior Archangel. They are mainly responsible for discipline and are the assistants to the Prefect. Their main job is to make sure their Pokémon are in tip top shape for exploring, combat, and the like. They command Platoons. They are also the lowest rank that can be placed in an observational role.
+Prefect
+	The brass of the Juniors, the top Archangel, and the highest Pokémon before the Seniors take over. Prefects appear all throughout higher ups, serving as that low to high connection. They command a Squadron and are usually assistants and Adjutants to said higher ups. They have hardened their skills to be as sharp as a knife and no one messes with them.
+Lieutenant
+	While in human armies the Lieutenant is the lowest and dumbest officer rank, the Angels consider it a big important jump in their linear rank structure. The first Senior Angel and the first of the Lords, they command Companies and have done their time in the rank and file. They are the last rank to usually be out in the field and instead command from camp or serve on a board with the Captain.
+Captain
+	The last of the field commanders, they are the last ones to get dirty in their work. They command Battalions and are responsible for major missions and expeditions.
+Major
+	The first of the Earl ranks and the first rank that has major, lol, leadership roles. They lead from the back and are the first to oversee the “grand plan” of the Regiment they command. Because of this role, all ranks above them are more so management of the grand plan and less so person to person. The Major blurs this role. They are also the first to get a title if they have a special role such as His Honor, Major Spinda, the Earl of Knowledge.
+Colonel
+	A rank that is half commander, half assistant, unlike the human Colonel which is a major rank that commands Regiments*, here the Colonel acts as an Adjutant to the Brigadier and as its own rank. They command one of the two Brigades of the Division of Land. There is a hierarchy of the 3 major commanders, the two Colonels and the Brigadier.
+	The Colonel
+		Just a Colonel. Commands the 2nd Brigade
+	The Adjutant Colonel
+		Assistant to the Brigadier. Commands the 1st Brigade.
+	The Brigadier
+		See following.
+Brigadier
+	The commander of the Division of Land and a walking god on Earth. They're responsible for all aspects of the Division and are in complete control of its functions. They climbed the ranks from Angel to the top and their style of leadership is unique and their position well earned.
 
-Air:
+~~ Band
+Ranks:
+J1: Musician / Chorister
+J2: Lyre Corporal
+J3: Corporal
+	Assistant Section Leader
+	Drum Corporal
+	Trumpet Corporal
+	etc...
+J4: Sergeant
+	Drum Sergeant
+	Trumpet Sergeant
+	etc...
+J5: Centurion
+	Assistant Drum Major
+	Principal Musician / Chorister
+J6: Prefect
+	Drum Major
 
-King's Guard:
+S1: Lieutenant
+	Band Lieutenant
+	Chior Lieutenant
+S2: Captain
+	Bandmaster
+S3: Major
+	Regimental Bandmaster
+S4: Colonel
+	Director of Music
 
-~ Groupings:
+~ Appointments:
+Assistant Drum Major
+	Assistant to the Drum Major. This musician is a Centurion.
+Drum Major
+	Main leader when on parade. Is a Prefect. Wears officer insignia and four chevrons.
+Principle Musician
+	The best musician or chorister of the band or choir. The "first chair".
+Band / Choir Lieutenant
+	Commander of the band / choir within a band. Reports to the Bandmaster.
+Bandmaster
+	Conductor of the band.
+Regimental Bandmaster
+	Conductor of a massed Regimental band.
+Director of Music
+	Director of all music for all bands.
+
+~~ Organization:
+Rescue Team
+Section
+Troop
+Platoon
+Squadron
+Company
+Battalion
+Regiment
+Brigade
+Division
+Corps
+
+
+~ Sea:
+
+~ Air:
+
+~ King's Guard:
+
+~~ Groupings:
 Angel
 	J1~J3
 Archangel
@@ -43,3 +134,8 @@ His/Her Honor, the Earl of Land
 His/Her Grace, the Duke of Land
 His/Her Highness, the Prince of Land
 His/Her Majesty, the King
+
+
+How promotions and rank structure:
+	As opposed to human armies where the rank structure has a divide between officer and NCO ranks. There is not as big as a divide between ranks. The Angels have a linear structure that goes from Angel to Commandant, in a linear direction. For the most part, all higher commanders must go from Angel to climb the ranks to get to their position.
+

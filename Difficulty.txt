@@ -1,59 +1,80 @@
-Italics means that thing applies to all difficulties above it.
-Bold means function has been implamented
+(v) means that thing applies to all difficulties above it.
+* means function has been implamented
 
-Difficulty:
+~ Difficulty:
 Easy
-	0.75x Health and Damage for enemies
-	1.25x Health and Damage for Allies
+	* 0.75x Health and Damage for enemies
+	* 1.25x Health and Damage for Allies
 	1.5x Exp. Points
 	Bosses get no extra boosts
 	Enemies can only take four cardinal directions
 	Base Knowlege Level is 0.
 	Traps can break
-	Exp. to level up is determined by 1 + (0.5 * Dif)
+	* (v) Exp. to level up is determined by 1 + (0.5 * Dif)
 	Allows the following items to be used automatically:
 		Aspear Berry
 		Chesto Berry
-	DP: 7
+	SP: 7
 Normal
 	Base Knowlege Level is 5
 	Traps can break
 	Allows the list of items that can be used automatically to be used.
-	DP: 5
+	SP: 5
 Hard
-	1.25x Health and 1.1x damage for enemies
-	Enemy stats boosted by 1.1x
-	Bosses HP boosted by 2x and stats boosterd by 1.6
-	Exp is 0.9x
+	* 1.25x Health and 1.1x damage for enemies
+	* Enemy stats boosted by 1.1x
+	* Bosses HP boosted by 2x and stats boosterd by 1.6
+	* Exp is 0.9x
 	(For you) Lowers Debuff timer by 2
 	Base Knowlege Level is 15
-	All enemy Pokémon can now naturally heal HP
-	All allied Pokémon loose hunger.
-	DP: 5
+	* (v) All enemy Pokémon can now naturally heal HP
+	* (v) All allied Pokémon loose hunger.
+	SP: 5
 Expert
-	1.5x Health and 1.25x damage for enemies
-	Eenemy Stats boosted by 1.25x
-	0.75x Health and damage for Allies and 0.85x stats
-	0.85x Stats for allies
-	Bosses HP boosted by 3x and stats boosted by 2.1x
-	Exp is 0.75x
+	* 1.5x Health and 1.25x damage for enemies
+	* Eenemy Stats boosted by 1.25x
+	* 0.75x Health and damage for Allies and 0.85x stats
+	* 0.85x Stats for allies
+	* Bosses HP boosted by 3x and stats boosted by 2.1x
+	* Exp is 0.75x
 	Lowers debuff timer by 4
 	Base Knowleve Level is 30
 	Traps never fail
 	Doom Traps can be found outside of level reset dungeons
-	Exp. gain is now based off of the percentage of damage dealt to enemy Pokémon.
-	DP: 3
+	* (v) Exp. gain is now based off of the percentage of damage dealt to enemy Pokémon.
+	SP: 3
 Master
-	2x Health and 1.5x damage for enemies
-	Enemy stats boosted by 1.5x
-	0.5x damage and Health for allies and 0.6x stats
-	Exp is 0.5x
+	* 2x Health and 1.5x damage for enemies
+	* Enemy stats boosted by 1.5x
+	* 0.5x damage and Health for allies and 0.6x stats
+	* Exp is 0.5x
 	Lowers debuff timer by 5
-	Bosses HP boosted by 4x and stats boosted by 2.5x
+	* Bosses HP boosted by 4x and stats boosted by 2.5x
 	Base knowlege Level is 50
 	Traps never fail and are twice as effective
 	Doom Traps can be found outside of level reset dungeons in the main story
 	Belly lowers for all members of the team, but lowers slower than the player
 	The lower a Pokémon's HP, the lower their damage. Only applies to Pokémon on your team.
 	Running out of Thirst deals damage plus inflicting Dehydrated.
-	DP: 1
+	SP: 1
+	
+~ Soul Strength (Character Difficulty):
+Softcore
+	Drop money and a 1/4 chance to drop any item in your inventory and equipped items (Treasure Bags are excluded) upon fainting. Standard Mystery Dungeon character difficulty.
+Mediumcore
+	Drop all money and items upon fainting.
+Hardcore
+	If you faint in a dungeon you will die for good.
+		You now have a mechanic call Soul Points (SP). This is the lifeforce of your soul. The number you have depends on the difficulty.
+		If your HP reaches 0, you will be knocked unconsious and you will take damage to your SP instead.
+		You will take 1 SP of damage per attack (2 for critical hits). If your SP reaches 0 you die and you must restart the game.
+		You SP will also not naturally regen, you must use very very rare SP healing items you can find throughout the game.
+		This also occurs if the following die.
+			Your true partner.
+			A story character.
+			
+Ultra Hardcore (Ultra HC)
+	The same mechanics as normal hardcore but with more suffering. The pinnical of difficulty.
+		You no longer naturally heal HP at anytime. You must use a healing item or accessory to regain HP. This also applies to leaving a dungeon (you won't heal HP).
+		Because of your weak personally and soul, the universe has desided to decrease the spawn rate of healing items (and increase their prices) just for you. How fun!
+		

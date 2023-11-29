@@ -1,5 +1,5 @@
-Medicine:
-Berries:
+~~ Medicine:
+~ Berries:
 Oran Berry
 	A blue juicy fruit that will heal the consumer for 35 HP.
 Leppa Berry
@@ -21,7 +21,7 @@ Sitrus Berry
 Lum Berry
 	A silver fruit that will fully restore the consumer's MP if it is below their Max MP. If it is equal to or greater 	than their Max MP. Their MP is boosted by 5. The the consumer is not magical, it will instead boost the PP of 	one move by 1.
 
-Heals:
+~ Heals:
 Oran Berry Brew
 	Crafting
 		2 Oran Berries
@@ -39,7 +39,7 @@ Omega Healing Brew
 	A flawless health drink made out of health boosting items that will restore all HP.
 Elixir of Life
 
-Other Stat Boosters:
+~ Other Stat Boosters:
 Donut
 	An very tasty Donut that fills you with warmth. Upon eating, a random stat including: (Attack, Defense, Sp. 	Atk., Sp. Def., Speed, or Agility), will increase by 1.
 Mega Donut
@@ -61,7 +61,7 @@ Poison Berry
 Molten Berry
 	A fiery berry with a molten center. When eaten, it will set the eater On Fire (Flaming).
 
-Drinks:
+~ Drinks:
 Ether
 	A small blue drink that will restore 10 PP for a single move or, if the consumer is magical, 35 MP.
 Max Ether

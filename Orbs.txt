@@ -1,4 +1,4 @@
- Orbs:
+~ Orbs:
 Align Orb
 	Makes teammates' HP equal that of the teammate with the highest HP.
 All Dodge Orb
@@ -18,19 +18,19 @@ Bank Orb
 Beatup Orb
 	It will summon all members of the team around the user.
 Blowback Orb
-	When used, it sends an enemy in front of the user flying back for 10 tiles. If the enemy hits a Pokémon or a 	wall tile it will take 10 damage.
+	When used, it sends an enemy in front of the user flying back for 10 tiles. If the enemy hits a Pokémon or a 	wall tile will take 10 damage.
 Cleanse Orb
 	It will cleanse any sticky items in the inventory, re-allowing use.
 Decoy Orb	
 	It will turn a Pokémon in front into a Decoy, causing all enemy Pokémon to attack it.
 Devolve Orb
-	An extremly powerful orb that devolves enemy Pokémon by one stage when smashed. Stage one Pokémon are 	uneffected.
+	An extremely powerful orb that devolves enemy Pokémon by one stage when smashed. Stage one Pokémon are 	unaffected.
 Drought Orb
 	An orb that will dry up all water on the floor when smashed.
 Escape Orb
 	When smashed, the user and their team will escape from the dungeon.
 Evasion Orb
-	An orb that will greatly increases the evasion of the user when smashed.
+	An orb that will greatly increase the evasion of the user when smashed.
 Fill-In Orb
 	An orb that, when smashed, will fill in water with floor tiles.
 Foe-Fear Orb
@@ -48,15 +48,15 @@ Helper Orb
 Hurl Orb
 	An orb with a gust inside of it. When smashed against a Pokémon, it will be hurled toward another enemy 	Pokémon.
 Identify Orb
-	An orb that, when smashed, will identify all Pokémon on the floor, and specially mark the ones holding items. It 	will also identify, items on the ground, traps, buiried items in walls and floor, and money.
+	An orb that, when smashed, will identify all Pokémon on the floor, and specially mark the ones holding items. It 	will also identify: items on the ground, traps, buried items in walls and floor, and money.
 Invisify Orb
 	An item that will turn the entire team invisible when smashed.
 Inviting Orb
 	An orb with an inviting aroma. When smashed, the user gains a boosted recruitment rate.
 Itemizer Orb
-	An orb that, when smashed against a Pokémon, will turn them into a random item, featured in the dungeon. 	Includes, the standard item, shop item, buried item, and treasure item loot pool.
+	An orb that, when smashed against a Pokémon, will turn them into a random item, featured in the dungeon. 	Includes the standard item, shop item, buried item, and treasure item loot pool.
 Lasso Orb
-	An orb that, when smashed, will summon all Pokémon on the floor to the user's location, and immobilizes them.
+	An orb that, when smashed, will summon all Pokémon on the floor to the user's location, and immobilize them.
 Lob Orb
 	An orb that, when smashed, will inflict 20-40 damage on an opponent from 2 tiles away.
 Longtoss Orb
@@ -111,3 +111,5 @@ Two-Edge Orb
 Warp Orb
 Weather Lock Orb
 Wigglytuff Orb
+
+

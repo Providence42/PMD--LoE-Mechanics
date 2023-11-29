@@ -1,4 +1,4 @@
-~ Drinks:
+~ Bases:
 Stagnant Water Bottle
 	A bottle filled with water picked from a dungeon. May not be fully safe to drink. Boil it to purify it. Restores 25 Thirst.
 Water Bottle
@@ -20,9 +20,9 @@ Tea
 Gummi Soda
 	A bottle of delicious Gummi soda.
 Arachnicattle Milk
-	A bottle of milk from an Arachnicattle. It clears up poisonus status effects.
+	A bottle of milk from an Arachnicattle. It clears up poisonous status effects.
 Cloudberry Tea
-	A small cup of tea, brewed from Cloudberries. It has a wonderous honey like taste. Restores 65 Belly and 45 HP.
+	A small cup of tea, brewed from Cloudberries. It has a wonderful honey-like taste. Restores 65 Belly and 45 HP.
 
 ~ Brews: (The following are all Crafted Items)
 Harden Brew
@@ -61,9 +61,9 @@ Plants
 Warped Weed
 	A small plant warped with time.
 Water Sprout
-	A small srouting flower, dripping with water.
+	A small sprouting flower, dripping with water.
 Flare Flower
-	A small plant imbued with volcanic activiity
+	A small plant imbued with volcanic activity
 Cloudberry
 	A small, sweet tasting, berry that is rarely found.
 Solar Spark
@@ -77,3 +77,4 @@ Iron Dust
 Bases
 Bottle
 	An empty glass bottle
+

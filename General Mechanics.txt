@@ -11,7 +11,7 @@ SP (Soul Points)
 	special methods.
 
 Belly
-	Your hunger. Can be refilled by eating food. If you run out of Belly, you will begin to starve. Goes down faster if 	you are in a wall.
+	Your hunger. Can be refilled by eating food. If you run out of Belly, you will begin to starve. Goes down faster if you are in a wall.
 	If you are on a tile that is NOT normal floor, and run out of Belly, you will take 4 HP of damage instead of
 	1.
 Thirst
