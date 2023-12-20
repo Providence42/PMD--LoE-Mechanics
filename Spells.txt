@@ -1,122 +1,144 @@
-Spells:
-Paladin:
-Offensive:
+~~~ Spells:
+~~ Paladin:
+~ Offensive:
 Water Dagger (3 MP) (Lv. 1) (Water)
 	You throw a water dagger a maximum of 2 tiles in front of you.
 	4 PWR
 	85 ACC
+	
 Multimach (7 MP) (Lv. 9) (Fighting)
 	You magically imbue yourself with lighting speed and attack a foe 1-3 times in a row.
 	2 PWR
 	75 ACC
+	
 Molten Hatchet (15 MP) (Lv. 18) (Fire)
-	You throw a molten hatchet in an enemy in front of the caster dealing damage and potentially setting the attacker 	on fire (Flaming debuff).
+	You throw a molten hatchet at an enemy in front of the caster dealing damage and potentially setting the attacker on fire (Flaming debuff).
 	8 PWR
 	90 ACC
+	
 Solar Spear (35 MP) (Lv. 30) (Fire)
-	You throw a spear made of solar energy that will explode if it hits an enemy dealing damage to all enemies 	around the explosion within a 1 tile radius.
+	You throw a spear made of solar energy that will explode if it hits an enemy dealing damage to all enemies around the explosion within a 1 tile radius.
 	12 PWR
 	100 ACC
+	
 Thunder Pound (35 MP) (Lv. 37) (Electric)
-	You jump up and bound the ground with an electric slam dealing damage to all enemies in a 1 tile radius around 	the player.
+	You jump up and bound the ground with an electric slam dealing damage to all enemies in a 1 tile radius around the player.
 	8 PWR
 	100 ACC
 	PAR: 30%
-Defensive:
-Heal:
+	
+~ Defensive:
+~ Heal:
 Healing Aura (35 MP) (Lv. 20) (Fairy)
-	You create a large aura of healing energy in a 4 tile square. All allies that enter the aura will heal 5 HP of 	health every turn. All enemies inside the aura take 5 HP of damage.
-Others:
+	You create a large aura of healing energy in a 4 tile square. All allies that enter the aura will heal 5 HP of health every turn. All enemies inside the aura take 5 HP of damage.
+~ Others:
 
-Grenadier:
-Offensive:
+~~ Grenadier:
+~ Offensive:
 Fire Bullet (3 MP) (Lv. 1) (Fire)
 	You release an erratic bullet of concentrated flaming energy. 
 	3 PWR
 	75 ACC
+	
 Spark Shot (5 MP) (Lv. 3) (Electric)
 	You release a charged, condensed, shower of sparks from your hand that can strike an enemy from far away.
 	4 PWR
 	85 ACC
-Defensive:
-Heal:
+	
+~ Defensive:
+~ Heal:
 Viviatic Bolt (20 MP) (Fairy)
 	You release a large bolt of healing energy that heals 1/4 of the target's Max HP.
-Others:
+~ Others:
 
-Warlock:
-Offensive:
+~~ Warlock:
+~ Offensive:
 ThunderSpark (3 MP) (Lv. 1) (Electric)
 	You release a shower of small sparks in a straight line with a 2 tile range. It has a small chance to paralyze.
 	2 PWR
 	75 ACC
+	
 Frost Ball (4 MP) (Lv. 6) (Ice)
 	You create a frozen ball of ice and throw it to a Pokémon within a line of sight.
 	3 PWR
 	85 ACC
+	
 Fire Burst (8 MP) (Lv. 14) (Fire)
-	You create 3 bolts of flaming fire energy that attacks all Pokémon to the three tiles in front, and to the 	diagnoals of you.
+	You create 3 bolts of flaming fire energy that attacks all Pokémon to the three tiles in front, and to the diagnoals of you.
 	4 PWR
 	80 ACC
 	20% BRN
+	
 Hellish Burst (10 MP) (Lv. 20) (Dark)
 	You release a blast of hellish dark energy that has a high chance to flinch and critically hit the target.
 	10 PWR
 	FLN: 30%
 	CRT: 16%
+	
 Winter's Frost (17 MP) (Lv. 24) (Ice)
-	You release a wave of cold frost that damages all enemies in the tile right in front of you, right to the left of 	you, and right to the right of you. It has a chance at freezing them.
+	You release a wave of cold frost that damages all enemies in the tile right in front of you, right to the left of you, and right to the right of you. It has a chance at freezing them.
 	5 PWR
 	80 ACC
 	FRZ: 30%
+	
 Wind Chill (30 MP) (Lv. 30) (Ice)
-	You release a wave of ice cold wind that damages all enemies in the room. If the weather is Snowy, Windy, 	Hailing, or a Tornado; the power of the move is doubled and will never miss. It has a chance to freeze.
+	You release a wave of ice cold wind that damages all enemies in the room. If the weather is Snowy, Windy, Hailing, or a Tornado; the power of the move is doubled and will never miss. It has a chance to freeze.
 	5 PWR
 	80 ACC
 	FRZ: 10%
+	
 Knowlege Storm (25 MP) (Lv. 35) (Psyhcic)
-	You release a wave of brain waves in a 1 tile radius around you, damaging all enemy Pokémon with your brain 	power.
+	You release a wave of brain waves in a 1 tile radius around you, damaging all enemy Pokémon with your brain power.
 	clamp(Knowlege / 3.5, 4, 10) PWR
 	100 ACC
+	
 Supernova (50 MP) (Lv 64) (Normal)
 	You release a massive explosion of energy that massively damages any foe in front.
 	30 PWR
-Defensive:
+	
+~ Defensive:
 Shield (10 MP)
 	You create a shimmering light around your body that boosts your Defense by 1.1x
 Mage Armor (15 MP)
 	You cast a glimmering layer around your body reducing incoming Physical attacks by 0.85x.
 Shockwave (35 MP)
-	You release a wave of powerful force in all directions that damages any one in a 1 tile area around you. Any 	enemy that is hit will get pushed back 3 tiles. If the enemy hits a wall, they take 10-30 damage. If the enemy 	hits a Pokémon, they both take 10-30 damage.
+	You release a wave of powerful force in all directions that damages any one in a 1 tile area around you. Any enemy that is hit will get pushed back 3 tiles. If the enemy hits a wall, they take 10-30 damage. If the enemy hits a Pokémon, they both take 10-30 damage.
 	6 PWR
 	100 ACC
+	
 Spirit Aura
-	You release an aura of energy that surrounds the caster for a 2 tile radius. If an enemy Pokémon stepps inside 	the aura, they will take 1/15th their maximum HP in damage.
-Heal:
+	You release an aura of energy that surrounds the caster for a 2 tile radius. If an enemy Pokémon stepps inside the aura, they will take 1/15th their maximum HP in damage.
+Counterspell (25 MP) (Lv. 22)
+	You reaction cast a swift shield of magic that can nullify incoming Special attacks, and reduce damage on Special contact attacks. In order to nullify the attack, you must be 5 levels higher than your enemy for a guaranteed block. If these conditions are not met, then a random roll involving your Speed, the enemy's Speed, your Level, and your enemy's Level occurs. Upon a succesful block, it uses up your turn.
+
+
+~ Heal:
 Touch of Life (15 MP)
 	You restore 20% of the target's current HP. You can also remove Burn and Poison.
 Greater Lifeup
 Super Lifeup
 Omega Lifeup
-Others:
-Sunlight (30 MP)
-	The caster releases an extremely bright light that clears the floor of Foggy  or Cloudy weather and a Foggy 	dungeon floor.
-Void Blink (45 MP)
-	The caster is consumed by dark light and can teleport up to 5 tiles in the direction they are facing. You can 	teleport through walls, tiles like water and lava, and enemies.
 
-Classless:
-Offensive:
-Defensive:
-Healing:
+~ Others:
+Sunlight (30 MP)
+	The caster releases an extremely bright light that clears the floor of Foggy or Cloudy weather and a Foggy dungeon floor.
+Void Blink (45 MP)
+	The caster is consumed by dark light and can teleport up to 5 tiles in the direction they are facing. You can teleport through walls, tiles like water and lava, and enemies.
+
+~~ Classless:
+~ Offensive:
+~ Defensive:
+~ Healing:
 Lesser Lifeup (35 MP)
 	A spell that restores some HP at the cost of a lot of MP.
 Lifeup
-Others:
+
+~ Others:
 Dispel Magic (25 Mage, 45 for Melee and Ranger)
-	A magic spell that can dispel magic, huh... It dispel's effects placed up by Pokémon such as Magic Coat, Reflect, 	Protect, etc... It can also dispel magical status effects like Embargo or others.
+	A magic spell that can dispel magic, huh... It dispel's effects placed up by Pokémon such as Magic Coat, Reflect, Protect, etc... It can also dispel magical status effects like Embargo or others.
 Detect Magic (25 Mage, 45 for Melee and Ranger)
-	You release a pulse of magical energy to detect any strange magical sources from the dungeon such as items 	hidden in walls, secret exits, etc... If the caster is a Warlock, the range is 2 tiles larger.
+	You release a pulse of magical energy to detect any strange magical sources from the dungeon such as items hidden in walls, secret exits, etc... If the caster is a Warlock, the range is 2 tiles larger.
 Friends
 	You change your aura around you to become more friendly looking, increasing your recruitment rate.
-Revivfy (>1 SP) (75 MP)
-	You are now able to cheat death, or at least someone else is able to. You are able to fracture your soul and give 	part of it to a dead ally, but you loose that soul piece. They are revived with 1 HP and 1 SP.
+Revivfy (35 Mage, 50 Melee and Ranger) (>1 SP) (75 MP)
+	You are now able to cheat death, or at least someone else is able to. You are able to fracture your soul and give part of it to a dead ally, but you loose that soul piece. They are revived with 1 HP and 1 SP.

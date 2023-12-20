@@ -91,23 +91,38 @@ Regimental Bandmaster
 Director of Music
 	Director of all music for all bands.
 
-~~ Organization:
-Rescue Team
-Section
-Troop
-Platoon
-Squadron
-Company
-Battalion
-Regiment
-Brigade
-Division
-Corps
-
 
 ~ Sea:
+J0: Seamon Recruit
+J1: Seamon
+J2: First Seamon
+J3: Able Rate
+J4: Petty Officer
+J5: Chief Petty Officer
+J6: Midshipmon
+
+S1: Ensign
+S2: Aspirant
+S3: Commander
+S4: Commadore
+S5: Admiral
+S6: Commandant
 
 ~ Air:
+J0: Airmon Recruit
+J1: Airmon
+J2: First Airmon
+J3: Aeromon
+J4: Aero Officer
+J5: Chief Aero Officer
+J6: Wingmon
+
+S1: Cornet
+S2: Subaltern
+S3: Aura
+S4: Ventus
+S5: Tempest
+S6: Commandant
 
 ~ King's Guard:
 

@@ -129,7 +129,7 @@ Golden Mask
 Wonder Chest
 	A chest filled with wonder and mystery. When equipped, you will gain 3x more experience points.
 Miracle Chest
-	A chest of divine power and filled with the essence of pure miracles. When equipped, the wearer will gain 4x more experience points. In addition, this chest has a 30% to cause an incoming attack to miss. This is calculated 	separately to move accuracy.
+	A chest of divine power and filled with the essence of pure miracles. When equipped, the wearer will gain 4x more experience points. In addition, this chest has a 30% to cause an incoming attack to miss. This is calculated separately to move accuracy.
 Space Globe
 	An artifact of divine power, filled with Arceus' power to manipulate time and space. Will cause the power of the holder's moves to be quadrupled (Does not affect: Strength, Resilience, or Intelligence)
 
@@ -222,11 +222,11 @@ Health Pendant
 Ring of Regeneration
 	A ring made of life radiating materials. The wearer will gain 5 HP per turn of regeneration.
 Life Dew
-	A pearl covered in a plant that secretes life empowering dew. Will boost your health regeneration rate 	greatly. Has a chance to slightly reduce damage taken (0.85x at 30%). If you walk on water, you have a 	chance at regaining 1/8 your Max HP.
+	A pearl covered in a plant that secretes life empowering dew. Will boost your health regeneration rate 	greatly. Has a chance to slightly reduce damage taken (0.85x at 30%). If you walk on water, you have a chance at regaining 1/8 your Max HP.
 Thigh Charm
-	A charm that magically gives your legs a quick boost. Will boost the wearer's Speed by 1.25x and boost the 	wearer's Movement Speed (with a 25% chance) if the wearer is hit.
+	A charm that magically gives your legs a quick boost. Will boost the wearer's Speed by 1.25x and boost the wearer's Movement Speed (with a 25% chance) if the wearer is hit.
 Phoenix Charm
-	Rebirths the wearer in a plume of fire when they are fainted or killed (being killed takes priority which can only 	happen on weaker soul strengths). When the wearer is rebirthed, they gain a 3x boost to damage 	for the floor, and are invincible for 10 turns. After that, they gain a 3x reduction in 	damage for the rest of the floor. Can only be used once per dungeon. Will break if the difficulty is 	Expert or above. You can also swim in lava and any Fire type attack is reduced by 0.5x.
+	Rebirths the wearer in a plume of fire when they are fainted or killed (being killed takes priority which can only 	happen on weaker soul strengths). When the wearer is rebirthed, they gain a 3x boost to damage for the floor, and are invincible for 10 turns. After that, they gain a 3x reduction in damage for the rest of the floor. Can only be used once per dungeon. Will break if the difficulty is Expert or above. You can also swim in lava and any Fire type attack is reduced by 0.5x.
 Winged Sandals
 	A pair of leather sandals with wings on them. When worn, the Speed of the wearer is boosted by 1.5x.
 Vanish Cape
@@ -234,18 +234,19 @@ Vanish Cape
 Vampire Claws
 	When you make a Physical type attack, you restore 10% of your attack's damage in HP.
 Amulet of Power
-	A necklace that radiates immense power. When attacked, the enemies will take half damage back. You also have a 	small chance to release an explosion that deals damage to nearby enemies. Boosts Wrath by 5.
+	A necklace that radiates immense power. When attacked, the enemies will take half damage back. You also have a small chance to release an explosion that deals damage to nearby enemies. Boosts Wrath by 5.
 Chaos Powder
-	When attacked by a ranged attack (includes room wide moves), you have a small chance to chaotically rearrange 	yourself around the attack and end up in a position nearby, thus dodging it.
+	When attacked by a ranged attack (includes room wide moves), you have a small chance to chaotically rearrange yourself around the attack and end up in a position nearby, thus dodging it.
 Verglas Glove
-	An ice cold glove that radiates frigid temperatures, but surprisingly warm inside. When you attack an enemy, 	your attack as a chance to inflict Stasis upon them.
-
+	An ice cold glove that radiates frigid temperatures, but surprisingly warm inside. When you attack an enemy, your attack as a chance to inflict Stasis upon them.
+Coronet of Thorns
+	A coronet of prickly, dead, thorns, embued with magic and power. When worn, the coronet absorbs all damage taken and deals it to you overtime through its thorns (thorns damage). It even damages you outside of turn based combat.|n If your HP reaches 0 due to thorns damage, it will be counted that you had fained upon your turn.|n When you use a healing item, this thorns damage is reduced by the amount that the healing item heals you.|n (Example: If you take 50 damage and heal 25 HP. The damage will be reduced to 25 and you will be healed 25.)|n This damage is dealt to you for 1 damage every quarter of a second.
 
 
 
 ~ Class specific:
 Ethereal Talisman
-	A talisman from a world beyond your own, it softly vibrates with etherial energy. Boosts your Wisdom by 45. 	Any magic attack will release an explosion of etherial energy that will lock on to nearby foes and deal extra 	damage.
+	A talisman from a world beyond your own, it softly vibrates with etherial energy. Boosts your Wisdom by 45. Any magic attack will release an explosion of etherial energy that will lock on to nearby foes and deal extra 	damage.
 
 Hardcore Specific:
 Soul Soothing Pendant
@@ -253,7 +254,7 @@ Soul Soothing Pendant
 Crystal of Indirection
 	While unconscious, you will only take one damage every two hits.
 Crystal Soul
-	While unconscious, critical hits only deal one damage, and you only take one damage every two hits. Boosts	your Wrath by 8%.
+	While unconscious, critical hits only deal one damage, and you only take one damage every two hits. Boosts your Wrath by 8%.
 	Crafted Item
 		Crystal of Indirection
 		Soul Soothing Pendant
@@ -263,11 +264,11 @@ Crystal Soul
 
 ~ Vanilla Items Converted To Custom:
 Lunar Ribbon
-	A magical ribbon infused with the power of the Moon. When worn at night or in dark places, the wearers attack 	damage is boosted by 2x.
+	A magical ribbon infused with the power of the Moon. When worn at night or in dark places, the wearers attack damage is boosted by 2x.
 Solar Ribbon
-	A magical ribbon infused with the power of the Sun. When worn in the day or in light filled areas, the wearers 	attack damage is boosted by 2x.
+	A magical ribbon infused with the power of the Sun. When worn in the day or in light filled areas, the wearers attack damage is boosted by 2x.
 Deep Sea Scale
-	A scale infused with the power of the waters of the world. When equipped all water based moves' Power are 	boosted by 2x. If you are in a water filled area, then the Power of all moves are boosted by 1.5x
+	A scale infused with the power of the waters of the world. When equipped all water based moves' Power are boosted by 2x. If you are in a water filled area, then the Power of all moves are boosted by 1.5x
 Dragon Scale
 
 ~ Crafted Items:
@@ -275,14 +276,14 @@ Empyrean Ribbon
 	Crafted Item
 		Lunar Ribbon
 		Solar Ribbon
-	A magical ribbon infused with the power of the celestial bodies. When worn, the damage of the wearer's moves 	is boosted by 1.5x.
+	A magical ribbon infused with the power of the celestial bodies. When worn, the damage of the wearer's moves is boosted by 1.5x.
 Honey Dew
 	Crafted Item
 		Life Dew
 		Amber Tear
-	A pearl covered in a life filled, honey secreting, planet material that combines the functions of the Life Dew and 	Amber Tear. Which are as follows:
-		Will boost your health regeneration rate greatly. If you walk on water, you have a chance at regaining 			1/8 your 	Max HP.
-		When equipped, attacks that are not very effective or lower heal the wearer. The values are as 			follows.
+	A pearl covered in a life filled, honey secreting, planet material that combines the functions of the Life Dew and Amber Tear. Which are as follows:
+		Will boost your health regeneration rate greatly. If you walk on water, you have a chance at regaining 1/8 your Max HP.
+		When equipped, attacks that are not very effective or lower heal the wearer. The values are as follows.
 			Not very effective: 10% of current HP. Damage is reduced by half.
 			Little effect: 20% current HP. Damage is negated.
 			Little to no effect: 30% of current HP. Damage is negated.
@@ -310,7 +311,7 @@ Rampart of the Empyrean
 		Talaria
 		Space Globe
 		Phoenix Charm
-		Vampire Teeth	
+		Vampire Teeth
 	You become one with the gods themselves.
 	
 	

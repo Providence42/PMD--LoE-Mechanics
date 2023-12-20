@@ -12,13 +12,13 @@ All Power-Up Orb
 All Protect Orb
 	Will give the Protect status to all members of the user's team. The larger the team, the longer the status lasts.
 Apathy Orb
-	Using this orb will make the floor Apathetic, making any enemy drop the item they are holding and unable to 	pickup any more. Their movement Speed is also lowered upon the use of this item, but not for the entire duration 	of the floor.
+	Using this orb will make the floor Apathetic, making any enemy drop the item they are holding and unable to pickup any more. Their movement Speed is also lowered upon the use of this item, but not for the entire duration 	of the floor.
 Bank Orb
 	Using this item will deposit all money on the user into storage.
 Beatup Orb
 	It will summon all members of the team around the user.
 Blowback Orb
-	When used, it sends an enemy in front of the user flying back for 10 tiles. If the enemy hits a Pokémon or a 	wall tile will take 10 damage.
+	When used, it sends an enemy in front of the user flying back for 10 tiles. If the enemy hits a Pokémon or a 	wall tile, it will take 10 damage.
 Cleanse Orb
 	It will cleanse any sticky items in the inventory, re-allowing use.
 Decoy Orb	

@@ -1,0 +1,89 @@
+~~ Units of the Corps of Angels:
+
+~ Land:
+Rescue Team (Lance Corporal)
+	3 Angels
+	The lowest organization.
+Rescue Squad (Corporal)
+	9 Angels
+	3 Teams
+Section (Sergeant)
+	18 Angels
+	2 Squads
+Platoon (Lieutenant)
+	Centurion (as assistant)
+	37 Members
+	2 Sections
+Company
+	Captain
+	Prefect
+	75 Angels
+	2 Platoons
+Battalion
+	Major
+	Battalion Prefect
+	226 Members
+	3 Companies
+Regiment
+	Colonel
+	Regimental Prefect
+	453 Members
+	2 Battalions
+
+~ Sea:
+Rescue Team
+Rescue Squad
+Section
+Crew
+Squadron
+Flotilla
+Fleet
+
+~ Air:
+Detail
+Element
+Section
+Echelon
+Flight
+Group
+Wing
+
+~ Outside of the Divisions:
+
+Division
+	Division of Land
+		3 Regiments
+		1360 Members
+	Division of Sea
+	Division of Air
+
+
+Corps
+	Commandant
+	4081 Members
+
+~ Units:
+Corps of Angels (His Higness, Commandant Garchomp, the Prince of Angels)
+	Division of Land (Her Grace, Brigadier Gardevoir, the Duke of Land)
+		1st Regiment of Light Explorers (His Honor, Colonel Zangoose, the Earl of Combat)
+			1st Battalion (Major Lopunny)
+				A Company (Captain Nidarina)
+				B Company
+				C Company
+			2nd Battalion, The Scouts
+				D Company
+				E Company
+				F Company
+		2nd Regiment of Explorers
+		3rd Regiment of Explorers
+	Division of Sea (His Grace, Admiral Floatzel, the Duke of Sea)
+		The Fleet
+	Division of Air (Her Grace, Tempest Altaria, the Duke of Air)
+		1st Wing
+		2nd Wing
+		3rd Wing
+
+
+Notes:
+Commanders
+The ranks of the commanders of the units split in a path. Once you reach Centurion, you can go to a commander level (Lieutenant) or to Prefect to stay on the junior side.
