@@ -1,6 +1,6 @@
-Vanities:
-Humans:
-Head
+~~~ Vanities:
+~~ Humans:
+~ Head
 Jackets
 Sweatshirt
 Jacket
@@ -8,21 +8,20 @@ Flannel
 Short Jacket
 
 
-Shirts
+~ Shirts
 T-Shirt
 Pollo
-Sleeve-Less
+Sleeveless
 Crop-Top
 
-Legs
+~ Legs
 Pants
 Shorts
 Dress
 Skirt
 
-Boots
+~ Boots
 Sneakers
 Boots
 Sandals
-Mary Jane's
-
+Mary Janes'

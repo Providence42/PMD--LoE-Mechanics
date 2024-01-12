@@ -1,0 +1,11 @@
+Tempo:
+Grave (24-40)
+Largo
+Adagio
+Andante
+Moderato
+Allegretto
+Allegro
+Vivace
+Presto
+Prestissimo

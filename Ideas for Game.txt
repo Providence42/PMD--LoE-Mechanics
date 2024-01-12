@@ -31,6 +31,7 @@ Change how Strength, Resillience, and Intellegence work.:
 	Resillience: Damage reduction
 	Intellegence: Special Attack mult
 
+Make it so Pokemon detect if they've been hit from themselves, not with the bullet???? (Maybe, just an idea)
 
 Revamp external Pokemon format to include forms, gender ratios, drop rates
 Switching spots takes up both's turns
