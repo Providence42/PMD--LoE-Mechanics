@@ -1,0 +1,36 @@
+~~ Here are the selections for player characters in PMD: The Seventh Side
+~ GEN 1: (13)
+
+~ GEN 2: (8)
+
+~ GEN 3: (9)
+
+~ GEN 4: (8)
+
+~ GEN 5: (7)
+
+~ GEN 6: (6)
+//Litleo
+
+~ //Probably not
+~ GEN 7:
+Rowlet
+Litten
+Popplio
+Rockruff
+Togedemaru
+
+~ GEN 8:
+Grookey
+Scorbunny
+Sobble
+Rookidee
+Hatenna
+Snom
+
+~ GEN 9:
+Sprigatito
+Fuecoco
+Quaxly
+Pawmi
+

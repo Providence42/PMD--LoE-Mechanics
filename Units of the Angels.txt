@@ -1,36 +1,49 @@
 ~~ Units of the Corps of Angels:
 
 ~ Land:
+Land is the Division responsable for exploring the landed areas of the world. Made up of 5 Regiments.
+1st Regiment is comprised of a Foot Guard, a.k.a, the King's Guard. They are elite Angels made up of the best, and strongest of the Corps, and commanded by those who are exceptional leaders, and have a special role. Their main job is to guard the King, but they also serve as elite troops in the field. When push comes to shove and the normal regiments cant get it done, send in the King's Guard. Note, this is not used for exploring, that's what the other regiments are for. But if the King or the Prince of Angels needs something very important or something cannot be achieved with normal Angels, then the King's Guard gets sent in.
+The other Regiments make up the "line-infantry" of the Angels and are mostly used for exploring different parts of the world, and exploring dungeons and such.
+The 5th Regiment is the Police Regiment and makes up the day to day policing of the Sancuary.
+
 Rescue Team (Lance Corporal)
 	3 Angels
 	The lowest organization.
 Rescue Squad (Corporal)
-	9 Angels
+	10 Angels
 	3 Teams
 Section (Sergeant)
-	18 Angels
+	21 Angels
 	2 Squads
 Platoon (Lieutenant)
 	Centurion (as assistant)
-	37 Members
+	44 Members
 	2 Sections
 Company
 	Captain
 	Prefect
-	75 Angels
+	90 Angels
 	2 Platoons
 Battalion
 	Major
 	Battalion Prefect
-	226 Members
+	272 Members
 	3 Companies
 Regiment
 	Colonel
 	Regimental Prefect
-	453 Members
+	546 Members
 	2 Battalions
 
 ~ Sea:
+The Division of Sea is responsable for exploring the Seas of the world. Made up of 2 Fleets.
+1st Fleet is made up of special troops, like the King's Guard.
+1st Flotilla, the Army of the Sea, is made up of purely underwater Angels, that explore the depths of the ocean.
+2nd Flotilla, the Marines, are made up of troops that can explore underwater and on land.
+
+2nd Fleet is made up of the physical ships of the Angels.
+Each Flotilla is made up of ships that patrol and explore the parts of the ocean in the 4 cardinal directions, North, East, South, and West.
+
 Rescue Team
 Rescue Squad
 Section
@@ -40,6 +53,11 @@ Flotilla
 Fleet
 
 ~ Air:
+The Division of Air is made up of elite bird and flying Angels that explore the skies of the world. They can make up aerial exploration and scouting ahead of unknown areas.
+1st Wing are the Scouts, and they scout ahead of an expadition. They make up elite birds who are hardened from other Wings.
+2nd Wing are the general explorers, and they explore high up and cloud based places.
+3rd Wing are the grounded birds. They deal with the logistics of flight and serve as crews for those who can fly.
+
 Detail
 Element
 Section
@@ -62,27 +80,80 @@ Corps
 	Commandant
 	4081 Members
 
-~ Units:
-Corps of Angels (His Higness, Commandant Garchomp, the Prince of Angels)
-	Division of Land (Her Grace, Brigadier Gardevoir, the Duke of Land)
-		1st Regiment of Light Explorers (His Honor, Colonel Zangoose, the Earl of Combat)
-			1st Battalion (Major Lopunny)
-				A Company (Captain Nidarina)
+~ Units: (Numbers are at full strength)
+Corps of Angels (His Highness, Commandant Garchomp, the Prince of Angels)
+	Division of Land (Her Grace, General Gardevoir, the Duke of Land) [2732 Mons]
+		1st Regiment of Foot Guards, the King's Guard (His Grace, Colonel Lucario, the Earl of the Guard) [366 Mons]
+			1st Battalion [182 Angels]
+				1st Company 
+				2nd Company
+			2nd Battalion
+				3rd Company
+				4th Company
+		2nd Regiment of Explorers (His Honor, Colonel Zangoose, the Adjutant Colonel, the Earl of Combat) [546 Mons]
+			3rd Battalion (Major Lopunny) [272]
+				A Company (Captain Nidarina / Prefect Charmeleon, the Company Prefect)
+					A Platoon (Lieutenant Azumarill)
+					B Platoon
 				B Company
 				C Company
-			2nd Battalion, The Scouts
+			4th Battalion
 				D Company
 				E Company
 				F Company
-		2nd Regiment of Explorers
-		3rd Regiment of Explorers
+		3rd Regiment of Explorers [546 Mons]
+			5th Battalion
+				G Company
+				H Company
+				I Company
+			6th Battalion
+				J Company
+				K Company
+				L Company
+		4th Regiment of Explorers [546 Mons]
+			7th Battalion
+				M Company
+				N Company
+				O Company
+			8th Battalion
+				P Company
+				Q Company
+				R Company
+		5th Regiment of Constables (Her Honor, Colonel Gothitelle, the Earl of Police) [728 Mons]
+			1st Police Battalion, the North Police [182 Mons]
+			2nd Police Battalion, the East Police
+			3rd Police Battailon, the South Police
+			4th Police Battailon, the West Police
+			
 	Division of Sea (His Grace, Admiral Floatzel, the Duke of Sea)
-		The Fleet
-	Division of Air (Her Grace, Tempest Altaria, the Duke of Air)
-		1st Wing
-		2nd Wing
-		3rd Wing
+		1st Fleet (His Honor, Commadore Empoleon, the Adjutant Commadore)
+			1st Flotilla, the Army of the Sea (Commander Relicanth)
+			2nd Flotilla, the Marines (Commander Crawdaunt)
+		2nd Fleet (Commadore Walrein)
+			3rd Flotilla, the Flotilla of the Eastern Seas (Commander 
+			4th Flotilla, the Flotilla of the Northern Seas (Commander 
+			5th Flotilla, the Flotilla of the Western Seas (Commander 
+			6th Flotilla, the Flotilla of the Southern Seas (Commander 
 
+	Division of Air (Her Grace, Tempest Altaria, the Duke of Air)
+		1st Wing, the Scouts (Her Honor, Ventus Staraptor, the Adjutant Ventus)
+			1st Group
+			2nd Group
+			3rd Group
+			4th Group
+		2nd Wing
+			A Group
+			B Group
+			C Group
+		3rd Wing, the Caretakers
+			D Group
+			E Group
+			F Group
+		
+	Brigade of Medicine (Her Grace, Brigadier Audino, the Duke of Medicine)
+		1st Medic Regiment, the Artery of Land
+		2nd Medic Regiment, the Artery of Sea
+		3rd Medic Regiment, the Artery of Air
 
 Notes:
 Commanders

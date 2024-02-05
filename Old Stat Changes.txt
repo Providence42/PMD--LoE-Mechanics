@@ -1,0 +1,142 @@
+case 1: //Attack or SpAtk
+		{
+			switch (StatChange)
+			{
+				case 0:
+					Num = 128;
+					break;
+				case 1:
+					Num = 133;
+					break;
+				case 2:
+					Num = 138;
+					break;
+				case 3:
+					Num = 143;
+					break;
+				case 4:
+					Num = 148;
+					break;
+				case 5:
+					Num = 153;
+					break;
+				case 6:
+					Num = 161;
+					break;
+				case 7:
+					Num = 171;
+					break;
+				case 8:
+					Num = 179;
+					break;
+				case 9:
+					Num = 204;
+					break;
+				case 11:
+					Num = 307;
+					break;
+				case 12:
+					Num = 332;
+					break;
+				case 13:
+					Num = 358;
+					break;
+				case 14:
+					Num = 384;
+					break;
+				case 15:
+					Num = 409;
+					break;
+				case 16:
+					Num = 422;
+					break;
+				case 17:
+					Num = 435;
+					break;
+				case 18:
+					Num = 448;
+					break;
+				case 19:
+					Num = 460;
+					break;
+				case 20:
+					Num = 473;
+					break;
+			}
+			break;
+		}
+		case 2: //Defense or SpDefense
+		{
+			switch (StatChange)
+			{
+				case 0:
+					Num = 7;
+					break;
+				case 1:
+					Num = 12;
+					break;
+				case 2:
+					Num = 25;
+					break;
+				case 3:
+					Num = 38;
+					break;
+				case 4:
+					Num = 51;
+					break;
+				case 5:
+					Num = 64;
+					break;
+				case 6:
+					Num = 76;
+					break;
+				case 7:
+					Num = 102;
+					break;
+				case 8:
+					Num = 128;
+					break;
+				case 9:
+					Num = 179;
+					break;
+				case 11:
+					Num = ;
+					break;
+				case 12:
+					Num = ;
+					break;
+				case 13:
+					Num = ;
+					break;
+				case 14:
+					Num = ;
+					break;
+				case 15:
+					Num = ;
+					break;
+				case 16:
+					Num = ;
+					break;
+				case 17:
+					Num = ;
+					break;
+				case 18:
+					Num = ;
+					break;
+				case 19:
+					Num = ;
+					break;
+				case 20:
+					Num = ;
+					break;
+			}
+			break;
+		}
+		case ACCURACY:
+		{
+			break;
+		}
+		case EVASION:
+		{
+			break;
+		}

@@ -1,5 +1,5 @@
-Here are the selections for player characters in PMD: The Seventh Side
-GEN 1: (13)
+~~ Here are the selections for player characters in PMD: The Seventh Side
+~ GEN 1: (13)
 Bulbasaur
 Charmander
 Squirtle
@@ -14,7 +14,7 @@ Cubone
 Eevee
 Dratini
 
-GEN 2: (8)
+~ GEN 2: (8)
 Chikorita
 Cyndaquil
 Totodile
@@ -24,7 +24,7 @@ Sneasel
 Teddiursa
 Phanpy
 
-GEN 3: (9)
+~ GEN 3: (9)
 Treecko
 Mudkip
 Torchic
@@ -35,7 +35,7 @@ Swablu
 Shuppet
 Spheal
 
-GEN 4: (8)
+~ GEN 4: (8)
 Turtwig
 Piplup
 Chimchar
@@ -45,7 +45,7 @@ Riolu
 Skorupi
 Shinx
 
-GEN 5: (7)
+~ GEN 5: (7)
 Snivy
 Tepig
 Oshawott
@@ -54,7 +54,7 @@ Roggenrola
 Zorua
 Cubchoo
 
-GEN 6: (6)
+~ GEN 6: (6)
 Chespin
 Fennekin
 Froakie
@@ -62,13 +62,15 @@ Froakie
 Swirlix
 Inkay
 
-//Probably not
+~ //Probably not
+~ GEN 7:
 Rowlet
 Litten
 Popplio
 Rockruff
 Togedemaru
 
+~ GEN 8:
 Grookey
 Scorbunny
 Sobble
@@ -76,7 +78,7 @@ Rookidee
 Hatenna
 Snom
 
-//
+~ GEN 9:
 Sprigatito
 Fuecoco
 Quaxly

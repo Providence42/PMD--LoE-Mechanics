@@ -7,6 +7,7 @@ J3: Corporal
 J4: Sergeant
 J5: Centurion
 J6: Prefect
+
 S1: Lieutenant
 S2: Captain
 S3: Major
@@ -45,6 +46,9 @@ Colonel
 		See following.
 Brigadier
 	The commander of the Division of Land and a walking god on Earth. They're responsible for all aspects of the Division and are in complete control of its functions. They climbed the ranks from Angel to the top and their style of leadership is unique and their position well earned.
+General
+	The commander of the Division of Land and a walking god on Earth. They're responsible for all aspects of the Division and are in complete control of its functions. They climbed the ranks from Angel to the top and their style of leadership is unique and their position well earned.
+
 
 ~~ Band
 Ranks:
@@ -123,8 +127,6 @@ S3: Aura
 S4: Ventus
 S5: Tempest
 S6: Commandant
-
-~ King's Guard:
 
 ~~ Groupings:
 Angel
