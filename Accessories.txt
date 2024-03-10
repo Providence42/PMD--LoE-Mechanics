@@ -199,9 +199,10 @@ Nimble Scarf
 
 
 ~ Others:
-Lower end:
+Early Game:
 Rusty Locket
 	A locket coated in a thick layer of rust that is unable to be opened. It's presence on your person when you awoke gives you a sense of mystery, curiosity, and dread.
+	Key Item
 Clawed Gloves
 	A pair of clawed gloves that boost the damage of Physical attacks by 5.
 	Can be bought from the equipment shop.
@@ -209,6 +210,14 @@ Baldric
 	A leather baldric for carrying a sword. Swords deal 1.1x damage.
 Poisoned Fang
 	A small fang coated in poison. Your Physical attacks have a 25% chance of poisoning your enemies.
+
+
+
+~ Middle Game:
+Sam Browne Belt
+	A leather belt with a special rig for holding a sword. Swords deal 1.25x damage and, when attacked, you reaction slash the enemy. This reaction attack deals 0.85x damage. 
+
+
 
 ~ Higher end:
 Ring of Resistance
@@ -222,11 +231,11 @@ Health Pendant
 Ring of Regeneration
 	A ring made of life radiating materials. The wearer will gain 5 HP per turn of regeneration.
 Life Dew
-	A pearl covered in a plant that secretes life empowering dew. Will boost your health regeneration rate 	greatly. Has a chance to slightly reduce damage taken (0.85x at 30%). If you walk on water, you have a chance at regaining 1/8 your Max HP.
+	A pearl covered in a plant that secretes life empowering dew. Will boost your health regeneration rate greatly. Has a chance to slightly reduce damage taken (0.85x at 30%). If you walk on water, you have a chance at regaining 1/8 your Max HP.
 Thigh Charm
 	A charm that magically gives your legs a quick boost. Will boost the wearer's Speed by 1.25x and boost the wearer's Movement Speed (with a 25% chance) if the wearer is hit.
 Phoenix Charm
-	Rebirths the wearer in a plume of fire when they are fainted or killed (being killed takes priority which can only 	happen on weaker soul strengths). When the wearer is rebirthed, they gain a 3x boost to damage for the floor, and are invincible for 10 turns. After that, they gain a 3x reduction in damage for the rest of the floor. Can only be used once per dungeon. Will break if the difficulty is Expert or above. You can also swim in lava and any Fire type attack is reduced by 0.5x.
+	Rebirths the wearer in a plume of fire when they are fainted or killed (being killed takes priority which can only happen on weaker soul strengths). When the wearer is rebirthed, they gain a 3x boost to damage for the floor, and are invincible for 10 turns. After that, they gain a 3x reduction in damage for the rest of the floor. Can only be used once per dungeon. Will break if the difficulty is Expert or above. You can also swim in lava and any Fire type attack is reduced by 0.5x.
 Winged Sandals
 	A pair of leather sandals with wings on them. When worn, the Speed of the wearer is boosted by 1.5x.
 Vanish Cape
@@ -248,7 +257,9 @@ Coronet of Thorns
 Ethereal Talisman
 	A talisman from a world beyond your own, it softly vibrates with etherial energy. Boosts your Wisdom by 45. Any magic attack will release an explosion of etherial energy that will lock on to nearby foes and deal extra 	damage.
 
-Hardcore Specific:
+
+
+~ Hardcore Specific:
 Soul Soothing Pendant
 	Critical hits while unconscious only deal one damage. Boosts your Wrath by 5.
 Crystal of Indirection
@@ -258,8 +269,8 @@ Crystal Soul
 	Crafted Item
 		Crystal of Indirection
 		Soul Soothing Pendant
-		(10) Almechanical Ether
-		(5) Stardust
+		Almechanical Ether (10)
+		Stardust (5)
 	
 
 ~ Vanilla Items Converted To Custom:
@@ -270,6 +281,8 @@ Solar Ribbon
 Deep Sea Scale
 	A scale infused with the power of the waters of the world. When equipped all water based moves' Power are boosted by 2x. If you are in a water filled area, then the Power of all moves are boosted by 1.5x
 Dragon Scale
+
+
 
 ~ Crafted Items:
 Empyrean Ribbon
@@ -291,7 +304,7 @@ Solar Sandals
 	Crafted Item
 		Winged Sandals
 		Ember Wing
-	The mythical sandals crafted from a mythical wing. When worn, the Speed of the wearer is doubled and they gain 	the ability to fly above all tiles except for walls.
+	The mythical sandals crafted from a mythical wing. When worn, the Speed of the wearer is doubled and they gain the ability to fly above all tiles except for walls.
 Crown of Immortality
 	Crafted Item
 		Ring of Resistance
@@ -312,8 +325,21 @@ Rampart of the Empyrean
 		Space Globe
 		Phoenix Charm
 		Vampire Teeth
-	You become one with the gods themselves.
-	
+	You are apotheosized into the Empyrean itself. The power from this shield bursts out from your divine body.
+	Contains the following effects when worn:
+		Crown of Imnmortality:
+			You gain a plus 30 Strength, Resilience, and Intelligence.
+		Solar Sandals
+			The Speed of the wearer is doubled and the wearer gains the ability to fly above all tiles except for walls.
+		Space Globe
+			The power of the wearer's moves is quadrupled.
+		Phoenix Charm
+			Rebirths the wearer in a plume of fire when they are fainted or killed (being killed takes priority which can only happen on weaker soul strengths).
+			When the wearer is rebirthed, they gain a 3x boost to damage for the floor, and are invincible for 10 turns.
+			After that, they gain a 3x reduction in damage for the rest of the floor. Can only be used once per dungeon.
+			You can also swim in lava and any Fire type attack is reduced by 0.5x.
+		Vampire Teeth
+			When you attack something, you will restore 15% of the damage you deal in HP.
 	
 
 ~ Bags:

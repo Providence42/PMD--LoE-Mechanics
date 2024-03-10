@@ -1,63 +1,127 @@
-Mechanics:
+~~ Mechanics:
 Base Mechanics:
-	All weapons in the game have a base power value. This power value can be added or suptracted by the material 	used. Secondly, classes have unique weapons that only they can use. If other classesused them then they suffer a 	penalty of:
+	All weapons in the game have a base power value.
+	This power value can be added or subtracted by the material used.
+	For example:
+	A Longsword has:
+		5 PWR
+	Broze gives a +1 PWR...
+	So a Bronze Longsword has:
+		6 PWR
+	
+	Secondly, classes have unique weapons that only they can use. If other classes uses them then they suffer a penalty of:
 		ACC -= 50
 		PWR /= 2
 		EXP /= 2
 	However, there are classless weapons that suffer no penalty.
+	
+	
 
-Weapons:
-Paladin
+
+
+~~ Weapons:
+~ Paladin:
 Longsword
-	9 PWR
+	5 PWR
 	A larger sword for stronger people.
 Dagger
 	3 PWR
+	A small dagger that is great for sneaking up on people. Having this weapon equipped allows you to sneak up and attack enemies.
+	If you attack them which out being seen, you deal triple damage.
 
-Grenadier
-Longbow
+
+~ Grenadier:
+- Longbow
 	5 PWR
-Crossbow
+	85 ACC
+	A large bow suited to archers. The projectiles fired from this weapon only travel a small length before falling to the ground, but deal more damage.
+- Crossbow
+	3 PWR
+	95 ACC
+	A crossbow, suited for ease of use. 
+- Musket
 	7 PWR
-Musket
-	8 PWR
+	75 ACC
+	A primative type of firearm. The projectiles shot from this weapon have high damage, but lower accuracy.
+	
+	Saltulium Repeater
+		Fires 3 shots in quick succession instead of 1.
+	Ferozium Blaster
+		Fires a spread of rounds. Turns Frozen Bullets into a giant spread of icy death.
 
-Warlock
+
+
+~ Warlock:
 (NOTE: Wand stats are added to spells cast with it)
-Wand
+- Wand
+	A small magical stick used as a focus for spells. Some may have extra effects.
 
-
-Classless
+~ Classless:
 Rusty Shortsword
 	
-Stick
+- Stick
+	1 PWR
 	The weapon you find at the start of the game.
-Shortsword
+- Shortsword
+	3 PWR
 	A small sword that is useful for all classes useful as a backup weapon.
-	* You can reaction slash an enemy Pokémon (in retaliation) (Possibly an extra ability or whatever)
-	5 PWR
+		* You can reaction slash an enemy Pokémon (in retaliation) (Possibly an extra ability or whatever)
 
-Shortbow
-	A small bow that is useful for al classes as a backup weapon.
+- Shortbow
+	A small bow that is useful for all classes as a backup weapon.
 	2 PWR
 
-Ammo:
-Arrows
-	2 PWR
+
+
+
+~~ Ammo:
+~ Arrows
+	3 PWR
+
+Makeshift Arrow
 Wooden Arrow
 Steel Arrow
-Bolts
+Poison Arrow
+	Crafting:
+		(1) Wood
+		(2) Rust Powder
+	Has a 35% Chance to poison your enemy.
+	Material is Wood.
+
+Living Arrow
+	Crafting:
+		(3) Saltulium
+	Will curve to hit the nearest target. It never misses.
+Frosted Arrow
+	Crafting:
+		(3) Ferozium
+	Will shatter upon impact and deal extra damage to nearby targets.
+Super Arrow
+	Crafting:
+		(3) Superbium
+Solar Arrow
+Void Arrow
+
+~ Bolts
 	3 PWR
+	
 Wooden Bolt
 Steel Bolt
-Balls
+Poison Bolt
+
+
+~ Balls
 	2 PWR
+
 Stone Shot	
 Iron Ball
 Steel Ball
 
-Materials:
-Basic:
+
+
+
+~~ Materials:
+~ Basic:
 Wood
 	Just simple standard wood.
 Stone
@@ -65,32 +129,34 @@ Stone
 	Can only be used for Stone Shot
 Bronze
 	A tough and weak material that is an alloy of Copper and Tin.
+	1 +PWR
 Iron
 	A stronger but still a soft material. Stronger than Bronze.
-	1 PWR
+	3 +PWR
 Steel
 	A strong metal that is sleak and powerful.
-	3 PWR
-Elemental:
+	5 +PWR
+
+~ Elemental:
 Saltulium
 	Plant matter that has condenced into a living metal.
-	6 PWR
+	7 +PWR
 	Has a 30% to poison enemies.
 Ferozium
 	Ice that has frozen into a icy metal.
-	6 PWR
+	7 +PWR
 	Has a 30% chance to freeze enemies.
 Superbium
 	A super tough crystalline material  made of condenced cloud matter, ice, and space.
-	3 PWR
-	Has a 30% chance to deal double damage.
+	7 +PWR
+	Has a 5% chance to deal double damage.
 Solarium
 	A material born from the might of a star.
-	9 PWR
+	9 +PWR
 	Has a 50% to set enemies a blaze.
 Shadow
 	A material shrowded in darkness.
-	You can only handle one shadow item equipped at a time. If you have more than, your damage taken will be 	increased by (1.2x * (number of shadow items over 2)) and you chance at being inflicted with voidflames goes 	up by (30% * (NoSIO2)).
+	You can only handle one shadow item equipped at a time. If you have more than, your damage taken will be increased by (1.2x * (number of shadow items over 2)) and you chance at being inflicted with voidflames goes up by (30% * (NoSIO2)).
 	Does not apply to ammo.
-	12 PWR
+	12 Base PWR
 	Will inflict voidflames on hit.

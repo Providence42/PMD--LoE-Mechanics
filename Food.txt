@@ -1,45 +1,96 @@
-OG Food:
+~ OG Food:
 Tiny Apple
-	A small Apple picked from a dungeon. Restores 20 Belly.
+	A small Apple picked from a dungeon.
+	Restores 20 Belly.
 Apple
-	A fresh Apple picked from a dungeon. Restores 35 Belly.
+	A fresh Apple picked from a dungeon.
+	Restores 35 Belly.
 Big Apple
-	A large fresh Apple picked from a dungeon. Restores 60 Belly.
+	A large fresh Apple picked from a dungeon.
+	Restores 60 Belly.
 Huge Apple
-	A huge fresh Apple picked from a dungeon. Restores 100 Belly.
+	A huge fresh Apple picked from a dungeon.
+	Restores 100 Belly.
 Perfect Apple
-	A perfect Apple picked from a dungeon. Restores 100 Belly and expands it by 20.
+	A perfect Apple picked from a dungeon.
+	Restores 100 Belly and expands it by 20.
 Golden Apple
-	An Apple coated in a layer of Gold. Restores 100 Belly and expands it by 35 and fully restores HP.
+	An Apple coated in a layer of Gold.
+	Restores 100 Belly and expands it by 35.
+	Fully restores HP.
 Shadow Apple
-	An Apple effected by the shadows of Dark. Restores 100 Belly and allows the eater to inflict Voidflames.
+	An Apple effected by the shadows of Dark.
+	Restores 100 Belly and allows the eater to inflict Voidflames.
 Grimy Food
-	One would hesitate calling this "food". Restores 20 Belly and gives a random debuff.
+	One would hesitate calling this purple, grimy mistake "food".
+	Restores 20 Belly and gives a random debuff.
 Banana
-	A rare and unique fruit that grows in tropical climates. Restores 35 Belly. Sells for a lot.
+	A rare and unique fruit that grows in tropical climates.
+	Restores 35 Belly.
+	Sells for a lot.
 Golden Banana
-	A Banana coated in Gold. Why? Who knows! Restores 100 Belly and expands it by 35 and fully restores HP.
+	A Banana coated in Gold. Why? Who knows!
+	Restores 100 Belly and expands it by 35.
+	And fully restores HP.
 Chestnut
-	A nut with a hard spiny shell and often used in traps. Restores 35 Belly. Sells for a lot.
+	A nut with a hard spiny shell and often used in traps.
+	Restores 35 Belly. Sells for a lot.
 
-New Food:
+
+~ New Food:
 Berry Porridge
-	A bowl of assorted berries, mashed into a mushy porridge. Restores 45 Belly and 10 HP.
+	A bowl of assorted berries, mashed into a mushy porridge.
+	Restores 45 Belly
+	Restores 10 HP.
 Apple Pie
-	A pie made with the finest ingredients. Reminds you of a place far, far a way. Restores 80 Belly.
+	A pie made with the finest ingredients. Reminds you of a place far, far a way.
+	Restores 80 Belly.
 	Bought from bakery
 Bread
-	Just a simple loaf of bread. Restores 40 Belly.
+	Just a simple loaf of bread.
+	Restores 40 Belly.
 	Bought from the bakery
 Hardtack
-	A piece of a twice baked break. It's so hard that you will break a tooth of you bite it directly. Restores 25 Belly.
+	A piece of a twice baked bread. It's so hard that you will break a tooth of you bite it directly.
+	Restores 25 Belly.
 	Given by the Angels as a ration.
 Hard Candy
-	Small pieces of hard candy. Super sweet. Restores 15 Belly and has a chance giving the Sugar Rush buff.
+	Small pieces of hard candy. Super sweet.
+	Restores 15 Belly and has a chance giving the Sugar Rush buff.
 Orange
-	A sweet fruit that grows in very specific parts of the world. Restores 35 Belly.
+	A sweet fruit that grows in very specific parts of the world.
+	Restores 35 Belly.
 Pineapple
-	A sweet, spiky fruit that grows in very specific parts of the world. Restores 70 Belly.
+	A sweet, spiky fruit that grows in very specific parts of the world.
+	Restores 70 Belly.
 Steak
-	A tangy and hard piece of cooked meat from the Arachnicattle farmed in the Sanctuary. Restores 75 Belly.
-	
+	A tangy and hard piece of cooked meat from the Arachnicattle farmed in the Sanctuary.
+	Restores 75 Belly.
+
+~ Drinks:
+See "Drinks and Brews.txt" for more options. (Mainly bases for brews like Water)
+
+Apple Juice
+	A bottle of freshly squeezed Apples.
+	Restores 35 Thrist
+	Restores 20 HP.
+	Material
+Coffee
+	A cup of piping hot coffee! When drunk, it gives you the Caffeinated buff.
+	Restores 25 Thrist.
+Tea
+	A cup of piping hot tea!
+	Restores 25 Thrist.
+	Restores 35 HP.
+Gummi Soda
+	A bottle of delicious Gummi soda.
+Arachnicattle Milk
+	A bottle of milk from an Arachnicattle. It clears up poisonous status effects.
+Cloudberry Tea
+	A small cup of tea, brewed from Cloudberries. It has a wonderful honey-like taste.
+	Restores 65 Belly
+	Restores 65 Thrist
+	Restores 45 HP.
+
+~ Ingredients:
+See "Ingredients.txt"

@@ -1,0 +1,10 @@
+~ Non-Pokémon Animals:
+Arachnicattle
+	A large spider-cow hybrid thing. About the size of a normal, real-life Horse.
+	In fact, this is the main pack / riding animal in the Sanctuary.
+	Produces:
+		Arachnicattle Milk
+		Steak
+
+Dragon-Bird
+	A large dragonfly-brid mix.

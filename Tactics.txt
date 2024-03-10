@@ -1,0 +1,21 @@
+~Tactics:
+Let's go together
+	Standard ally following.
+Let's go together, plus items!
+	Same as let's go together, but will grab items if they are 2 tiles away.
+Let's go together, plus enemies!
+	Same as let's go together, but will attack enemies in a two tile range.
+Let's go together, avoid enemies!
+	Same as let's go together, but will only attack enemies if you have.
+You go the other way
+	The Pokémon will ignore you and do it's own thing. If it sees an item, it will grab it. If it sees an enemy, it will attack if in range and if is provoked.
+Go after foes (Murder Hobo)
+	The Pokémon will ignore you and hunt down enemies, while not picking up items.
+//Avoid the first hit
+Avoid trouble
+	Wander around and ignore enemies.
+//Be patient
+Wait there
+	The Pokémon will stay in place and attack enemies that come by.
+Get away from here
+	The Pokémon will flee from everyone and everything, without reason. Fight or flight and it chooses flight.

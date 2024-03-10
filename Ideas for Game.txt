@@ -37,3 +37,22 @@ Revamp external Pokemon format to include forms, gender ratios, drop rates
 Switching spots takes up both's turns
 
 For obj_DealDamage, maybe make that part of obj_effect. As in, make that it's parnet. That way, we can get the one by one damage thing easily. Of course, the system already has obj_DealDasmage but maybe for other stuff? IDK just an idea.
+
+Draw environments / maps
+Have food that does more than just heal Belly
+Create shopping list (look up table)
+TJ Stuff
+Add an option to create a format of pokemon.
+
+Add a ghost ai type that results in going in and out of walls.
+Have ai come to your aid in a moster house. Or have a call for help function that will call all your allies to focus on you.
+When selecting a target, have a variable that is set once and not changed until the pokemon is dead. (Or change based on tactic).
+
+Add as move tactic that changes how ai think about using moves
+Make it so that ai can move towards wonder tiles if debuffed.
+
+Add bundle items (like shulker boxes from Minecraft)
+
+Make it so that when a Pokemon stands on a tile they're not supposted to, they get warped out instead.
+Make other dungeon generation stuff that allows for wider range of dungeons.
+

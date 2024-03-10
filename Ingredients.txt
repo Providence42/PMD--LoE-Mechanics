@@ -1,0 +1,36 @@
+NOTE THIS IS NOT THE MAIN MATERIALS PAGE!
+See "Materials.txt" for all materials
+
+~~Ingridients:
+~ Food:
+Sugar
+Flour
+Wheat
+Milk
+Eggs
+
+~ Brews:
+- Bases
+Bottle
+	An empty glass bottle
+	
+- Plants:
+Warped Weed
+	A small plant warped with time.
+Water Sprout
+	A small sprouting flower, dripping with water.
+Flare Flower
+	A small plant imbued with volcanic activity
+Cloudberry
+	A small, sweet tasting, berry that is rarely found.
+Solar Spark
+	A broken twig smited by the Sun.
+
+- Other:
+Ichor
+	The blood of the gods.
+
+//Iron Dust See Metal Powder
+	Dust of Iron Ore.
+	Crafted Item (3)
+		Iron Ore (1)

@@ -6,6 +6,16 @@ Land is the Division responsable for exploring the landed areas of the world. Ma
 The other Regiments make up the "line-infantry" of the Angels and are mostly used for exploring different parts of the world, and exploring dungeons and such.
 The 5th Regiment is the Police Regiment and makes up the day to day policing of the Sancuary.
 
+Notes:
+	The Adjutant for units ranked Company ~ Regiment are filled by the most senior Prefect of the unit with the distinction of:
+		Prefect - (Company Prefect)
+		Battalion Prefect
+		Regimental Prefect
+		
+	The Adjutant for the Division is filled by the commander of the 2nd Regiment of Explorers and is known as the Adjutant Colonel
+	They are basically assistants to the commander and are responsable for the assistance of the commander in day-to-day activites.
+		
+
 Rescue Team (Lance Corporal)
 	3 Angels
 	The lowest organization.
@@ -15,34 +25,27 @@ Rescue Squad (Corporal)
 Section (Sergeant)
 	21 Angels
 	2 Squads
-Platoon (Lieutenant)
-	Centurion (as assistant)
+Platoon (Lieutenant / Centurion)
 	44 Members
 	2 Sections
-Company
-	Captain
-	Prefect
+Company (Captain / Prefect)
 	90 Angels
 	2 Platoons
-Battalion
-	Major
-	Battalion Prefect
+Battalion (Major / Battalion Prefect)
 	272 Members
 	3 Companies
-Regiment
-	Colonel
-	Regimental Prefect
+Regiment (Colonel / Regimental Prefect)
 	546 Members
 	2 Battalions
 
 ~ Sea:
 The Division of Sea is responsable for exploring the Seas of the world. Made up of 2 Fleets.
 1st Fleet is made up of special troops, like the King's Guard.
-1st Flotilla, the Army of the Sea, is made up of purely underwater Angels, that explore the depths of the ocean.
-2nd Flotilla, the Marines, are made up of troops that can explore underwater and on land.
+	1st Flotilla, the Army of the Sea, is made up of purely underwater Angels, that explore the depths of the ocean.
+	2nd Flotilla, the Marines, are made up of troops that can explore underwater and on land.
 
 2nd Fleet is made up of the physical ships of the Angels.
-Each Flotilla is made up of ships that patrol and explore the parts of the ocean in the 4 cardinal directions, North, East, South, and West.
+	Each Flotilla is made up of ships that patrol and explore the parts of the ocean in the 4 cardinal directions, North, East, South, and West.
 
 Rescue Team
 Rescue Squad
@@ -66,12 +69,27 @@ Flight
 Group
 Wing
 
+~ Medicine:
+The structure is the same as the Division of Land. However, the ranks used by the Nurse-force are that of the brach that they are serving.
+However, the commander is always refered to by their Land name.
+
 ~ Outside of the Divisions:
 
-Division
+Division / Brigade:
+	Divisions / Brigades are of the same catagory of rank. As such are the same unit, but indicate size.
+		A Division is the normal size of the unit (Division of Land, Sea, Air, etc...)
+			Major-General
+			Admiral
+			Ventus
+		A Brigade is a Division, but reduced in size. But since they are the same unit, just reduced in size, the commander is refered to as a Brigadier-General.
+			Brigadier-General
+			Vice-Admiral
+			Sub-Ventus
+
+	Both units can be elevated and demoted based off of the needs of the day. However, this normally applies only to the Brigade of Medicine, based off of how much exploring the Corps is doing.
+	
+	
 	Division of Land
-		3 Regiments
-		1360 Members
 	Division of Sea
 	Division of Air
 
@@ -79,29 +97,41 @@ Division
 Corps
 	Commandant
 	4081 Members
+	
+~ Abreviations:
+- Awards:
+HA: Heaveanly Angel
+DA: Distinguished Angel
+TA: The Angel
+
+CAd: Combat Advisor
+CIn: Combat Instructor
 
 ~ Units: (Numbers are at full strength)
-Corps of Angels (His Highness, Commandant Garchomp, the Prince of Angels)
-	Division of Land (Her Grace, General Gardevoir, the Duke of Land) [2732 Mons]
-		1st Regiment of Foot Guards, the King's Guard (His Grace, Colonel Lucario, the Earl of the Guard) [366 Mons]
+
+Commander-in-Chief: His Majesty, Marowak, the King of the Sanctuary
+
+The Corps of the Angels (His Highness, Commandant Garchomp, the Prince of Angels)
+	Division of Land (Her Grace, Major-General Gardevoir, the Duchess of Land)
+		1st Regiment of Foot Guards, the King's Guard (His Honor, Colonel Lucario, the Earl of the Guard)
 			1st Battalion [182 Angels]
 				1st Company 
 				2nd Company
 			2nd Battalion
 				3rd Company
 				4th Company
-		2nd Regiment of Explorers (His Honor, Colonel Zangoose, the Adjutant Colonel, the Earl of Combat) [546 Mons]
-			3rd Battalion (Major Lopunny) [272]
-				A Company (Captain Nidarina / Prefect Charmeleon, the Company Prefect)
-					A Platoon (Lieutenant Azumarill)
-					B Platoon
+		2nd Regiment of Foot (His Honor, Colonel Rapidash, the Adjutant Colonel)
+			3rd Battalion (Major Lopunny)
+				A Company (Captain Nidarina)
+					A Platoon (Lieutenant Azumarill / Prefect Charmeleon, CAd CIn)
+					B Platoon (Lieutenant Gabite)
 				B Company
 				C Company
-			4th Battalion
+			4th Battalion (Major Manectric)
 				D Company
 				E Company
 				F Company
-		3rd Regiment of Explorers [546 Mons]
+		3rd Regiment of Foot (Colonel Cacturne)
 			5th Battalion
 				G Company
 				H Company
@@ -110,50 +140,85 @@ Corps of Angels (His Highness, Commandant Garchomp, the Prince of Angels)
 				J Company
 				K Company
 				L Company
-		4th Regiment of Explorers [546 Mons]
-			7th Battalion
+		4th Regiment of Auxillerists (Colonel Seviper)
+			7th Battalion, the Reservists (Major Grumpig)
 				M Company
 				N Company
 				O Company
-			8th Battalion
+			8th Battalion, the Bookkeepers (His Honor, Major Spinda, the Earl of Knowledge)
 				P Company
 				Q Company
 				R Company
-		5th Regiment of Constables (Her Honor, Colonel Gothitelle, the Earl of Police) [728 Mons]
-			1st Police Battalion, the North Police [182 Mons]
+			9th Battalion, the Suppliers (His Honor, Major Rhydon, the Earl of Supply)
+				S Company
+				T Company
+				U Company
+			10th Battalion, the Trainnees (His Honor, Colonel Zangoose, the Earl of Training and Combat)
+				V Company
+				W Company
+				X Company
+		5th Regiment of Constables (Her Honor, Colonel Gothitelle, the Countess of Police)
+			1st Police Battalion, the North Police (Major Aggron) [182 Mons]
 			2nd Police Battalion, the East Police
 			3rd Police Battailon, the South Police
 			4th Police Battailon, the West Police
-			
+		
+		
 	Division of Sea (His Grace, Admiral Floatzel, the Duke of Sea)
 		1st Fleet (His Honor, Commadore Empoleon, the Adjutant Commadore)
 			1st Flotilla, the Army of the Sea (Commander Relicanth)
 			2nd Flotilla, the Marines (Commander Crawdaunt)
 		2nd Fleet (Commadore Walrein)
-			3rd Flotilla, the Flotilla of the Eastern Seas (Commander 
-			4th Flotilla, the Flotilla of the Northern Seas (Commander 
-			5th Flotilla, the Flotilla of the Western Seas (Commander 
-			6th Flotilla, the Flotilla of the Southern Seas (Commander 
+			4th Flotilla, the Flotilla of the Northern Seas (Commander Armaldo)
+			6th Flotilla, the Flotilla of the Southern Seas (Commander
+		3rd Fleet (Commadore )
+			3rd Flotilla, the Flotilla of the Eastern Seas (Commander Sharpedo)
+			5th Flotilla, the Flotilla of the Western Seas (Commander  
 
-	Division of Air (Her Grace, Tempest Altaria, the Duke of Air)
+	Division of Air (Her Grace, Tempest Altaria, the Duchess of Air)
 		1st Wing, the Scouts (Her Honor, Ventus Staraptor, the Adjutant Ventus)
 			1st Group
 			2nd Group
 			3rd Group
 			4th Group
-		2nd Wing
+		2nd Wing (Ventus Skarmory)
 			A Group
 			B Group
 			C Group
-		3rd Wing, the Caretakers
-			D Group
+		3rd Wing, the Caretakers (Ventus Dusclops)
+			D Group (Major Illumise)
 			E Group
 			F Group
 		
-	Brigade of Medicine (Her Grace, Brigadier Audino, the Duke of Medicine)
+	Brigade of Medicine (Her Grace, Brigadier-General Audino, the Duchess of Medicine)
 		1st Medic Regiment, the Artery of Land
 		2nd Medic Regiment, the Artery of Sea
 		3rd Medic Regiment, the Artery of Air
+	
+	Brigade of Music (Her Grace, Brigadier-General Meloetta, the Duchess of Music)
+		Massed Bands of the Division of Land
+			Band of the King's Guard
+				Instument Section
+				Drum Section
+				Choir Section
+			2nd Regiment Band
+				Instument Section
+				Drum Section
+				Choir Section
+			3rd Regiment Band
+				Instument Section
+				Drum Section
+				Choir Section
+			Band of the Auxillerists
+				Instument Section
+				Drum Section
+				Choir Section
+			Band of the Constables
+				Instument Section
+				Drum Section
+				Choir Section
+		Massed Bands of the Division of Sea
+		Massed Bands of the Division of Air
 
 Notes:
 Commanders

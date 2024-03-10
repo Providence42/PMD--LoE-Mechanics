@@ -1,10 +1,11 @@
-Mechanics:
-	Materials are a key item for crafting materials that can hel you along on your journey. Unlike other games, you need extra help to turn these materials into useful items, instead of making them yourself*.
+~~ Mechanics:
+	Materials are a key item for crafting materials that can help you along on your journey. Unlike other games, you need extra help to turn these materials into useful items, instead of making them yourself*.
 	They are found throughout the world in the various dungeons in their raw forms. They are as follows
 	
 	*You can make some stuff by yourself (very basic crafting). The idea of this is to use a shopkeeper who has skills in tinkering or blacksmithing, instead of you. Don't expect crafting stations like in minecraft or Terraria.
-Materials:
-Raw Materials:
+
+~~ Materials:
+~ Raw Materials:
 Leather
 	The hide of an animal harvested for use. (Like Arachnicattle)
 	Mostly used for armor.
@@ -23,7 +24,7 @@ Raw Iron
 Raw Steel
 	A strong metal that is sleak and powerful.
 
-Elemental:
+~ Elemental:
 Raw Saltulium
 	Plant matter that has condenced into a living metal.
 Raw Ferozium
@@ -36,7 +37,7 @@ Pure Shade
 	A material shrowded in darkness.
 
 
-Refined Materials
+~ Refined Materials
 Leather
 Bronze
 Iron
@@ -48,22 +49,34 @@ Superbium (Cosmite?)
 Solarium
 Voidshade
 
-Ingredients:
-See "Drinks and Brews"
+~ Ingredients:
+See "Ingredients.txt"
 
-Common Materials:
+~ Common Materials:
 Cloth Scrap
 	A scrap of cloth.
 Cloth Bag
+	Crafting:
+		(30) Cloth Scrap
+
 	A bag made of cloth.
 Metal Powder
+	Crafting: (3)
+		Any Metal Ore
+		Cloth Bag
+	
 	A bag of crushed, powdered metal.
 Rust Powder
+	Crafting: (3)
+		(3) Iron Dust
+		Stagnant Water Bottle
+		Cloth Bag
+		
 	A bag of rusted, tiny shards. Careful, or you'll need to be treated for poison.
 Soft Sand
 	A bag of soft sand, gathered from a beach or shore.
 
-Special Materials:
+~ Special Materials:
 Ember Wing
 	A wing of pure fire.
 	Obtained after defeating Moltres???

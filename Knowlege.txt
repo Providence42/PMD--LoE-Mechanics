@@ -1,9 +1,47 @@
-Knowlege:
-Mechanics:
-	Instead of Knowlege being increased soley from Gummis, instead it is boosted periodically throughout the dungeon, 	like HP.
+~~ Knowlege:
+Split stuff into learn upon arrival and percentage based
+(* = Maybe)
+
+~ Mechanics:
+	Instead of Knowlege being increased soley from Gummis, instead it is boosted periodically throughout the dungeon, like HP.
 	It is boosted by:
 		Eating
 		Attacking
 	The amount it gets boosted by is the number of the above (such as damage or heal amount) / 250.
 	Exp. gains boost Knowlege by: EXP / 500.
 	This number can be boosted by eating Gmmis which boost the gain rate for the floor.
+	
+~ Skills:
+
+- Learn Based:
+5: Item Searcher
+	Will search for and pick Up Items.
+7: Course Checker
+	Will try to move to optimal space for target. * (Could potentially include this by default)
+15: Cheerleader
+	When an ally is in combat, and can be seen, their AT and SA is boosted by 1.
+19: Bodyguard
+	When an ally takes damage and is next to damage recipient, it has a (Knowledge / 45) of blocking it.
+23: Brick Tough
+	Will boost HP by 10.
+40: Path Master
+	Will choose efficient pathing (A*)
+50: Eagle Eyes
+	Can see through fog.
+85: Omniscient
+	Will always know where the hero is.
+
+- Percentage Based:
+0: Nothing
+2: Use Diagonals
+4: Use Moves other than Basic Attack.
+10: Can attempt to catch thrown items
+15: Can use items effectively (As in when they need too)
+17: Can use status moves effectively
+19: Can check the state of Pokémon and attack the one with the lowest HP.
+20: Can sometimes use moves without using PP
+25: Can effectively use type effective moves.
+30: Will boost the effect of consumable items
+35: Will choose the most effective move for killing you (highest move damage with highest range)
+45: Combines all combat types into one.
+

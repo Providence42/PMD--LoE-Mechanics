@@ -12,7 +12,8 @@ S1: Lieutenant
 S2: Captain
 S3: Major
 S4: Colonel
-S5: Brigadier
+S5: Brigadier-General / Major-General
+	While Brigadier-General is implied to be inferior to a Major-General. The prefix just indicates what unit they are commanding. As such they are refered to as simply General and have equal command authority.
 S6: Commandant
 
 - Details:
@@ -28,8 +29,14 @@ Sergeant
 	The first Archangel rank, and the full transition from Angel to leader. They command Troops (and sometimes Sections) and are the main connection from higher up leadership to the lower Angels. They are responsible for the well being, assist with discipline, and readiness of those under them.
 Centurion
 	The black sheep of the Junior ranks and the transition from leader to senior Archangel. They are mainly responsible for discipline and are the assistants to the Prefect. Their main job is to make sure their Pokémon are in tip top shape for exploring, combat, and the like. They command Platoons. They are also the lowest rank that can be placed in an observational role.
+	Platoon Centurion
 Prefect
 	The brass of the Juniors, the top Archangel, and the highest Pokémon before the Seniors take over. Prefects appear all throughout higher ups, serving as that low to high connection. They command a Squadron and are usually assistants and Adjutants to said higher ups. They have hardened their skills to be as sharp as a knife and no one messes with them.
+	Platoon Prefect
+	Company Prefect
+	Battalion Prefect
+	Regimental Prefect
+	The Arch-Prefect
 Lieutenant
 	While in human armies the Lieutenant is the lowest and dumbest officer rank, the Angels consider it a big important jump in their linear rank structure. The first Senior Angel and the first of the Lords, they command Companies and have done their time in the rank and file. They are the last rank to usually be out in the field and instead command from camp or serve on a board with the Captain.
 Captain
@@ -133,15 +140,15 @@ Angel
 	J1~J3
 Archangel
 	J4~J6
-Lord
+Lord / Lady
 	S1, S2
-Earl
+Earl / Countess
 	S3, S4
-Duke
+Duke / Duchess
 	S5
-Prince
+Prince / Princess
 	S6
-King
+King / Queen
 
 ~ Super posh address: (This is the formal adress for someone. It is based off of the grouping they are in.)
 Angel Pokémon

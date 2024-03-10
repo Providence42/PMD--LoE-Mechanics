@@ -28,6 +28,7 @@ Thunder Pound (35 MP) (Lv. 37) (Electric)
 	PAR: 30%
 	
 ~ Defensive:
+
 ~ Heal:
 Healing Aura (35 MP) (Lv. 20) (Fairy)
 	You create a large aura of healing energy in a 4 tile square. All allies that enter the aura will heal 5 HP of health every turn. All enemies inside the aura take 5 HP of damage.
@@ -40,15 +41,23 @@ Fire Bullet (3 MP) (Lv. 1) (Fire)
 	3 PWR
 	75 ACC
 	
-Spark Shot (5 MP) (Lv. 3) (Electric)
+Spark Shot (5 MP) (Lv. 6) (Electric)
 	You release a charged, condensed, shower of sparks from your hand that can strike an enemy from far away.
 	4 PWR
 	85 ACC
+	
+Firebolt (6 MP) (Lv. 8) (Fire)
+	You release a powerful bolt of flaming energy to fling at an enemy.
+	5 PWR
+	95 ACC
+	BRN: 20%
 	
 ~ Defensive:
 ~ Heal:
 Viviatic Bolt (20 MP) (Fairy)
 	You release a large bolt of healing energy that heals 1/4 of the target's Max HP.
+
+
 ~ Others:
 
 ~~ Warlock:
@@ -67,7 +76,7 @@ Fire Burst (8 MP) (Lv. 14) (Fire)
 	You create 3 bolts of flaming fire energy that attacks all Pokémon to the three tiles in front, and to the diagnoals of you.
 	4 PWR
 	80 ACC
-	20% BRN
+	BRN: 20%
 	
 Hellish Burst (10 MP) (Lv. 20) (Dark)
 	You release a blast of hellish dark energy that has a high chance to flinch and critically hit the target.
@@ -98,7 +107,7 @@ Supernova (50 MP) (Lv 64) (Normal)
 	
 ~ Defensive:
 Shield (10 MP)
-	You create a shimmering light around your body that boosts your Defense by 1.1x
+	You create a shimmering light around your body that boosts your Defense by 1.1x.
 Mage Armor (15 MP)
 	You cast a glimmering layer around your body reducing incoming Physical attacks by 0.85x.
 Shockwave (35 MP)
@@ -107,7 +116,7 @@ Shockwave (35 MP)
 	100 ACC
 	
 Spirit Aura
-	You release an aura of energy that surrounds the caster for a 2 tile radius. If an enemy Pokémon stepps inside the aura, they will take 1/15th their maximum HP in damage.
+	You release an aura of energy that surrounds the caster for a 2 tile radius. If an enemy Pokémon steps inside the aura, they will take 1/15th their maximum HP in damage.
 Counterspell (25 MP) (Lv. 22)
 	You reaction cast a swift shield of magic that can nullify incoming Special attacks, and reduce damage on Special contact attacks. In order to nullify the attack, you must be 5 levels higher than your enemy for a guaranteed block. If these conditions are not met, then a random roll involving your Speed, the enemy's Speed, your Level, and your enemy's Level occurs. Upon a succesful block, it uses up your turn.
 

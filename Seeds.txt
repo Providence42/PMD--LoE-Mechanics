@@ -16,6 +16,7 @@ Golden Seed
 Heal Seed
 Hunger Seed
 Joy Seed
+	A magical seed filled with wonderful candy like taste. When eaten, it increases your Level by 1.
 Life Seed
 Plain Seed
 Pure Seed
@@ -50,4 +51,6 @@ Reviser Seed
 Via Seed
 Slip Seed
 Dough Seed
+	A seed that lowers you level by 1... It's golden in color.
+	'It's someone's luck day! Ka-ching!'
 Dropeye Seed

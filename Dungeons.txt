@@ -1,0 +1,39 @@
+Dungeons:
+Warped Forest
+	A forest warped to the human eye but beautiful to all.
+
+Cracked Fields
+	A field of cracked and broken hopes and dreams of Pokémon long ago.
+
+Bottleneck Ridge
+	Cliffs tower and surround all who enter, and encase those who stay.
+
+Spout Cave
+	An endless waterfall from a cave filled with shadow.
+	
+Destiny Mines
+	The mines of the Sanctuary, turned into a twisted dungeon.
+
+Charred Valley
+	A valley charred by ash and fire with ruins of old.
+
+Charred Ruins
+	Ruins caked in soot, and the home of ghosts and specters.
+
+Shimmering Forest
+	A beautiful shining forest with a very dark inside.
+
+Forest of the Forgotten
+	A forest forgotten by the Pokémon of the Sanctuary, filled with feral Pokémon of extreme power. 
+
+Mt. Dread
+	A mountain that looms over the world, just like the feelings of those who approach.
+
+Temple of Principium
+	A ruin complex corrupted by Mystery Dungeons, and the catalyst to something greater.
+
+Mt. Ordo
+	A mountain beaming with psychic energy. Home to many powerful Pokémon, and the guardian to others.
+
+Ordo Sewers
+	An old rotting sewer corrupted by Mystery Dungeons and filled with the sludge of a civilization.

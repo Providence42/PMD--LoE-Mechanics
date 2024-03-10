@@ -3,7 +3,7 @@
 Oran Berry
 	A blue juicy fruit that will heal the consumer for 35 HP.
 Leppa Berry
-	An orange fruit that will restore 5 PP for a single move or restore 45 MP.
+	An orange fruit that will restore 5 PP for a single move or restore 15 MP.
 Pecha Berry
 	A pink fruit that will cure the consumer from Poison. Bad Posion is reduced to normal Poison.
 Cheri Berry
@@ -17,43 +17,87 @@ Persim Berry
 Aspear Berry
 	A green fruit that will thaw out the consumer's Freeze.
 Sitrus Berry
-	A golden fruit that will fully heal the consumer if their HP is below their Max HP. If it is equal to or greater 	than their Max HP. Their HP is boosted by 2.
+	A golden fruit that will fully heal the consumer if their HP is below their Max HP. If it is equal to or greater than their Max HP. Their HP is boosted by 2.
 Lum Berry
-	A silver fruit that will fully restore the consumer's MP if it is below their Max MP. If it is equal to or greater 	than their Max MP. Their MP is boosted by 5. The the consumer is not magical, it will instead boost the PP of 	one move by 1.
+	A silver fruit that will fully restore the consumer's MP if it is below their Max MP. If it is equal to or greater than their Max MP. Their MP is boosted by 5. The the consumer is not magical, it will instead boost the PP of one move by 1.
 
 ~ Heals:
+- HP:
 Oran Berry Brew
-	Crafting
-		2 Oran Berries
+	Crafting:
+		(2) Oran Berry
 		Water Bottle
-	A drink made out of the juice from an Oran Berry that will restore 60 HP.
+	
+	A softly textured drink made to boost the natural healing properties of Oran Berries.
+	Restors 60 HP.
 Healing Brew
-	A health drink made out of health boosting items that will restore 90 HP.
+	Crafting:
+		
+	A strongly tasting vile of red liquid, crafted out of rare healing ingredients for serious illneses.
+	'Tastes like Pepto Bismol...'
+	Restores 90 HP.
 Alpha Healing Brew
-	A health drink made out of health boosting items that will restore 125 HP.
+	A rare, decently sized vile of red liquid, crafted out of very rare healing ingredients for the deadliest of situations.
+	'Tastes like Nyquil...'
+	Restores 135 HP.
+	Cures Poison, Burn, Paralysis
 Beta Healing Brew
-	A great health drink made out of health boosting items that will restore 170 HP.
+	A prototype, large flask, filled with a red liquid. Crafted by the most talented of apothecaries with the best ingredients of this world.
+	'Tastes like perscription cough syrup.'
+	Restores 190 HP.
+	Cures Poison, Burn, Paralysis, Asleep, Confusion, and Freeze.
 Gamma Healing Brew
-	A fantastic health drink made out of health boosting items that will restore 230 HP.
+	An exceptional flask of a swirling blood red liquid. Made with some ingredients not of this world.
+	'Tastes like if Icy-Hot was a drink.'
+	Restores 230 HP.
+	Cures all statuses.
 Omega Healing Brew
-	A flawless health drink made out of health boosting items that will restore all HP.
+	Crafting:
+		(3) Ichor
+		
+		
+	A flawless health drink made out of materials of the divine. This falsk is proof of your connection to those above.
+	Restores 300 HP.
+	Cures all statuses.
+	
+- MP:
+
+- Other:
 Elixir of Life
+		(3) Ichor
+	A gift from Arceus himself, this mythical flask is proof of your apothiosis.
+	'Tastes like cotton candy.'
+	Restores all HP.
+	Restores all MP.
+	Restores all PP.
+	Cures all statuses.
+	Restores all Thrist
+	Restores all Hunger.
+	
 
 ~ Other Stat Boosters:
 Donut
-	An very tasty Donut that fills you with warmth. Upon eating, a random stat including: (Attack, Defense, Sp. 	Atk., Sp. Def., Speed, or Agility), will increase by 1.
+	An very tasty Donut that fills you with warmth.
+	Upon eating, a random stat including: (Attack, Defense, Sp. Atk., Sp. Def., Speed, or Agility), will increase by 1.
+	Restores 30 Belly.
 Mega Donut
-	An extremly tasty Donut that fills you with warmth. Upon eating, a random stat including: (Attack, Defense, Sp. 	Atk., Sp. Def., Speed, or Agility), will increase by 3.
+	An extremly tasty Donut that fills you with warmth.
+	Upon eating, a random stat including: (Attack, Defense, Sp. Atk., Sp. Def., Speed, or Agility), will increase by 3.
+	Restores 60 Belly.
 Gummi
-	A Knowlege boosting gummi that when eaten will boost your Knowledge gains for the floor. Upon leaving the 	floor, you will gain an extra 1 Knowledge. You also have a small chance to boost either: Attack, Defense, Sp. 	Atk., Sp. Def., Speed, or Agility, by 1.
+	A Knowlege boosting gummi that when eaten will boost your Knowledge gains for the floor. Upon leaving the floor, you will gain an extra 1 Knowledge.
+	You also have a small chance to boost either: Attack, Defense, Sp. Atk., Sp. Def., Speed, or Agility, by 1.
+	Restores 25 MP.
 Life Fruit
-	A mythical life boosting fruit that can only be found hidden amongst the world. When eaten, your HP will be 	boosted by 25 and your DP will be boosted by 1.
+	A mythical life boosting fruit that can only be found hidden amongst the world.
+	When eaten, your HP will be boosted by 25 and your DP will be boosted by 1.
 Petra Berry
 	A cold, dead berry, petrified from a blast. When eaten, it will Paralyze the eater.
 Trash Berry
 	A rotten, decaying berry. When eaten, it will Poison the eater.
 Dryed Berry
-	A berry, dried in the sun. Restores 50 Belly.
+	A berry, dried in the sun.
+	Restores 20 Belly.
 Frost Berry
 	An icy infused berry. When eaten, it will Freeze the eater.
 Poison Berry
@@ -65,9 +109,9 @@ Molten Berry
 Ether
 	A small blue drink that will restore 10 PP for a single move or, if the consumer is magical, 35 MP.
 Max Ether
-	A large blue drink that will restore 10 PP for all moves or, if the consumer is magical, 65 MP.
+	A large blue drink that will restore all PP for a single move or, if the consumer is magical, 65 MP.
 Elixir
-	A small green drink that will restore all PP for a single move or, if the consumer is magical, 95 MP.
+	A small green drink that will restore 10 PP for all moves or, if the consumer is magical, 95 MP.
 Max Elixir
 	A large green drink that will restore all PP for all moves or, if the consumer is magical, all MP.
 Protein
@@ -95,14 +139,24 @@ Ginseng
 Nectar
 	A sweet tasting nectar drink that will boost the Knowlege of the consumer by 5.
 
+
 Temperature Stuff:
 Sun Rag
-	A moist rag that can cool you off in the hot sun. Lowers your temperature by 7. Cures Sunburn.
+	A moist rag that can cool you off in the hot sun.
+	Lowers your temperature by 7.
+	Cures Sunburn.
 Bag of Warm Coals
-	A bag of warm coals that can warm you up in cold temperatures. Raises your temperature by 7.
+	A bag of warm coals that can warm you up in cold temperatures.
+	Raises your temperature by 7.
+	Cures Frostburn.
 
 Others:
+Plant Bandage
+	A bandage crafted from plant fiber.
+	Restores 15 HP.
 Gabite Scale
-	A scale from a Gabite which is said to contain magical healing abilities. When eaten, your DP will be restored by 	1.
+	A scale from a Gabite which is said to contain magical healing abilities. When eaten, your DP will be restored by 1.
 Ambrosia
-	The food of the gods and deities. When eaten, it will restore all the consumer's Belly and expand it by 100. It 	will also restore, all HP and boost it by 50 permanitly.
+	The food of the gods, deities, and apothiosified.
+	Restores all the consumer's Belly and expand it by 100.
+	Restores all HP and boost it by 50.
