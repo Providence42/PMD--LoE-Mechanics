@@ -199,7 +199,7 @@ Nimble Scarf
 
 
 ~ Others:
-Early Game:
+- Early Game:
 Rusty Locket
 	A locket coated in a thick layer of rust that is unable to be opened. It's presence on your person when you awoke gives you a sense of mystery, curiosity, and dread.
 	Key Item
@@ -213,13 +213,13 @@ Poisoned Fang
 
 
 
-~ Middle Game:
+- Middle Game:
 Sam Browne Belt
 	A leather belt with a special rig for holding a sword. Swords deal 1.25x damage and, when attacked, you reaction slash the enemy. This reaction attack deals 0.85x damage. 
 
 
 
-~ Higher end:
+- Higher end:
 Ring of Resistance
 	A ring made of the hardiest of materials. Will increase your Resilience by 30.
 Wrath Pendant
@@ -250,7 +250,8 @@ Verglas Glove
 	An ice cold glove that radiates frigid temperatures, but surprisingly warm inside. When you attack an enemy, your attack as a chance to inflict Stasis upon them.
 Coronet of Thorns
 	A coronet of prickly, dead, thorns, embued with magic and power. When worn, the coronet absorbs all damage taken and deals it to you overtime through its thorns (thorns damage). It even damages you outside of turn based combat.|n If your HP reaches 0 due to thorns damage, it will be counted that you had fained upon your turn.|n When you use a healing item, this thorns damage is reduced by the amount that the healing item heals you.|n (Example: If you take 50 damage and heal 25 HP. The damage will be reduced to 25 and you will be healed 25.)|n This damage is dealt to you for 1 damage every quarter of a second.
-
+Rest Pendant
+	A small pink-gold pendant that will heal the wearer for 1/4 their max HP when they awake from any form of sleep.
 
 
 ~ Class specific:

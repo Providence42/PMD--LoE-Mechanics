@@ -1,18 +1,18 @@
 ~~ OG Statuses:
 Asleep
-	The Pokémon falls asleep and stays asleep for 4-7 turns. This can be lowered by using items. During this state, 	the Pokémon is unable to move, use items, use attacks, use spells, or do basically anything else. If the Pokémon 	has a Chesto Berry, it will automatically used. Difficulty rules apply.
+	The Pokémon falls asleep and stays asleep for 4-7 turns. This can be lowered by using items. During this state, the Pokémon is unable to move, use items, use attacks, use spells, or do basically anything else. If the Pokémon has a Chesto Berry, it will automatically used. Difficulty rules apply.
 Sleepless
 	The Pokémon is unable to fall asleep. Eating a Chesto Berry will give this status.
 Nightmare
 	The Pokémon takes 3-6 damage for every turn they are asleep.
 Yawning
-	The Pokémon will fall asleep in 2 turns from being affected with this buff. Pokémon who have the Sleepless 	debuff are immune.
+	The Pokémon will fall asleep in 2 turns from being affected with this buff. Pokémon who have the Sleepless debuff are immune.
 Napping
-	The Pokémon falls asleep for 4-7 turns with the same constraints as the Asleep status. However, when waking 	up, the Pokémon is fully healed.
+	The Pokémon falls asleep for 4-7 turns with the same constraints as the Asleep status. However, when waking up, the Pokémon is fully healed.
 
 ~ Major Statuses:
 Burned
-	The Pokémon is burned from a fiery move. They take 3-6 damage every 6 turns. However, other weather 	effects, will boost or decrease damage which are as follows:
+	The Pokémon is burned from a fiery move. They take 3-6 damage every 6 turns. However, other weather effects, will boost or decrease damage which are as follows:
 	Sunny:
 		The time between burn ticks is reduced to every turn, but you only take 1 damage.
 	Harsh Sunlight
@@ -26,13 +26,13 @@ Burned
 	Storm
 		The time between burn ticks is increased to 12 turns, and you take 1 damage.
 Frozen
-	The Pokémon is frozen solid. During this state, which lasts 3-8 turns, the Pokémon is unable to move, attack, 	use items, or anything else really. However, during this state, Ice-type moves will do double damage. Fire type 	moves will thaw out the Pokémon. All other attacks will do 0.3x damage. If the Pokémon has an Aspear Berry, it 	will automatically be used. Difficulty rules apply.
+	The Pokémon is frozen solid. During this state, which lasts 3-8 turns, the Pokémon is unable to move, attack, use items, or anything else really. However, during this state, Ice-type moves will do double damage. Fire type moves will thaw out the Pokémon. All other attacks will do 0.3x damage. If the Pokémon has an Aspear Berry, it will automatically be used. Difficulty rules apply.
 Poisoned
-	The Pokémon is infected with a life draining poison. The Pokémon will take 3-6 damage every 6 turns. Poison 	Pokémon as their main typing are immune.
+	The Pokémon is infected with a life draining poison. The Pokémon will take 3-6 damage every 6 turns. Poison Pokémon as their main typing are immune.
 Badly Poisoned
-	The Pokémon is infected with a major life draining poison. They will take 3-6 damage every turn. If a Pecha 	Berry is used with this debuff active, then it will reduce it to normal Poison. Poison Pokémon are immune.
+	The Pokémon is infected with a major life draining poison. They will take 3-6 damage every turn. If a Pecha Berry is used with this debuff active, then it will reduce it to normal Poison. Poison Pokémon are immune.
 Paralyzed
-	The Pokémon is paralyzed in place and cannot attack. Their Movement Speed is reduced and their Speed is halved. 	However, items can still be used. Electric Pokémon have the duration of the debuff cut in half.
+	The Pokémon is paralyzed in place and cannot attack. Their Movement Speed is reduced and their Speed is halved. However, items can still be used. Electric Pokémon have the duration of the debuff cut in half.
 Flinching
 Confused
 
@@ -44,17 +44,17 @@ Nimble
 Expeditious
 	The Pokémon's Movement Speed is quadrupled for 8-12 turns.
 Stuck
-	The Pokémon is stuck in palce for 2-6 turns. While under the effect of this debuff, it just restricts movement. 	Ghost-type Pokémon cannot become stuck.
+	The Pokémon is stuck in palce for 2-6 turns. While under the effect of this debuff, it just restricts movement. Ghost-type Pokémon cannot become stuck.
 Petrified
-	The Pokémon is petrified and stuck in place. They cannot attack, use items, or move. This debuff lasts until 	another Pokémon effects them. However, after 50 turns, the Pokémon will be free.
+	The Pokémon is petrified and stuck in place. They cannot attack, use items, or move. This debuff lasts until another Pokémon effects them. However, after 50 turns, the Pokémon will be free.
 Ingrain
-	The Pokémon releases roots and ingrains itself into the ground. Every turn, they regain 5-20 HP, however, they 	are unable to move. Lasts for 4 turns.
+	The Pokémon releases roots and ingrains itself into the ground. Every turn, they regain 5-20 HP, however, they are unable to move. Lasts for 4 turns.
 Wrap
-	The Pokémon is unable to move, and is under the effect of it's attack. Self inflicted from using Wrap. Lasts for 	the duration of the Wrapped Pokémon. If the Pokémon is warped or move away from it's wrapped Pokémon, both 	is and the other status will end.
+	The Pokémon is unable to move, and is under the effect of it's attack. Self inflicted from using Wrap. Lasts for the duration of the Wrapped Pokémon. If the Pokémon is warped or move away from it's wrapped Pokémon, both is and the other status will end.
 Wrapped
-	The Pokémon is caught in the grip of another. While under this debuff, they take 6-8 damage, every 2 turns for 	4-6 turns. If the Pokémon is warped or move away from it's attacket, it will loose this debuff.
+	The Pokémon is caught in the grip of another. While under this debuff, they take 6-8 damage, every 2 turns for 4-6 turns. If the Pokémon is warped or move away from it's attacket, it will loose this debuff.
 Constriction
-	The Pokémon is caught in the grip of another. While under this debuff, they take 6-8 damage, every 2 turns for 	4-6 turns. If the Pokémon is warped or move away from it's attacket, it will loose this debuff.
+	The Pokémon is caught in the grip of another. While under this debuff, they take 6-8 damage, every 2 turns for 4-6 turns. If the Pokémon is warped or move away from it's attacket, it will loose this debuff.
 Clamp
 Whirlpool
 Fire Spin
@@ -62,9 +62,9 @@ Sand Tomb
 Infestation
 Bound
 Trapped
-	The Pokémon is caught in the grip of another. While under this debuff, they take 6-8 damage, every 2 turns for 	4-6 turns. If the Pokémon is warped or move away from it's attacket, it will loose this debuff.
+	The Pokémon is caught in the grip of another. While under this debuff, they take 6-8 damage, every 2 turns for 4-6 turns. If the Pokémon is warped or move away from it's attacket, it will loose this debuff.
 Magma Storm
-	The Pokémon is caught in the grip of another. While under this debuff, they take 10-15 damage, every 2 turns 	for 4-6 turns. If the Pokémon is warped or move away from it's attacket, it will loose this debuff.
+	The Pokémon is caught in the grip of another. While under this debuff, they take 10-15 damage, every 2 turns for 4-6 turns. If the Pokémon is warped or move away from it's attacket, it will loose this debuff.
 Mobile
 Slip
 Magnet Rise
@@ -180,7 +180,7 @@ Flaming
 Inferno
 	Your skin is scorching and melting off your bones. You take the same damage as a Burn, but doubled and every turn. This includes all effects from weather and type effects.
 Voidflames
-	You are consumed by the void. When you are attacked with this debuff active, you will gain void flames on your body. These flames will consume your HP outside of the turn based nature of dungeons and battles. The more you 	get hit, the more flames will build up and the faster your HP will drain. However, it will always drain in 	incraments of 1 or 2 on Master. If the difficulty is Hard or 	higher, a 	Pokémon can faint because of this 	debuff. Other difficulty changes follow:
+	You are consumed by the void. When you are attacked with this debuff active, you will gain void flames on your body. These flames will consume your HP outside of the turn based nature of dungeons and battles. The more you get hit, the more flames will build up and the faster your HP will drain. However, it will always drain in incraments of 1 or 2 on Master. If the difficulty is Hard or higher, a Pokémon can faint because of this debuff. Other difficulty changes follow:
 		Hard: The amount of flames you get is muliplied by 1.5x.
 		Expert: The amount of flames you get is doubled.
 		Master: The amount of flames you gain is tripled. You will take 2 damage from these flames instead of 1.
@@ -204,18 +204,25 @@ Knowlegable
 	It's now big brain time! Your Knowlege gains are boosted by 2x.
 Puppeted
 	You are under the complete control of the enemy. For the duration of the status, you are under the control of the enemy and will do anything to assist them, such as attacking your allies, healing the enemy, or even fainting yourself (if you are knocked unconscious, the status fails to do any further harm). This is an involuentary effect. Lasts 5-7 turns.
+Irradiated
+	You are infested by radiation. You take 3 Psychic and 3 Ghost damage every 2 turns.
+Static Shock
+	Your body is jolted by electricity. Like the Electric version of Poison, Burn, etc... You take 3 Electric damage every 3-5 turns.
+
 
 ~ Dungeon statuses:
 Scorched Lungs
 	Your lungs are burning. Your natural HP regeneration falls to 0.
+
+
 
 ~ Accesory Statuses:
 - Phoenix Charm:
 Rebirthed
 	You have risen from death. Boosts your damage by 3 times.
 Phoenix Invincibility
-	You are invincible! For 10 turns, you are immune to all damage. After which you gain the Phoenix Resistance 	buff.
+	You are invincible! For 10 turns, you are immune to all damage. After which you gain the Phoenix Resistance buff.
 Phoenix Resistance
 	You can the protection of the phoenix. You gain a 0.33x reduction to incoming damage.
 Phoenix Tiredness
-	Despite your divine rebirth, your soul is weak. You are unable to be rebirthed again. Lasts for 	the rest of the dungeon.
+	Despite your divine rebirth, your soul is weak. You are unable to be rebirthed again. Lasts for the rest of the dungeon.

@@ -21,7 +21,7 @@ Solar Spear (35 MP) (Lv. 30) (Fire)
 	12 PWR
 	100 ACC
 	
-Thunder Pound (35 MP) (Lv. 37) (Electric)
+ThunderPound (35 MP) (Lv. 37) (Electric)
 	You jump up and bound the ground with an electric slam dealing damage to all enemies in a 1 tile radius around the player.
 	8 PWR
 	100 ACC
@@ -41,16 +41,27 @@ Fire Bullet (3 MP) (Lv. 1) (Fire)
 	3 PWR
 	75 ACC
 	
-Spark Shot (5 MP) (Lv. 6) (Electric)
+Spark Shot (5 MP) (Lv. 5) (Electric)
 	You release a charged, condensed, shower of sparks from your hand that can strike an enemy from far away.
 	4 PWR
 	85 ACC
-	
-Firebolt (6 MP) (Lv. 8) (Fire)
+
+
+Firebolt (6 MP) (Lv. 9) (Fire)
 	You release a powerful bolt of flaming energy to fling at an enemy.
+	'Fire Bullet's hotter twin'
 	5 PWR
 	95 ACC
 	BRN: 20%
+	
+Venom Shot (7 MP) (Lv. 14) (Poison)
+	You release a concentrated bolt of poison at an enemy.
+	5 PWR
+	100 ACC
+	PSN: 35%
+	
+
+	
 	
 ~ Defensive:
 ~ Heal:
@@ -66,6 +77,12 @@ ThunderSpark (3 MP) (Lv. 1) (Electric)
 	You release a shower of small sparks in a straight line with a 2 tile range. It has a small chance to paralyze.
 	2 PWR
 	75 ACC
+
+Witch Bolt (6 MP) (Lv. 3) (Electric)
+	You release a bolt of lightning from your fingers against a single enemy inflicting them with Static Shock.
+	3 PWR
+	80 ACC
+	Static Shock: 100%
 	
 Frost Ball (4 MP) (Lv. 6) (Ice)
 	You create a frozen ball of ice and throw it to a Pokémon within a line of sight.
@@ -101,23 +118,29 @@ Knowlege Storm (25 MP) (Lv. 35) (Psyhcic)
 	clamp(Knowlege / 3.5, 4, 10) PWR
 	100 ACC
 	
+Nuclear Fury (35 MP) (Lv. 40) (Dark)
+	You release a small bolt of green radiation energy that explodes into a small nuclear explosion upon contact with a surface or person.
+	15 PWR
+	75 ACC
+	Radiation: 50%
+	
 Supernova (50 MP) (Lv 64) (Normal)
 	You release a massive explosion of energy that massively damages any foe in front.
 	30 PWR
 	
 ~ Defensive:
-Shield (10 MP)
+Shield (Lv. 8) (10 MP)
 	You create a shimmering light around your body that boosts your Defense by 1.1x.
-Mage Armor (15 MP)
+Mage Armor (Lv. 17) (15 MP)
 	You cast a glimmering layer around your body reducing incoming Physical attacks by 0.85x.
-Shockwave (35 MP)
+Shockwave (Lv. 27) (35 MP)
 	You release a wave of powerful force in all directions that damages any one in a 1 tile area around you. Any enemy that is hit will get pushed back 3 tiles. If the enemy hits a wall, they take 10-30 damage. If the enemy hits a Pokémon, they both take 10-30 damage.
 	6 PWR
 	100 ACC
 	
 Spirit Aura
 	You release an aura of energy that surrounds the caster for a 2 tile radius. If an enemy Pokémon steps inside the aura, they will take 1/15th their maximum HP in damage.
-Counterspell (25 MP) (Lv. 22)
+Counterspell (Lv. 22) (25 MP)
 	You reaction cast a swift shield of magic that can nullify incoming Special attacks, and reduce damage on Special contact attacks. In order to nullify the attack, you must be 5 levels higher than your enemy for a guaranteed block. If these conditions are not met, then a random roll involving your Speed, the enemy's Speed, your Level, and your enemy's Level occurs. Upon a succesful block, it uses up your turn.
 
 

@@ -1,0 +1,25 @@
+~~ Gemstones:
+~ Old:
+
+
+~ New:
+Peridot			Bug
+Onyx			Dark
+Tanzanite		Dragon
+Topaz			Electric
+Rose Quartz		Fairy
+Jasper			Fighting
+Garnet			Fire
+Opal			Flying
+Pearl			Ghost
+Emerald			Grass
+Amber			Ground
+Aquamarine		Ice
+Quartz			Normal
+Amethyst		Poison
+Spinel			Psychic
+Agate			Rock
+Diamond			Steel
+Sapphire		Water
+
+Prismite		Resistance

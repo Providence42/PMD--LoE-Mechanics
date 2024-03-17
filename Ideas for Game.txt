@@ -56,3 +56,6 @@ Add bundle items (like shulker boxes from Minecraft)
 Make it so that when a Pokemon stands on a tile they're not supposted to, they get warped out instead.
 Make other dungeon generation stuff that allows for wider range of dungeons.
 
+Add a basic attack setting. See phone.
+Magnet Rise status can go over liquids.
+
