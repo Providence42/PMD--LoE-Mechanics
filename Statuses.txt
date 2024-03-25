@@ -80,6 +80,7 @@ Truant
 Taunted
 Encore
 Sealed
+	While this debuff is active, Pokémon cannot use sealed moves. (Probably don't include this and just use a flag in the moves themselves.) (Temporary so maybe include???)
 Decoy
 Discord
 	Will randomly teleport you in a 5 tile radius with a 35% chance to activate every turn.
@@ -154,6 +155,7 @@ Wish
 Aqua Ring
 Destiny Bond
 Perish Song
+	When the Pokémon hears this deathly song, they will faint in 3 turns.
 Heal Block
 Blinker
 Cross-Eyed

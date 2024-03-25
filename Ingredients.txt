@@ -1,4 +1,4 @@
-NOTE THIS IS NOT THE MAIN MATERIALS PAGE!
+NOTE THIS IS NOT THE MAIN MATERIALS PAGE! This is the brew ingredients page.
 See "Materials.txt" for all materials
 
 ~~Ingridients:
@@ -9,6 +9,7 @@ Wheat
 Milk
 Eggs
 
+
 ~ Brews:
 - Bases
 Bottle
@@ -16,13 +17,15 @@ Bottle
 	
 - Plants:
 Warped Weed
-	A small plant warped with time.
+	A small plant that looks like nothing you've ever encountered.
 Water Sprout
 	A small sprouting flower, dripping with water.
 Flare Flower
-	A small plant imbued with volcanic activity
+	A small plant imbued with volcanic energy.
 Cloudberry
 	A small, sweet tasting, berry that is rarely found.
+Titanroot
+	A titantium strength root. Hard, but flexible, like cable.
 Solar Spark
 	A broken twig smited by the Sun.
 

@@ -15,27 +15,31 @@ Easy
 		Aspear Berry
 		Chesto Berry
 	SP: 7
+
 Normal
 	Base Knowlege Level is 5
 	Traps can break
 	Allows the list of items that can be used automatically to be used.
 	SP: 5
+
 Hard
 	* 1.25x Health and 1.1x damage for enemies
 	* Enemy stats boosted by 1.1x
-	* Bosses HP boosted by 2x and stats boosterd by 1.6
+	* Bosses HP boosted by 2x and stats boosterd by 1.3
+	
 	* Exp is 0.9x
 	(For you) Lowers Debuff timer by 2
 	Base Knowlege Level is 15
 	* (v) All enemy Pokémon can now naturally heal HP
 	* (v) All allied Pokémon loose hunger.
 	SP: 5
+
 Expert
-	* 1.5x Health and 1.25x damage for enemies
+	* 1.5x Health and 1.2x damage for enemies
 	* Eenemy Stats boosted by 1.25x
-	* 0.75x Health and damage for Allies and 0.85x stats
-	* 0.85x Stats for allies
-	* Bosses HP boosted by 3x and stats boosted by 2.1x
+	* Bosses HP boosted by 3x and stats boosted by 1.5x
+	
+	* 0.85x Health, damage, and stats for allies
 	* Exp is 0.75x
 	Lowers debuff timer by 4
 	Base Knowleve Level is 30
@@ -43,13 +47,15 @@ Expert
 	Doom Traps can be found outside of level reset dungeons
 	* (v) Exp. gain is now based off of the percentage of damage dealt to enemy Pokémon.
 	SP: 3
+
 Master
-	* 2x Health and 1.5x damage for enemies
+	* 2x Health and 1.35x damage for enemies
 	* Enemy stats boosted by 1.5x
-	* 0.5x damage and Health for allies and 0.6x stats
+	* Bosses HP boosted by 4x and stats boosted by 1.8x
+	
+	* 0.7x damage and Health for allies and 0.6x stats
 	* Exp is 0.5x
 	Lowers debuff timer by 5
-	* Bosses HP boosted by 4x and stats boosted by 2.5x
 	Base knowlege Level is 50
 	Traps never fail and are twice as effective
 	Doom Traps can be found outside of level reset dungeons in the main story
