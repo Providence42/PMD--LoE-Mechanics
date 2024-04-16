@@ -14,13 +14,13 @@ Divine Liquid
 
 ~  Traps:
 Apple Trap
-	Turns a random non-hold item into an Apple
+	Turns a random non-hold, non-key, non-crafted item into an Apple.
 Blast Trap
 	Acts like the triggerer was just hit by a Blast Seed.
 Big Blast Trap
 	Acts like the triggerer was just hit by a Blast Seed, but the damage is multiplied by 1.5x
 Chestnut Trap
-	A bunch of Chestnuts will fall on the triggerer, dealing 10-20 damage.
+	A bunch of Chestnuts will fall on the triggerer, dealing 25-35 damage.
 Discord Trap
 	Will give the triggerer the Discord status.
 Ditto Trap
@@ -32,15 +32,15 @@ Grimy Trap
 Grudge Trap
 	Will effect every Pokémon on the floor with a Grudge.
 Gust Trap
-	Will fling the triggerer in a random direction. If the flinged Pokémon hits another, it and the Pokémon it hit will 	take 5 damage.
+	Will fling the triggerer in a random direction. If the flinged Pokémon hits another, it and the Pokémon it hit will take 5 damage.
 Hunger Trap
 	Will lower the Belly of the triggerer by 20-40.
 Mud Trap
-	Will lower Attack, Defense, Sp. Atk, Sp. Defense, Speed, Evasion, or Accuracy by 3 stages, or Movement Speed 	by 1
+	Will lower Attack, Defense, Sp. Atk, Sp. Defense, Speed, Evasion, or Accuracy by 3 stages, or Movement Speed by 1
 Pitfall Trap
-	If the triggerer is the player, they will take 10 damage and proceed to the next floor. Otherwise, the Pokémon 	will be kicked off the team and leave the dungeon. On Master, the trap insta-kills you.
+	If the triggerer is the player, they will take 10 damage and proceed to the next floor. Otherwise, the Pokémon will be kicked off the team and leave the dungeon. On Master, the trap insta-kills you.
 Poison Trap
-	Will effect the triggerer with poison. If the triggerer is already poisoned then it will effect them with Bad 	Poison.
+	Will effect the triggerer with poison. If the triggerer is already poisoned then it will effect them with Bad Poison.
 Pokémon Trap
 	Will turn all items in the room into Pokémon.
 PP-Leech Trap
@@ -70,7 +70,7 @@ Sticky Trap
 Summon Trap
 	Will summon 1-4 feral Pokémon around the triggerer.
 Toxic Spikes
-	Will deal 25-35 damage to the triggerer and poison them. If they are already poisoned, then they will be Badly 	Poisoned.
+	Will poison the triggerer. If they are already poisoned, then they will be Badly Poisoned.
 Trip Trap
 	Will make the triggerer loose their hold item. Preferably will spawn near water, lava, air, etc...
 Warp Trap
@@ -84,8 +84,25 @@ Doom Trap
 Trampoline Trap
 	Same as the Pitfall Trap but only spawns in dungeons that goes up.
 Evolution Trap
-	When triggered, all enemies on the floor will evolve one stage. Final evolved Pokémon will be uneffected. Will 	be destroyed upon triggering.
+	When triggered, all enemies on the floor will evolve one stage. Final evolved Pokémon will be uneffected. Will be destroyed upon triggering.
 Itemizer Trap
-	When triggered, an itemizer aura is released. At a 40% chance, with evasion bonuses added, etc... the triggerer 	will be turned into an item. If this occurs to the leader (or an important member), it will count as a loss and 	you and your team will be booted out of the dungeon. This is decreased to 10% on Hardcore.
+	When triggered, an itemizer aura is released. At a 40% chance, with evasion bonuses added, etc... the triggerer will be turned into an item. If this occurs to the leader (or an important member), it will count as a loss and you and your team will be booted out of the dungeon. This is decreased to 10% on Hardcore.
 Sand Trap
-	Wehn triggered, it will drop a bunch of sand onto you, dealing 15 - 30 Physical Damaage. You can gather the 	remaining sand as soft sand.
+	When triggered, it will drop a bunch of sand onto you, dealing 10 - 15 Physical Damage. You can gather the remaining sand as soft sand.
+	
+~ Suggested Traps:
+(By ZoroarkDS)
+Type Trap
+	When triggered, it will randomly change your type to a type not of your own for the floor.
+Entryway Trap
+	When triggered, it will warp you to the tile you spawned on.
+Reverse Trap
+	When triggered, it will reverse the stat modifier's signs.
+Drain Trap
+	When triggered, it will drain Water and Lava.
+Duplication Trap
+	When triggered, it will duplicate every item in your inventory. It will only duplicate up until your inventory is filled. It is destroyed upon use.
+	
+(meemo)
+fuck you Trap
+	When triggered, the game will crash.

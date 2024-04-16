@@ -85,7 +85,8 @@ Trap Scarf
 Warp Scarf
 	A scarf that has a chance at randomly warping the wearer around the floor.
 Aura Bow
-	A beautiful bow that is coursing with auric energy. It boosts the wearer's HP, MP (if human), Attack, Defense, Sp. Atk., Sp. Def., Speed, Agility, Strength, Resilience, and Intelligence by 3.
+	A beautiful bow that is coursing with auric energy.
+	It boosts the wearer's HP, MP (if human), Attack, Defense, Sp. Atk., Sp. Def., Speed, Agility, Strength, Resilience, and Intelligence by 3.
 Insomniscope
 	A pair of glasses that prevent the wearer from going to sleep.
 Goggle Specs
@@ -137,7 +138,10 @@ Space Globe
 
 
 ~~ Custom Items:
-~ Rings:
+- Rings:
+
+--------OLD------------
+{
 Ruby Ring
 	A little Copper ring with a Ruby gemstone set in it. This ring boosts the wearer's Attack by 1.
 Topaz Ring
@@ -176,6 +180,9 @@ Heart Shard Ring
 	A beautiful Titanium ring with a Heart Shard gemstone set in it. This ring boosts the wearer's HP by 30.
 Prismarine Ring
 	A jaw-droppingly gorgeous ring with a Prismarine gemstone set in it. This ring boosts the wearer's Attack, Defense, Sp. Atk., Sp. Def., and Speed by 25. The wearer's HP is also boosted by 45.
+}
+------------------------
+
 
 ~ Scarfs:
 Torn Scarf
@@ -216,7 +223,10 @@ Poisoned Fang
 - Middle Game:
 Sam Browne Belt
 	A leather belt with a special rig for holding a sword. Swords deal 1.25x damage and, when attacked, you reaction slash the enemy. This reaction attack deals 0.85x damage. 
-
+Treasure Glasses
+	A pair of glasses, enhanced with the ability to see Buried Items inside walls.
+Aquatic Fins
+	A pair of fins that attach to your feet, back, and arms that grant you the ability to swim in (walk on) water.
 
 
 - Higher end:
@@ -286,15 +296,25 @@ Dragon Scale
 
 
 ~ Crafted Items:
+Soul Ribbon
+	Crafted Item
+		Aura Bow
+		
+	A beautiful bow that infuses your soul with power!
+	It boosts the wearer's HP, MP (if human), Attack, Defense, Sp. Atk., Sp. Def., Speed, Agility, Strength, Resilience, and Intelligence by 7.
+	
 Empyrean Ribbon
 	Crafted Item
 		Lunar Ribbon
 		Solar Ribbon
+		 
 	A magical ribbon infused with the power of the celestial bodies. When worn, the damage of the wearer's moves is boosted by 1.5x.
+	
 Honey Dew
 	Crafted Item
 		Life Dew
 		Amber Tear
+		
 	A pearl covered in a life filled, honey secreting, planet material that combines the functions of the Life Dew and Amber Tear. Which are as follows:
 		Will boost your health regeneration rate greatly. If you walk on water, you have a chance at regaining 1/8 your Max HP.
 		When equipped, attacks that are not very effective or lower heal the wearer. The values are as follows.
@@ -305,20 +325,29 @@ Solar Sandals
 	Crafted Item
 		Winged Sandals
 		Ember Wing
+		
 	The mythical sandals crafted from a mythical wing. When worn, the Speed of the wearer is doubled and they gain the ability to fly above all tiles except for walls.
+	
 Crown of Immortality
 	Crafted Item
 		Ring of Resistance
 		Wrath Pendant
 		Bright Crown
 		Ancient Instructions
+		
 	The crown of the gods. While wearing this crown, you gain 30 Strength, Resilience, and Intelligence.
+	
 Vampire Teeth
 	Crafted Item
 		Vampire Claws
 		Ancient Instructions
 		Hell Blood
+		
 	The teeth of an immortal. When you attack something, you will restore 15% of the damage you deal in HP.
+	
+See-Through Specs
+	A pair of transperant, shimmering glasses that seem invisible on your head. When worn, they reveal the location of items, enemies, and Buried Items within walls.
+	
 Rampart of the Empyrean
 	Crafted Item
 		Crown of Immortality
@@ -326,6 +355,7 @@ Rampart of the Empyrean
 		Space Globe
 		Phoenix Charm
 		Vampire Teeth
+		
 	You are apotheosized into the Empyrean itself. The power from this shield bursts out from your divine body.
 	Contains the following effects when worn:
 		Crown of Imnmortality:

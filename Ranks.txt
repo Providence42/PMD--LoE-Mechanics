@@ -7,6 +7,7 @@ J3: Corporal
 J4: Sergeant
 J5: Centurion
 J6: Prefect
+J7: Legate
 
 S1: Lieutenant
 S2: Captain
@@ -35,8 +36,10 @@ Prefect
 	Platoon Prefect
 	Company Prefect
 	Battalion Prefect
-	Regimental Prefect
-	The Arch-Prefect
+Legate
+	Regimental Legate
+	The Legatus
+
 Lieutenant
 	While in human armies the Lieutenant is the lowest and dumbest officer rank, the Angels consider it a big important jump in their linear rank structure. The first Senior Angel and the first of the Lords, they command Companies and have done their time in the rank and file. They are the last rank to usually be out in the field and instead command from camp or serve on a board with the Captain.
 Captain

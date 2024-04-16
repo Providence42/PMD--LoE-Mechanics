@@ -62,6 +62,7 @@ Master
 	Belly lowers for all members of the team, but lowers slower than the player
 	The lower a Pokémon's HP, the lower their damage. Only applies to Pokémon on your team.
 	Running out of Thirst deals damage plus inflicting Dehydrated.
+	Enemies can attack rescue clients.
 	SP: 1
 	
 ~ Soul Strength (Character Difficulty):
