@@ -118,45 +118,45 @@ The Corps of the Angels (His Highness, Commandant Garchomp, the Prince of Angels
 				1st Company 
 				2nd Company
 			2nd Battalion
-				3rd Company
-				4th Company
+				1st Company
+				2nd Company
 		2nd Regiment of Foot (His Honor, Colonel Rapidash, the Adjutant Colonel)
-			3rd Battalion (Major Lopunny)
+			1st Battalion (Major Lopunny)
 				A Company (Captain Nidarina)
 					A Platoon (Lieutenant Azumarill / Prefect Charmeleon, CAd CIn)
 					B Platoon (Lieutenant Gabite)
 				B Company
 				C Company
-			4th Battalion (Major Manectric)
-				D Company
-				E Company
-				F Company
+			2nd Battalion (Major Manectric)
+				A Company
+				B Company
+				C Company
 		3rd Regiment of Foot (Colonel Cacturne)
-			5th Battalion
-				G Company
-				H Company
-				I Company
-			6th Battalion
-				J Company
-				K Company
-				L Company
+			1st Battalion
+				A Company
+				B Company
+				C Company
+			2nd Battalion
+				A Company
+				B Company
+				C Company
 		4th Regiment of Auxillerists (Colonel Seviper)
-			7th Battalion, the Reservists (Major Grumpig)
-				M Company
-				N Company
-				O Company
-			8th Battalion, the Bookkeepers (His Honor, Major Spinda, the Earl of Knowledge)
-				P Company
-				Q Company
-				R Company
-			9th Battalion, the Suppliers (His Honor, Major Rhydon, the Earl of Supply)
-				S Company
-				T Company
-				U Company
-			10th Battalion, the Trainnees (His Honor, Colonel Zangoose, the Earl of Training and Combat)
-				V Company
-				W Company
-				X Company
+			1st Battalion, the Reservists (Major Grumpig)
+				A Company
+				B Company
+				C Company
+			2nd Battalion, the Bookkeepers (His Honor, Major Spinda, the Earl of Knowledge)
+				A Company
+				B Company
+				C Company
+			3rd Battalion, the Suppliers (His Honor, Major Rhydon, the Earl of Supply)
+				A Company
+				B Company
+				C Company
+			4th Battalion, the Trainnees (His Honor, Colonel Zangoose, the Earl of Training and Combat)
+				A Company
+				B Company
+				C Company
 		5th Regiment of Constables (Her Honor, Colonel Gothitelle, the Countess of Police)
 			1st Police Battalion, the North Police (Major Aggron) [182 Mons]
 			2nd Police Battalion, the East Police
@@ -201,11 +201,11 @@ The Corps of the Angels (His Highness, Commandant Garchomp, the Prince of Angels
 				Instument Section
 				Drum Section
 				Choir Section
-			2nd Regiment Band
+			2nd Regimental Band
 				Instument Section
 				Drum Section
 				Choir Section
-			3rd Regiment Band
+			3rd Regimental Band
 				Instument Section
 				Drum Section
 				Choir Section

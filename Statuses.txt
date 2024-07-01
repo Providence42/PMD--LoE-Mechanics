@@ -34,7 +34,9 @@ Badly Poisoned
 Paralyzed
 	The Pokémon is paralyzed in place and cannot attack. Their Movement Speed is reduced and their Speed is halved. However, items can still be used. Electric Pokémon have the duration of the debuff cut in half.
 Flinching
+	The Pokémon flinched. They are unable to do anything for one turn.
 Confused
+	The Pokémon is confused. They will move in a random direction, disobeying the command of a player in the process. Their attacks will also go in one of 8 directions. If this attack hits an ally, it will deal the effect of the move, unless the Pokémon has Confusion-induced ally prevention such as Nontraitor. Room-wide moves will attack everyone. Moves that have you select a specific target will target a random one instead. 
 
 ~ Mobility:
 Quick
@@ -98,7 +100,7 @@ Swamp
 Awakened
 	The Pokémon gains immense god-like power. When this Pokémon is affected with this buff, they are invincible. They are immune to all damage and deal triple damage back (The damage buff is reduced to 1.5x in boss fights). This effect lasts for 3 turns, after which the Pokémon gains the Berserk debuff.
 Berserk
-	As a result of incredible power, they attack in a random direction  or move in a random direction, and their damage increased by 2 times. If they attack an ally, Confusion preventing abilities will fail and the damage will go through. This lasts for 15 turns.
+	As a result of incredible power, they attack in a random direction or move in a random direction, and their damage increased by 2 times. If they attack an ally, Confusion preventing abilities will fail and the damage will go through. This lasts for 15 turns.
 Trained
 Bide
 Solar Beam
@@ -160,6 +162,7 @@ Heal Block
 Blinker
 Cross-Eyed
 Invisible
+	The Poémon vanishes from sight. All Pokémon who were currently targeting the now Invisible Pokémon will loose tracking and start to wander (depending on their tactic). They can still be hit by any attack.
 Eyedrops
 Dropeye
 Power Ears
@@ -177,7 +180,7 @@ Hungry Pal
 
 ~~ New Statuses:
 ~ Standard:
-Flaming
+Ignited
 	You are consumed by flames and set on fire. You take the same damage as a burn just every turn. This includes all effects from weather and type effects.
 Inferno
 	Your skin is scorching and melting off your bones. You take the same damage as a Burn, but doubled and every turn. This includes all effects from weather and type effects.
@@ -201,13 +204,17 @@ Incorporeal
 Water Walk
 	You have gained the ability to walk on water.
 Stasis
-	The cells of your body cease to move. The Pokémon is stuck in place for 5 turns unable to do anything. This status is the same as Petrified except will NOT go away when another Pokémon affects them. You cannot use items.
+	The cells of your body cease to move. The Pokémon is stuck in place for 5 turns unable to do anything. This status is the same as Petrified except will NOT go away when another Pokémon affects them.
 Knowlegable
 	It's now big brain time! Your Knowlege gains are boosted by 2x.
-Puppeted
-	You are under the complete control of the enemy. For the duration of the status, you are under the control of the enemy and will do anything to assist them, such as attacking your allies, healing the enemy, or even fainting yourself (if you are knocked unconscious, the status fails to do any further harm). This is an involuentary effect. Lasts 5-7 turns.
+Commanded
+	You are under the complete control of the enemy. For the duration of the status, you are under the control of the enemy and will do anything to assist them, such as:
+		Attacking your allies
+		Healing the enemy
+		Fainting yourself (if you are knocked unconscious, the status fails to do any further harm).
+	This is an involuentary effect. Lasts 5-7 turns.
 Irradiated
-	You are infested by radiation. You take 3 Psychic and 3 Ghost damage every 2 turns.
+	You are infested by radiation. You take 3 Psychic and 3 Ghost damage every 5 turns.
 Static Shock
 	Your body is jolted by electricity. Like the Electric version of Poison, Burn, etc... You take 3 Electric damage every 3-5 turns.
 
@@ -222,9 +229,9 @@ Scorched Lungs
 - Phoenix Charm:
 Rebirthed
 	You have risen from death. Boosts your damage by 3 times.
-Phoenix Invincibility
-	You are invincible! For 10 turns, you are immune to all damage. After which you gain the Phoenix Resistance buff.
-Phoenix Resistance
+Phoenical Invincibility
+	You are invincible! For 10 turns, you are immune to all damage. After which you gain the Phoenical Resistance buff.
+Phoenical Resistance
 	You can the protection of the phoenix. You gain a 0.33x reduction to incoming damage.
-Phoenix Tiredness
+Phoenical Tiredness
 	Despite your divine rebirth, your soul is weak. You are unable to be rebirthed again. Lasts for the rest of the dungeon.

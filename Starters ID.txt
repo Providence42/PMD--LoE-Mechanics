@@ -1,0 +1,71 @@
+Bulbasaur		1,
+Charmander		4,
+Squirtle		7,
+Pikachu			25,
+Clefairy		35,
+Vulpix			37,
+Meowth			52,
+Psyduck			54,
+Growlithe		58,
+Machop			66,
+Cubone			104,
+Eevee			133,
+Dratini			147,
+Chikorita		152,
+Cyndaquil		155,
+Totodile		158,
+Mareep			179,
+Marill			183,
+Sneasel			215,
+Teddiursa		216,
+Phanpy			231,
+Treecko			252,
+Torchic			255,
+Mudkip			258,
+Poochyena		261,
+Ralts			280,
+Skitty			300,
+Swablu			333,
+Shuppet			353,
+Spheal			363,
+Turtwig			387,
+Chimchar		390,
+Piplup			393,
+Shinx			403,
+Buneary			427,
+Munchlax		446,
+Riolu			447,
+Skorupi			451,
+
+Snivy			495,
+Tepig			498,
+Oshawott		501,
+Roggenrola		524,
+Axew			610,
+Zorua			570,
+Cubchoo			613,
+Chespin			650,
+Fennekin		653,
+Froakie			656,
+Swirlix			684,
+Inkay			686,
+Rowlet
+Litten
+Popplio
+Rockruff
+Togedemaru
+
+~ GEN 8:
+Grookey
+Scorbunny
+Sobble
+Rookidee
+Hatenna
+Snom
+
+~ GEN 9:
+Sprigatito
+Fuecoco
+Quaxly
+Pawmi
+

@@ -1,17 +1,17 @@
-Armor:			Defense:			Effect (Set Bonus)
+Armor:					Defense:			Effect (Set Bonus)
 Plant Plate Armor		1 - 1 - 1			Grass Attacks are multiplied by 1.25
-Copper Armor		1 - 2 - 1			
-Iron Armor		2 - 2- 1			
-Silver Armor		2 - 2 - 2			
-Tungsten Armor		3 - 3 - 3			
-Gold Armor		4 - 4 - 4			
-Titanium Armor		5 - 6 - 5			
-Durasite Armor		6 - 8 - 6			
-Saltulium Armor		8 - 9 - 7			You are immune from critical hits, and poison
-Ferozium Armor		9 - 10 - 9		You can walk on water and can freeze enemies
-Superbium Armor		10 - 12 - 10		You release a shower of crystals upon being damaged
-Solarium Armor		12 - 14 - 12		Fire attacks are reduced by 0.5, you can swim in lava, and 							you attacks inflict burns
-Shadow Armor		15 - 15 - 15		You have a chance to instantly kill any non boss or non 							legendary Pokémon.
+Copper Armor			1 - 2 - 1			
+Iron Armor				2 - 2- 1			
+Silver Armor				2 - 2 - 2			
+Tungsten Armor			3 - 3 - 3			
+Gold Armor				4 - 4 - 4			
+Titanium Armor			5 - 6 - 5			
+Durasite Armor			6 - 8 - 6			
+Saltulium Armor			8 - 9 - 7			You are immune from critical hits, and poison
+Ferozium Armor			9 - 10 - 9		You can walk on water and can freeze enemies
+Superbium Armor		10 - 12 - 10	You release a shower of crystals upon being damaged
+Solarium Armor			12 - 14 - 12	Fire attacks are reduced by 0.5, you can swim in lava, and you attacks inflict burns
+Shadow Armor			15 - 15 - 15	You have a chance to instantly kill any non boss or non legendary Pokémon.
 
 Craft
 Plant Plate Armor		3 Plant Plate - 4 Plant Plate - 3 Plant Plate

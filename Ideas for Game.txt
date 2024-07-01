@@ -64,3 +64,9 @@ Add a random cave with sand and chests and ruins and deserty shit
 Add sunken treasure
 
 Add a falling star event in dungeons that yield stardust
+
+Make it so that Pokemon that are terrified, when they are backed into a corner, will shiver and have a chance of fighting back and dealing massive damage.
+
+Add a divine altar out side the bounds of the map.
+
+Add a random lightning strike event

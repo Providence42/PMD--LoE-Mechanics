@@ -1,30 +1,30 @@
 ~ Orbs:
 Align Orb
-	Makes teammates' HP equal that of the teammate with the highest HP.
+	An orb that, makes teammates' HP equal that of the teammate with the highest HP.
 All Dodge Orb
-	Greatly increases the evasion of the user's team.
+	An orb that, greatly increases the evasion of the user's team.
 All-Hit Orb
-	Greatly increases the critical hit ratio of the user's team.
+	An orb that, greatly increases the critical hit ratio of the user's team.
 All-Mach Orb
-	Greatly boosts the movement Speed of the user's team.
+	An orb that, greatly boosts the movement Speed of the user's team.
 All Power-Up Orb
-	Greatly increases the Attack and Sp. Atk. of the user's team.
+	An orb that, greatly increases the Attack and Sp. Atk. of the user's team.
 All Protect Orb
-	Will give the Protect status to all members of the user's team. The larger the team, the longer the status lasts.
+	An orb that, will give the Protect status to all members of the user's team. The larger the team, the longer the status lasts.
 Apathy Orb
-	Using this orb will make the floor Apathetic, making any enemy drop the item they are holding and unable to pickup any more. Their movement Speed is also lowered upon the use of this item, but not for the entire duration 	of the floor.
+	Using this orb will make the floor Apathetic, making any enemy drop the item they are holding and unable to pickup any more. Their movement Speed is also lowered upon the use of this item, but not for the entire duration of the floor.
 Bank Orb
 	Using this item will deposit all money on the user into storage.
 Beatup Orb
-	It will summon all members of the team around the user.
+	An orb that, will summon all members of the team around the user.
 Blowback Orb
-	When used, it sends an enemy in front of the user flying back for 10 tiles. If the enemy hits a Pokémon or a 	wall tile, it will take 10 damage.
+	When used, it sends an enemy in front of the user flying back for 10 tiles. If the enemy hits a Pokémon or a wall tile, it will take 10 damage.
 Cleanse Orb
-	It will cleanse any sticky items in the inventory, re-allowing use.
+	An orb that, will cleanse any sticky items in the inventory, re-allowing use.
 Decoy Orb	
-	It will turn a Pokémon in front into a Decoy, causing all enemy Pokémon to attack it.
+	An orb that, will turn a Pokémon in front into a Decoy, causing all enemy Pokémon to attack it.
 Devolve Orb
-	An extremely powerful orb that devolves enemy Pokémon by one stage when smashed. Stage one Pokémon are 	unaffected.
+	An extremely powerful orb that devolves enemy Pokémon by one stage when smashed. Stage one Pokémon are unaffected.
 Drought Orb
 	An orb that will dry up all water on the floor when smashed.
 Escape Orb
@@ -46,42 +46,57 @@ Health Orb
 Helper Orb
 	An orb that, when smashed, will summon a randomly selected rescue team to join your party for the dungeon.
 Hurl Orb
-	An orb with a gust inside of it. When smashed against a Pokémon, it will be hurled toward another enemy 	Pokémon.
+	An orb with a gust inside of it. When smashed against a Pokémon, it will be hurled toward another enemy Pokémon.
 Identify Orb
-	An orb that, when smashed, will identify all Pokémon on the floor, and specially mark the ones holding items. It 	will also identify: items on the ground, traps, buried items in walls and floor, and money.
+	An orb that, when smashed, will identify all Pokémon on the floor, and specially mark the ones holding items. It will also identify: items on the ground, traps, buried items in walls and floor, and money.
 Invisify Orb
 	An item that will turn the entire team invisible when smashed.
 Inviting Orb
 	An orb with an inviting aroma. When smashed, the user gains a boosted recruitment rate.
 Itemizer Orb
-	An orb that, when smashed against a Pokémon, will turn them into a random item, featured in the dungeon. 	Includes the standard item, shop item, buried item, and treasure item loot pool.
+	An orb that, when smashed against a Pokémon, will turn them into a random item, featured in the dungeon. Includes the standard item, shop item, buried item, and treasure item loot pool.
 Lasso Orb
 	An orb that, when smashed, will summon all Pokémon on the floor to the user's location, and immobilize them.
 Lob Orb
 	An orb that, when smashed, will inflict 20-40 damage on an opponent from 2 tiles away.
 Longtoss Orb
-	An orb that, when smashed, the user will be able to throw items until they hit something. Does not work on 	rocks.
+	An orb that, when smashed, the user will be able to throw items until they hit something. Does not work on rocks.
 Luminous Orb
 	An orb that, when smashed, reveals the entire floor to the user and the stairs. It does not reveal anything else.
 Mobile Orb
 	An orb that, when smashed, will allow the user to walk through walls.
 Monster Orb
+	An orb that will summon a Monster House. If there was already a Monster House, a shop, or an unactivated Monster House, the orb will have no effect.
 Mug Orb
+	An orb that will deal damage to an enemy in front and steal an item they are carrying. If an item is stolen, it will go into the bag. If the bag is full the item will not be stolen.
 Nullify Orb
-Observer Orb
+	An orb that will nullify all effects of all Pokémon abilities on the floor. This effect disappears after leaving the floor.
+//Observer Orb
+//	An orb that 
 One-Room Orb
+	An orb that will knock down all the walls of the dungeon, turning the floor into one big room. If there is a Monster House on the floor, it will activate.
 One-Shot Orb
+	An orb that has a small chance to one-shot a foe in front. If your Level is greater than the target's you will gain an increase in the hit chance. The higher the Level of the user, the higher the chance for a one-shot.
 Petrify Orb
+	An orb that will Petrify all enemies in the room.
 Pierce Orb
+	An orb that will give your the Pierce status, allowing thrown items to pierce through enemies.
 Possess Orb
-	An orb that will break upon the fainting or death of the team leader, if in the bag. If a Pokémon is holding this 	item, they will gain the effect instead. When this orb breaks, the fainted or dead Pokémon will possess a 	member of their team with the lowest HP, replacing them for the rest of the dungeon. The possessed Pokémon 	will be revived at the end of the dungeon.
+	An orb that will break upon the fainting or death of the team leader, if in the bag. When this orb breaks, the fainted or dead Pokémon will possess a member of their team with the lowest HP, replacing them for the rest of the dungeon. The possessed Pokémon will be revived at the end of the dungeon. If a Pokémon is holding this item, they will gain the effect instead, regardless of HP.
 Pounce Orb
+	When smashed, the user will ''pounce'' in the direction they are facing. They will continue traveling until they hit a wall or a Pokémon.
 Quick Orb
-Radar Orb	
+	When smashed, the Movement Speed of you and your team (in the room) will be boosted by one level.
+Radar Orb
+	When smashed, it allows you to see enemies on the map for one floor.
 Rainy Orb
+	When smashed, it will change the weather of the floor to Rainy.
 Rebound Orb
+	When smashed, it will grant the user the Mini-Counter status, reflecting 1/4th of all Physical attacks.
 Reset Orb
-Revive All Orb
+	When smashed, it will reset all status effects of all members of you and your team (in the room).
+Resurrection Orb
+	When smashed, it will resurrect all fainted Pokémon on your team. This does not work if they are dead, ironically.
 Reviver Orb
 Rocky Orb	
 Rollcall Orb

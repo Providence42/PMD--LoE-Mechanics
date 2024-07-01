@@ -66,6 +66,10 @@ Pineapple
 Steak
 	A tangy and hard piece of cooked meat from the Arachnicattle farmed in the Sanctuary.
 	Restores 75 Belly.
+Life Berries
+	A bunch of small, scarlet, life-restoring berries. They taste like cherries, strawberries, and raspberries.
+	Restores 30 Belly.
+	Restores 75 HP.
 
 ~ Drinks:
 See "Drinks and Brews.txt" for more options. (Mainly bases for brews like Water)

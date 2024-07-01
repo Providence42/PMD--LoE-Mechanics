@@ -45,7 +45,7 @@ Riolu
 Skorupi
 Shinx
 
-~ GEN 5: (7)
+~ GEN 5: (10)
 Snivy
 Tepig
 Oshawott
@@ -53,14 +53,18 @@ Axew
 Roggenrola
 Zorua
 Cubchoo
+~ Minccino
+~ Munna
+~ Drilbur
 
-~ GEN 6: (6)
+~ GEN 6: (8)
 Chespin
 Fennekin
 Froakie
-//Litleo
+~ Litleo
 Swirlix
 Inkay
+~ Espurr
 
 ~ //Probably not
 ~ GEN 7:

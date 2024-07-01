@@ -27,7 +27,7 @@ Cold: Nothing drastic.
 Normal
 Warm: Nothing drastic.
 Hot: You will be more susceptible to Fire type attacks.
-Burning: You will be inflicted with Hyperthermia. Fire attacks will set you On Fire (Flaming) instead of inflicting a Burn.
+Burning: You will be inflicted with Hyperthermia. Fire attacks will set you On Fire (Ignited) instead of inflicting a Burn.
 
 Type match ups can mitigate the effects of temperature. For example, Fire type Pokémon would resist Hypothermia as it deals ice damage.
 

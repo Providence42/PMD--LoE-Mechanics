@@ -20,7 +20,7 @@ Cloudy
 Harsh Sunlight
 	The sun light is beginning to burn your skin. Fire type move damage is tripled and Water type move damage is trisected. Pokémon who are greatly effected by the Fire type cannot naturally regenrate HP and will take 2-3 damage every 10 turns. Explosive damage (like Explosion, Self-Destruct, Blast Seed, etc...) is tripled. Pokémon affected by a Burn will take 2 damage every turn.
 Heavy Rain
-	The rain begins to grow into a relentless battering of water. Water type move damage is tripled while Fire type move damage is quarterd. Pokémon who are greatly effected by the Water type cannot naturally regenrate HP and take 2-3 damage every 10 turns. The floor becomes Defused (all explosives are disabled). Pokémon affected by a Burn will take 1-2 damage every 10 turns.
+	The rain grows into a relentless battering of water. Water type move damage is tripled while Fire type move damage is quarterd. Pokémon who are greatly effected by the Water type cannot naturally regenrate HP and take 2-3 damage every 10 turns. The floor becomes Defused (all explosives are disabled). Pokémon affected by a Burn will take 1-2 damage every 10 turns.
 Windy
 	The howling winds pick up. Moves that would greatly affect Flying type Pokémon will only be normally effective. Flying type moves will be doubled.
 Rainbow Light

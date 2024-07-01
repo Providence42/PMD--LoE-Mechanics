@@ -12,7 +12,7 @@ Multimach (7 MP) (Lv. 9) (Fighting)
 	75 ACC
 	
 Molten Hatchet (15 MP) (Lv. 18) (Fire)
-	You throw a molten hatchet at an enemy in front of the caster dealing damage and potentially setting the attacker on fire (Flaming debuff).
+	You throw a molten hatchet at an enemy in front of the caster dealing damage and potentially setting the attacker on fire (Ignited debuff).
 	8 PWR
 	90 ACC
 	
@@ -22,7 +22,7 @@ Solar Spear (35 MP) (Lv. 30) (Fire)
 	100 ACC
 	
 ThunderPound (35 MP) (Lv. 37) (Electric)
-	You jump up and bound the ground with an electric slam dealing damage to all enemies in a 1 tile radius around the player.
+	You jump up and pound the ground with an electric slam dealing damage to all enemies in a 1 tile radius around the player.
 	8 PWR
 	100 ACC
 	PAR: 30%
@@ -65,7 +65,7 @@ Venom Shot (7 MP) (Lv. 14) (Poison)
 	
 ~ Defensive:
 ~ Heal:
-Viviatic Bolt (20 MP) (Fairy)
+Viviatic Bolt (35 MP) (Fairy)
 	You release a large bolt of healing energy that heals 1/4 of the target's Max HP.
 
 
@@ -73,8 +73,8 @@ Viviatic Bolt (20 MP) (Fairy)
 
 ~~ Warlock:
 ~ Offensive:
-ThunderSpark (3 MP) (Lv. 1) (Electric)
-	You release a shower of small sparks in a straight line with a 2 tile range. It has a small chance to paralyze.
+Thunderspark (3 MP) (Lv. 1) (Electric)
+	You release a shower of small sparks in a straight line in front of you. It has a small chance to paralyze.
 	2 PWR
 	75 ACC
 
@@ -102,7 +102,7 @@ Hellish Burst (10 MP) (Lv. 20) (Dark)
 	CRT: 16%
 	
 Winter's Frost (17 MP) (Lv. 24) (Ice)
-	You release a wave of cold frost that damages all enemies in the tile right in front of you, right to the left of you, and right to the right of you. It has a chance at freezing them.
+	You release a wave of cold frost that damages all enemies in the tile right in front of you, to the left of you, and to the right of you. It has a chance at freezing them.
 	5 PWR
 	80 ACC
 	FRZ: 30%
@@ -120,13 +120,31 @@ Knowlege Storm (25 MP) (Lv. 35) (Psyhcic)
 	
 Nuclear Fury (35 MP) (Lv. 40) (Dark)
 	You release a small bolt of green radiation energy that explodes into a small nuclear explosion upon contact with a surface or person.
-	15 PWR
+	20 PWR
 	75 ACC
 	Radiation: 50%
+	Range: Line of sight
+	
+Disentegrate (40 MP) (Lv. 46) (Dark)
+	You release a small green ray that has a high critical hit rate and high power. If the opponent is defeated by this spell, they are killed instantly and leave behind Penumbric Dust.
+	12 PWR
+	95 ACC
+	CRT: 16%
+	Range: Line of sight
 	
 Supernova (50 MP) (Lv 64) (Normal)
 	You release a massive explosion of energy that massively damages any foe in front.
-	30 PWR
+	45 PWR
+	
+Power Word: Kill (200 MP) (Lv. 100) (Dark)
+	You utter a word of power that can compel any Pokémon or human to die instantly. If the Pokémon has 100 HP or lower it dies. Resistances or weaknesses to the Dark type will increase or decrease the level of HP needed for death.
+		70 HP: For Not-Very Effective
+		30 HP: For Little Effect
+		10 HP: For Very Little Effect
+		140 HP: For Super Effective
+		200 HP: For Super-Duper Effective
+		
+	Range: In front, cuts corners
 	
 ~ Defensive:
 Shield (Lv. 8) (10 MP)
@@ -139,14 +157,16 @@ Shockwave (Lv. 27) (35 MP)
 	100 ACC
 	
 Spirit Aura
-	You release an aura of energy that surrounds the caster for a 2 tile radius. If an enemy Pokémon steps inside the aura, they will take 1/15th their maximum HP in damage.
+	You release an aura of energy that surrounds the caster for a 2 tile radius. If an enemy Pokémon steps inside the aura, they will take some damage for every turn they are in the aura.
+	4 PWR
+	
 Counterspell (Lv. 22) (25 MP)
 	You reaction cast a swift shield of magic that can nullify incoming Special attacks, and reduce damage on Special contact attacks. In order to nullify the attack, you must be 5 levels higher than your enemy for a guaranteed block. If these conditions are not met, then a random roll involving your Speed, the enemy's Speed, your Level, and your enemy's Level occurs. Upon a succesful block, it uses up your turn.
 
 
 ~ Heal:
 Touch of Life (15 MP)
-	You restore 20% of the target's current HP. You can also remove Burn and Poison.
+	You restore 20% of the target's Max HP. You can also remove Burn and Poison.
 Greater Lifeup
 Super Lifeup
 Omega Lifeup
@@ -160,10 +180,22 @@ Void Blink (45 MP)
 ~~ Classless:
 ~ Offensive:
 ~ Defensive:
+Bubblebreath (30 MP) (Water)
+	You release a cloud of bubbles that make you immune to dungeon debuffs and minor status effects. You can also breathe underwater (you can walk on water).
+
 ~ Healing:
 Lesser Lifeup (35 MP)
 	A spell that restores some HP at the cost of a lot of MP.
 Lifeup
+
+Rejuvinate (7 MP)
+	A spell that heals minor status conditions such as:
+		Poison
+		Burn
+		Frostburn
+		Paralyze
+		Sleep
+	Range: In front/self
 
 ~ Others:
 Dispel Magic (25 Mage, 45 for Melee and Ranger)

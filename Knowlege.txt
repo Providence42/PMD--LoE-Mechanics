@@ -26,6 +26,8 @@ Split stuff into learn upon arrival and percentage based
 	Will boost HP by 10.
 40: Path Master
 	Will choose efficient pathing (A*)
+48: Quick Attacker
+	Lowers the penalty for attacking multiple times per turn.
 50: Eagle Eyes
 	Can see through fog.
 85: Omniscient
@@ -35,6 +37,7 @@ Split stuff into learn upon arrival and percentage based
 0: Nothing
 2: Use Diagonals
 4: Use Moves other than Basic Attack.
+6: Check for corners.
 10: Can attempt to catch thrown items
 15: Can use items effectively (As in when they need too)
 17: Can use status moves effectively

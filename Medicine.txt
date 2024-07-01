@@ -50,7 +50,7 @@ Frost Berry
 Poison Berry
 	A horriblly poisoned berry. When eaten, it will Badly Poison the eater.
 Molten Berry
-	A fiery berry with a molten center. When eaten, it will set the eater On Fire (Flaming).
+	A fiery berry with a molten center. When eaten, it will set the eater On Fire (Ignited).
 
 
 
@@ -148,6 +148,10 @@ Oran Berry Brew
 	Restors 60 HP.
 Healing Brew
 	Crafting:
+		(1) Oran Berry Brew
+		(3) Life Berries
+		(1) Water Bottle
+		(1) Sugar
 		
 	A strongly tasting vile of red liquid, crafted out of rare healing ingredients for serious illneses.
 	'Tastes like Pepto Bismol...'
@@ -196,8 +200,13 @@ Antidote
 		(2) Pecha Berry
 		Water Bottle
 		
-	A brewed mixture of poison healing items that fully cures poison.
-
+	A brewed mixture of poison healing items that fully cures poison and Bad Poison.
+Aloe Vera Gel
+	Crafted Item:
+		(2) Rawst Berry
+		Water Bottle
+	
+	A brewed mixure of burn healing items that fully cures burns and Ignited.
 
 ~ Stat Boosting Brews:
 Harden Brew
@@ -230,7 +239,10 @@ Wrath Brew
 	A brew with a powerful crimson liquid. When drunk, it boosts your Strength by 1.5x for the dungeon. If you drink more of this brew, it will not stack.
 Royal Brew
 	A brew with a thinking royal liquid. When drunk, it boosts your Intelligence by 1.5x for the dungeon. If you drink more of this brew, it will not stack.
-	
+
+~ Special:
+Sphere of Divinity
+	A legendary item that allows you to resurrect one dead party member from the grave.
 
 ~~ Ingredients:
 	See "Ingredients.txt"

@@ -1,4 +1,4 @@
-Mechanics:
+~ Mechanics:
 Base Mechanics:
 	There is a set amount of armor points that a character has.
 	Pokémon: 8 * evolution level
@@ -14,43 +14,51 @@ Base Mechanics:
 		D = Sp. Defense
 
 	AP is also boosted by floor(D / 35)
-	You can only equip enough armor to use the armor points. If you run out or have less than the armor piece you 	are trying to equip, then you cannot equip it.
+	You can only equip enough armor to use the armor points. If you run out or have less than the armor piece you are trying to equip, then you cannot equip it.
+
 How To Get:
 	You can find armor, craft it (with help), or can be given it.
 
-Armor Stats:
-Material Types:
+~~ Armor Stats:
+~ Material Types:
 Plate
-	6 AP
+	7 AP
 	-10 SP (Speed)
-	7 DF
+	12 DF
+	Reduce Bludgoning attacks by 0.9x
 Hide
 	2 AP
 	5 SP
 	3 DF
 	3 SD
 	Can only be made out of specific materials
+	Reduce Ranged attacks by 0.9x
 Chain
 	3 AP
-	5 DF
+	6 DF
+	Reduce Piercing attacks by 0.75x
 Scale
-	4 AP
-	5 DF
+	5 AP
+	9 DF
+	Reduce Slashing attacks by 0.9x
 
-Armor Types:
+
+~ Armor Types:
 Helmet
-	8 Defense
+	5 Defense
 Hat
 	2 Defense
 	3 Sp. Defense
 	Only out of hide.
 Breastplate
-	10 Defense
+	5 Defense
 	Only out of plate
 Shirt
 	5 Defense
 	3 Sp. Defense
 	Only out of everything else
+	
+//The following are probably not going to be included
 Greaves
 	7 Defense
 Leggings
@@ -88,7 +96,7 @@ Superbium
 	3 Sp. Defense
 	5 Vigor
 	1 AP
-	Reduces physical attacks by 0.8x
+	Reduces physical attacks by 0.75x
 Solarium
 	9 Defense
 	5 Sp. Defense
@@ -100,4 +108,4 @@ Shadow
 	3 AP
 	3 Vigor, Wisdom, Dexterity
 	Will linflict Voidflames upon contact with a 30% chance.
-	If you have more than one piece equipped, you will take Void damamge with every attack taken. The more pieces 	the more damage.
+	If you have more than one piece equipped, you will take Void damamge with every attack taken. The more pieces the more damage.

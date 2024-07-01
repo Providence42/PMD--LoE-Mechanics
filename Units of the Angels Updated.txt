@@ -1,0 +1,34 @@
+~~ Structures of the Corps of Destiny:
+~ Land:
+Rescue Team
+	4 Mons
+	Lance Corporal
+Squad
+	2 Rescue Teams
+	9 Mons
+	Corporal
+Section
+	2 Sections
+	19 Mons
+	Sergeant
+Platoon
+	The smallest complete structure for exploring a dungeon.
+	2 Sections
+	40 Mons
+	Lieutenant / Centurion
+Company
+	3 Platoons
+	121 Mons
+	Captain / Company Prefect
+Battalion
+	3 Companies
+	365 Mons
+	Major / Battalion Prefect
+Regiment
+	3 Battalions
+	1097 Mons
+	Colonel / Regimental Legate
+Division
+	5 Regiments
+	5487 Mons
+	Major-General / Prime Legate
